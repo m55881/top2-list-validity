@@ -52,7 +52,7 @@ A full rerun on October 26, 2026 reproduced both derived data files and every fi
 | File expected | Source |
 |---|---|
 | `data/stanford/v2_career.parquet`, `v2_single.parquet` | Version 2 (2020) of “Updated science-wide author databases of standardized citation indicators”, Tables S6 and S7, DOI 10.17632/btchxktzyw.2. Convert with `scripts/to_parquet.py` |
-| `data/stanford/v9_career.parquet` | 2026 version of the same database (career-long table) |
+| `data/stanford/v9_career.parquet` | Version 9 (2026) of the same database, career-long table, DOI 10.17632/btchxktzyw.9 |
 | `data/grants_raw/` | Funder award lists (NIH RePORTER, Wellcome, UKRI Gateway to Research, CIHR, KAKEN, NHMRC, ERC). Only needed to rerun `linkage/standardize_criteria.py`; the standardized lists are in `data/derived/criterion_awards.csv` |
 
 URLs, retrieval dates and checksums for every source file are listed in the OSF registration.
@@ -94,7 +94,7 @@ These are reported in the manuscript (Methods and eTable 1):
 ## Licences
 
 - **Code:** MIT (`LICENSE`).
-- **Derived data and linkage records:** CC BY 4.0 (`DATA_LICENSE.md`), subject to the terms of the upstream sources listed there.
+- **Data (derived data, linkage records, results):** CC BY-NC 4.0 (`DATA_LICENSE.md`), because they adapt the Stanford–Elsevier database, which is licensed CC BY-NC 3.0. Non-commercial reuse only.
 - **Personal data:** The criterion lists contain names and affiliations as published by academies and funders. They are shared only to allow verification of the linkage.
 
 ## Use of AI
