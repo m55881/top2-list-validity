@@ -1,0 +1,13 @@
+{
+  "title": "Top 2% List Validity: code and data (v1.0.0)",
+  "upload_type": "software",
+  "description": "Code (MIT licence), derived data and record-linkage audit trail (CC BY-NC 4.0) for a preregistered criterion-validity study of the Stanford–Elsevier top 2% list in health sciences research. The data adapt the Stanford–Elsevier database (CC BY-NC 3.0), so the archive as a whole is CC BY-NC 4.0. See README.md and DATA_LICENSE.md.",
+  "creators": [
+    {
+      "name": "Alotaibi, Mansour M.",
+      "affiliation": "Northern Border University"
+    }
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open"
+}
