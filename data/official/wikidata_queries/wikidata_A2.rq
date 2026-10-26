@@ -1,0 +1,25 @@
+SELECT ?person ?scopus ?awardName ?date ?personLabel ?familyLabel ?born ?died WHERE {
+  VALUES ?awardName {
+    "Nobel Prize in Physics"@en "Nobel Prize in Chemistry"@en
+    "Nobel Prize in Physiology or Medicine"@en
+    "Nobel Memorial Prize in Economic Sciences"@en
+    "Lasker Award"@en "Albert Lasker Award for Basic Medical Research"@en
+    "Lasker-DeBakey Clinical Medical Research Award"@en
+    "Breakthrough Prize in Life Sciences"@en "Breakthrough Prize in Fundamental Physics"@en
+    "Breakthrough Prize in Mathematics"@en
+    "Wolf Prize in Physics"@en "Wolf Prize in Chemistry"@en "Wolf Prize in Medicine"@en
+    "Wolf Prize in Mathematics"@en "Wolf Prize in Agriculture"@en
+    "Kavli Prize in Astrophysics"@en "Kavli Prize in Nanoscience"@en "Kavli Prize in Neuroscience"@en
+    "Fields Medal"@en "Abel Prize"@en "Turing Award"@en "Crafoord Prize"@en
+    "Shaw Prize"@en "Japan Prize"@en "Gairdner Foundation International Award"@en
+    "King Faisal Prize"@en "Copley Medal"@en "Royal Medal"@en
+  }
+  ?award rdfs:label ?awardName .
+  ?person p:P166 ?st . ?st ps:P166 ?award .
+  OPTIONAL { ?st pq:P585 ?date }
+  OPTIONAL { ?person wdt:P1153 ?scopus }
+  OPTIONAL { ?person wdt:P734 ?family }
+  OPTIONAL { ?person wdt:P569 ?born }
+  OPTIONAL { ?person wdt:P570 ?died }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

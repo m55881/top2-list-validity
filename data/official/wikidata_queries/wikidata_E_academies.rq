@@ -1,0 +1,23 @@
+SELECT ?person ?crit ?when (SAMPLE(?name) AS ?label) (SAMPLE(?family) AS ?familyName)
+  (GROUP_CONCAT(DISTINCT ?alias; separator="|") AS ?aliases)
+  (SAMPLE(?birth) AS ?born) (SAMPLE(?death) AS ?died)
+  (GROUP_CONCAT(DISTINCT ?cit; separator="|") AS ?citizenship) (SAMPLE(?scopus) AS ?scopusId)
+WHERE {
+  VALUES ?crit {
+    "National Academy of Sciences"@en "National Academy of Medicine"@en "National Academy of Engineering"@en
+    "German National Academy of Sciences Leopoldina"@en "Leopoldina"@en "French Academy of Sciences"@en
+    "Australian Academy of Science"@en "Royal Society of Canada"@en "Chinese Academy of Sciences"@en
+    "Chinese Academy of Engineering"@en "Academy of Medical Sciences"@en
+  }
+  ?body rdfs:label ?crit .
+  ?person p:P463 ?st . ?st ps:P463 ?body .
+  OPTIONAL { ?st pq:P580 ?when }
+  OPTIONAL { ?person rdfs:label ?name FILTER(LANG(?name)="en") }
+  OPTIONAL { ?person skos:altLabel ?alias FILTER(LANG(?alias)="en") }
+  OPTIONAL { ?person wdt:P734 ?fn . ?fn rdfs:label ?family FILTER(LANG(?family)="en") }
+  OPTIONAL { ?person wdt:P569 ?birth }
+  OPTIONAL { ?person wdt:P570 ?death }
+  OPTIONAL { ?person wdt:P27 ?c . ?c wdt:P298 ?cit }
+  OPTIONAL { ?person wdt:P1153 ?scopus }
+}
+GROUP BY ?person ?crit ?when

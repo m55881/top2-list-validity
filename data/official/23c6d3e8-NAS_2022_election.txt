@@ -1,0 +1,158 @@
+FILE: NAS_2022_election.txt
+SOURCE: US National Academy of Sciences official Member Directory, filtered by Election Year = 2022 (https://www.nasonline.org/membership/member-directory/?_election_year=2022)
+WHY DIRECTORY: the 2022 election press release is no longer on nasonline.org after the site relaunch; the directory is the official replacement.
+RETRIEVED: 2026-10-10T11:12:34.235Z
+TOTAL RESULTS: 150 (records captured: 150)
+NOTE: membership type is CURRENT status (e.g. Emeritus), not necessarily the type at election.
+FORMAT: Name | Current membership type | Institution | Section(s) | Profile URL
+
+Evan Dale Abel | Member | David Geffen School of Medicine at UCLA | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 23: Physiology and Pharmacology | https://www.nasonline.org/directory-entry/evan-dale-abel-yerhuc/
+Katharine G. Abraham | Member | University of Maryland, College Park | Primary Section 54: Economic Sciences | https://www.nasonline.org/directory-entry/katharine-g-abraham-zmce0i/
+Alfred V. Aho | Member | Columbia University | Primary Section 34: Computer and Information Sciences | https://www.nasonline.org/directory-entry/alfred-v-aho-h4vlrh/
+Scott Atran | Member | Artis International | Primary Section 51: Anthropology | Secondary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/scott-atran-glabdp/
+Christopher B. Barrett | Member | Cornell University | Primary Section 64: Human Environmental Sciences | Secondary Section 54: Economic Sciences | https://www.nasonline.org/directory-entry/christopher-b-barrett-zuubfb/
+Kamaljit S. Bawa | International Member | University of Massachusetts at Boston | Primary Section 64: Human Environmental Sciences | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/kamaljit-s-bawa-ixdq2g/
+Angela M. Belcher | Member | Massachusetts Institute of Technology | Primary Section 31: Engineering Sciences | Secondary Section 14: Chemistry | https://www.nasonline.org/directory-entry/angela-m-belcher-jlgkqn/
+Elena M. Bennett | Member | McGill University | Primary Section 63: Environmental Sciences and Ecology | Secondary Section 64: Human Environmental Sciences | https://www.nasonline.org/directory-entry/elena-m-bennett-0iparp/
+Jean Bennett | Member | University of Pennsylvania, Perelman School of Medicine | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 24: Cellular and Molecular Neuroscience | https://www.nasonline.org/directory-entry/jean-bennett-2net24/
+Gregory C. Beroza | Member | Stanford University | Primary Section 16: Geophysics | Secondary Section 15: Geology | https://www.nasonline.org/directory-entry/gregory-c-beroza-f8xrt1/
+Nicolas J. Beukes | International Member | August 25, 1945 - January 9, 2023 | https://www.nasonline.org/directory-entry/nicolas-j-beukes-q4tkxz/
+Yonas Beyene Gebremichael | International Member | Centre Francais des Etudes Ethiopiennes | Primary Section 51: Anthropology | https://www.nasonline.org/directory-entry/yonas-beyene-gebremichael-rubtr7/
+James J. Binney | International Member | University of Oxford | Primary Section 12: Astronomy | https://www.nasonline.org/directory-entry/james-j-binney-cob2zm/
+Robert A. Bjork | Member | University of California, Los Angeles | Primary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/robert-a-bjork-9q9qu6/
+Fedor A. Bogomolov | Member | New York University | Primary Section 11: Mathematics | https://www.nasonline.org/directory-entry/fedor-a-bogomolov-t3ilhd/
+Olga Boudker | Member | Weill Cornell Medical College | Primary Section 29: Biophysics and Computational Biology | https://www.nasonline.org/directory-entry/olga-boudker-tuohrf/
+Joan B. Broderick | Member | Texas A&M University-College Station | Primary Section 21: Biochemistry | Secondary Section 14: Chemistry | https://www.nasonline.org/directory-entry/joan-b-broderick-6jhxcg/
+Eduardo S. Brondizio | Member | Indiana University at Bloomington | Primary Section 64: Human Environmental Sciences | Secondary Section 51: Anthropology | https://www.nasonline.org/directory-entry/eduardo-s-brondizio-ghfbkx/
+John Browse | Member | Washington State University | Primary Section 25: Plant Biology | Secondary Section 62: Plant, Soil, and Microbial Sciences | https://www.nasonline.org/directory-entry/john-browse-ljq5dm/
+Elizabeth A. Buffalo | Member | University of Washington School of Medicine | Primary Section 28: Systems Neuroscience | Secondary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/elizabeth-a-buffalo-hw45by/
+Alison Butler | Member | University of California, Santa Barbara | Primary Section 14: Chemistry | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/alison-butler-h2vgze/
+Arturo Casadevall | Member | Johns Hopkins Bloomberg School of Public Health | Primary Section 44: Microbial Biology | Secondary Section 43: Immunology and Inflammation | https://www.nasonline.org/directory-entry/arturo-casadevall-936bmy/
+Howard Cedar | Member | The Hebrew University of Jerusalem | Primary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/howard-cedar-gddoos/
+Clinton Chapple | Member | Purdue University | Primary Section 25: Plant Biology | Secondary Section 62: Plant, Soil, and Microbial Sciences | https://www.nasonline.org/directory-entry/clinton-chapple-h2qvsg/
+Deborah Charlesworth | International Member | University of Edinburgh | Primary Section 27: Evolutionary Biology | Secondary Section 26: Genetics | https://www.nasonline.org/directory-entry/deborah-charlesworth-shsi23/
+Dudley B. Chelton | Member | Oregon State University | Primary Section 16: Geophysics | https://www.nasonline.org/directory-entry/dudley-b-chelton-c5urzv/
+Richard L. Church | Member | University of California, Santa Barbara | Primary Section 64: Human Environmental Sciences | https://www.nasonline.org/directory-entry/richard-l-church-xhahmz/
+William M. Clemons Jr. | Member | California Institute of Technology | Primary Section 29: Biophysics and Computational Biology | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/william-m-clemons-jr-dddepk/
+Hollis Cline | Member | Scripps Research | Primary Section 24: Cellular and Molecular Neuroscience | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/hollis-cline-50keg8/
+Jonathan C. Cohen | Member | The University of Texas Southwestern Medical Center | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 26: Genetics | https://www.nasonline.org/directory-entry/jonathan-c-cohen-3gylxc/
+France Anne-Dominic Córdova | Member | Science Philanthropy Alliance | Primary Section 13: Physics | Secondary Section 12: Astronomy | https://www.nasonline.org/directory-entry/france-anne-dominic-cordova-ji8bej/
+Yi Cui | Member | Stanford University | Primary Section 31: Engineering Sciences | Secondary Section 14: Chemistry | https://www.nasonline.org/directory-entry/yi-cui-b7b5a2/
+Donald J. Darensbourg | Member | Texas A&M University-College Station | Primary Section 14: Chemistry | https://www.nasonline.org/directory-entry/donald-j-darensbourg-bswypd/
+Juan J. de Pablo | Member | New York University | Primary Section 14: Chemistry | Secondary Section 31: Engineering Sciences | https://www.nasonline.org/directory-entry/juan-j-de-pablo-vzs0yi/
+Frederic J. de Sauvage | Member | Genentech | Primary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/frederic-j-de-sauvage-vtdwwc/
+Wanderley de Souza | International Member | Rio de Janeiro Federal University | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/wanderley-de-souza-608t2z/
+Ghislaine Dehaene-Lambertz | International Member | Centre National de la Recherche Scientifique | Primary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/ghislaine-dehaene-lambertz-qmdp8n/
+Job Dekker | International Member | University of Massachusetts Chan Medical School | Primary Section 26: Genetics | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/job-dekker-1qse9e/
+Amir Dembo | Member | Stanford University | Primary Section 32: Applied Mathematical Sciences | Secondary Section 11: Mathematics | https://www.nasonline.org/directory-entry/amir-dembo-os57kw/
+Betty A. Diamond | Member | The Feinstein Institute for Medical Research North Shore-LIJ Health System | Primary Section 43: Immunology and Inflammation | https://www.nasonline.org/directory-entry/betty-a-diamond-acjoxj/
+Paul DiMaggio | Member | New York University | Primary Section 53: Social and Political Sciences | https://www.nasonline.org/directory-entry/paul-dimaggio-ojlpdm/
+Lance Dixon | Member | SLAC National Accelerator Laboratory | Primary Section 13: Physics | https://www.nasonline.org/directory-entry/lance-dixon-pek5j4/
+David G. Drubin | Member | University of California, Berkeley | Primary Section 22: Cellular and Developmental Biology | Secondary Section 29: Biophysics and Computational Biology | https://www.nasonline.org/directory-entry/david-g-drubin-u3rmej/
+H. Jane Dyson | Member | Scripps Research | Primary Section 29: Biophysics and Computational Biology | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/h-jane-dyson-s1kbwl/
+Alice H. Eagly | Member | Northwestern University - Evanston | Primary Section 52: Psychological and Cognitive Sciences | Secondary Section 53: Social and Political Sciences | https://www.nasonline.org/directory-entry/alice-h-eagly-oopkil/
+Michael B. Elowitz | Member | California Institute of Technology | Primary Section 21: Biochemistry | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/michael-b-elowitz-1pyhhi/
+Anne Ephrussi | Member | European Molecular Biology Laboratory | Primary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/anne-ephrussi-iwgvgh/
+Zelig Eshhar | International Member | February 25, 1941 - July 3, 2025 | https://www.nasonline.org/directory-entry/zelig-eshhar-yocolh/
+Gordon Freeman | Member | Dana-Farber Cancer Institute | Primary Section 43: Immunology and Inflammation | Secondary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/gordon-freeman-crqemf/
+Joshua A. Frieman | Member | SLAC National Accelerator Laboratory | Primary Section 13: Physics | Secondary Section 12: Astronomy | https://www.nasonline.org/directory-entry/joshua-a-frieman-sntlbg/
+Susan M. Gasser | International Member | ISREC Foundation | Primary Section 26: Genetics | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/susan-m-gasser-a9cqqn/
+Matthew A. Gentzkow | Member | Stanford University | Primary Section 54: Economic Sciences | https://www.nasonline.org/directory-entry/matthew-a-gentzkow-fnnjsm/
+Daniel E. Goldberg | Member | Washington University School of Medicine in St. Louis | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/daniel-e-goldberg-e5otnx/
+Barney S. Graham | Member | Morehouse School of Medicine | Primary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/barney-s-graham-3otheh/
+Leonidas J. Guibas | Member | Stanford University | Primary Section 34: Computer and Information Sciences | Secondary Section 32: Applied Mathematical Sciences | https://www.nasonline.org/directory-entry/leonidas-j-guibas-ikwc8h/
+Alice Guionnet | International Member | Ecole Normale Superieure de Lyon | Primary Section 32: Applied Mathematical Sciences | Secondary Section 11: Mathematics | https://www.nasonline.org/directory-entry/alice-guionnet-tigxvn/
+Megan R. Gunnar | Member | University of Minnesota | Primary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/megan-r-gunnar-41vt9f/
+Michael Harris | Member | Columbia University | Primary Section 11: Mathematics | https://www.nasonline.org/directory-entry/michael-harris-rqqsrr/
+Craig J. Hawker | Member | University of California, Santa Barbara | Primary Section 14: Chemistry | Secondary Section 31: Engineering Sciences | https://www.nasonline.org/directory-entry/craig-j-hawker-8yjnuu/
+Mark E. Hay | Member | Georgia Institute of Technology | Primary Section 63: Environmental Sciences and Ecology | Secondary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/mark-e-hay-epvgly/
+Peter Hegemann | International Member | Humboldt University Berlin | Primary Section 23: Physiology and Pharmacology | Secondary Section 24: Cellular and Molecular Neuroscience | https://www.nasonline.org/directory-entry/peter-hegemann-qdtpje/
+Kristin A. Hogquist | Member | University of Minnesota | Primary Section 43: Immunology and Inflammation | https://www.nasonline.org/directory-entry/kristin-a-hogquist-xgspky/
+Robert D. Holt | Member | University of Florida | Primary Section 63: Environmental Sciences and Ecology | Secondary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/robert-d-holt-78q443/
+Linda Hsieh-Wilson | Member | California Institute of Technology | Primary Section 14: Chemistry | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/linda-hsieh-wilson-oydnh8/
+Yasmin L. Hurd | Member | Icahn School of Medicine at Mount Sinai | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 28: Systems Neuroscience | https://www.nasonline.org/directory-entry/yasmin-l-hurd-ic7h6i/
+Vincent Hutchings | Member | University of Michigan | Primary Section 53: Social and Political Sciences | https://www.nasonline.org/directory-entry/vincent-hutchings-sp1meh/
+Guido W. Imbens | Member | Stanford University | Primary Section 54: Economic Sciences | https://www.nasonline.org/directory-entry/guido-w-imbens-migxhz/
+Pablo Jarillo-Herrero | International Member | Massachusetts Institute of Technology | Primary Section 33: Applied Physical Sciences | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/pablo-jarillo-herrero-qlyknn/
+Yishi Jin | Member | University of California, San Diego | Primary Section 24: Cellular and Molecular Neuroscience | Secondary Section 26: Genetics | https://www.nasonline.org/directory-entry/yishi-jin-g49vwp/
+Svetlana Jitomirskaya | Member | University of California, Berkeley | Primary Section 11: Mathematics | Secondary Section 32: Applied Mathematical Sciences | https://www.nasonline.org/directory-entry/svetlana-jitomirskaya-o2zcpw/
+Mark Johnston | Member | University of Colorado School of Medicine | Primary Section 26: Genetics | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/mark-johnston-x3eiat/
+William D. Jones | Member | University of Rochester | Primary Section 14: Chemistry | https://www.nasonline.org/directory-entry/william-d-jones-ozg1ol/
+Erik Jorgensen | Member | University of Utah | Primary Section 23: Physiology and Pharmacology | Secondary Section 24: Cellular and Molecular Neuroscience | https://www.nasonline.org/directory-entry/erik-jorgensen-n4apja/
+James T. Kadonaga | Member | University of California, San Diego | Primary Section 21: Biochemistry | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/james-t-kadonaga-mdxzew/
+Takaaki Kajita | International Member | The University of Tokyo | Primary Section 13: Physics | https://www.nasonline.org/directory-entry/takaaki-kajita-oitxdd/
+Mark A. Kasevich | Member | Stanford University | Primary Section 13: Physics | https://www.nasonline.org/directory-entry/mark-a-kasevich-wdfisd/
+Young-Kee Kim | Member | The University of Chicago | Primary Section 13: Physics | https://www.nasonline.org/directory-entry/young-kee-kim-rsnten/
+Charles B. Kimmel | Member | University of Oregon | Primary Section 22: Cellular and Developmental Biology | Secondary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/charles-b-kimmel-hqaiz5/
+Nicole King | Member | University of California, Berkeley | Primary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/nicole-king-sndof8/
+Roberta L. Klatzky | Member | Carnegie Mellon University | Primary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/roberta-l-klatzky-f5o1lt/
+Timothy A. Kohler | Member | Washington State University | Primary Section 51: Anthropology | https://www.nasonline.org/directory-entry/timothy-a-kohler-c29qvf/
+Alex L. Kolodkin | Member | Johns Hopkins University School of Medicine | Primary Section 24: Cellular and Molecular Neuroscience | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/alex-l-kolodkin-i8bapm/
+Lee R. Kump | Member | The Pennsylvania State University - University Park | Primary Section 15: Geology | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/lee-r-kump-fdvotq/
+David P. Lane | International Member | Karolinska Institutet | Primary Section 41: Medical Genetics, Hematology, and Oncology | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/david-p-lane-ij4u7h/
+G. Peter Lepage | Member | Cornell University | Primary Section 13: Physics | https://www.nasonline.org/directory-entry/g-peter-lepage-fwkiim/
+Michael Lichten | Member | National Institutes of Health | Primary Section 26: Genetics | https://www.nasonline.org/directory-entry/michael-lichten-q0jk7c/
+Stephen G. Lisberger | Member | Duke University School of Medicine | Primary Section 28: Systems Neuroscience | https://www.nasonline.org/directory-entry/stephen-g-lisberger-do964f/
+Dana W. Longcope | Member | Montana State University | Primary Section 16: Geophysics | Secondary Section 12: Astronomy | https://www.nasonline.org/directory-entry/dana-w-longcope-meovxl/
+Mikhail Lyubich | Member | Stony Brook University, The State University of New York | Primary Section 11: Mathematics | https://www.nasonline.org/directory-entry/mikhail-lyubich-g5usau/
+Chung-Pei Ma | Member | University of California, Berkeley | Primary Section 12: Astronomy | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/chung-pei-ma-dxdvwr/
+Gregory B. Martin | Member | Boyce Thompson Institute for Plant Research | Primary Section 62: Plant, Soil, and Microbial Sciences | Secondary Section 25: Plant Biology | https://www.nasonline.org/directory-entry/gregory-b-martin-vsjasf/
+Rosa L. Matzkin | Member | University of California, Los Angeles | Primary Section 54: Economic Sciences | https://www.nasonline.org/directory-entry/rosa-l-matzkin-n3pbt0/
+Helen S. Mayberg | Member | Icahn School of Medicine at Mount Sinai | Primary Section 28: Systems Neuroscience | https://www.nasonline.org/directory-entry/helen-s-mayberg-r0jjyz/
+Egbert (Bert) W. Meijer | International Member | Eindhoven University of Technology | Primary Section 14: Chemistry | https://www.nasonline.org/directory-entry/egbert-bert-w-meijer-rsxblj/
+Alison Mercer | International Member | University of Otago | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 24: Cellular and Molecular Neuroscience | https://www.nasonline.org/directory-entry/alison-mercer-9y7kg1/
+Dorothy J. Merritts | Member | Franklin & Marshall College | Primary Section 15: Geology | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/dorothy-j-merritts-2onlpr/
+Blake C. Meyers | Member | University of California, Davis | Primary Section 62: Plant, Soil, and Microbial Sciences | Secondary Section 25: Plant Biology | https://www.nasonline.org/directory-entry/blake-c-meyers-jbphkx/
+Valeria Molinero | Member | University of Utah | Primary Section 33: Applied Physical Sciences | Secondary Section 14: Chemistry | https://www.nasonline.org/directory-entry/valeria-molinero-w8gl25/
+Joel Moore | Member | University of California, Berkeley | Primary Section 33: Applied Physical Sciences | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/joel-moore-hey4f3/
+Deborah K. Morrison | Member | National Cancer Institute | Primary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/deborah-k-morrison-xdrplh/
+Joseph D. Mougous | Member | Yale University | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/joseph-d-mougous-y9mmmj/
+Benjamin G. Neel | Member | New York University Grossman School of Medicine | Primary Section 41: Medical Genetics, Hematology, and Oncology | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/benjamin-g-neel-vy8vj5/
+Yurii E. Nesterov | International Member | The Chinese University of Hong Kong, Shenzhen | Primary Section 32: Applied Mathematical Sciences | https://www.nasonline.org/directory-entry/yurii-e-nesterov-5n5mo7/
+Rasmus Nielsen | Member | University of California, Berkeley | Primary Section 27: Evolutionary Biology | Secondary Section 26: Genetics | https://www.nasonline.org/directory-entry/rasmus-nielsen-uryzgx/
+Emi K. Nishimura | International Member | The University of Tokyo | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/emi-k-nishimura-tpdywp/
+Joseph W. Orenstein | Member | University of California, Berkeley | Primary Section 33: Applied Physical Sciences | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/joseph-w-orenstein-kerzri/
+Anne E. Osbourn | International Member | John Innes Centre | Primary Section 62: Plant, Soil, and Microbial Sciences | Secondary Section 25: Plant Biology | https://www.nasonline.org/directory-entry/anne-e-osbourn-elpbf3/
+Eve C. Ostriker | Member | Princeton University | Primary Section 12: Astronomy | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/eve-c-ostriker-d3wcmy/
+Edward Ott | Member | University of Maryland, College Park | Primary Section 33: Applied Physical Sciences | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/edward-ott-boyxel/
+Julio M. Ottino | Member | Northwestern University - Evanston | Primary Section 31: Engineering Sciences | Secondary Section 33: Applied Physical Sciences | https://www.nasonline.org/directory-entry/julio-m-ottino-ufm1m6/
+Zhiyun Ouyang | International Member | Chinese Academy of Sciences | Primary Section 64: Human Environmental Sciences | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/zhiyun-ouyang-9oh63n/
+Krzysztof Palczewski | Member | University of California, Irvine | Primary Section 23: Physiology and Pharmacology | Secondary Section 42: Medical Physiology and Metabolism | https://www.nasonline.org/directory-entry/krzysztof-palczewski-a68rb9/
+Isabelle Peretz | International Member | University of Montreal | Primary Section 52: Psychological and Cognitive Sciences | https://www.nasonline.org/directory-entry/isabelle-peretz-vrw7vz/
+Ivette Perfecto | Member | University of Michigan | Primary Section 63: Environmental Sciences and Ecology | Secondary Section 64: Human Environmental Sciences | https://www.nasonline.org/directory-entry/ivette-perfecto-xttixh/
+Toniann Pitassi | Member | Columbia University | Primary Section 34: Computer and Information Sciences | Secondary Section 11: Mathematics | https://www.nasonline.org/directory-entry/toniann-pitassi-yzqfht/
+Kornelia Polyak | Member | Dana-Farber Cancer Institute | Primary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/kornelia-polyak-enjt7a/
+Anne E Pusey | Member | Duke University | Primary Section 51: Anthropology | Secondary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/anne-e-pusey-teizld/
+Lawrence Que Jr. | Emeritus | University of Minnesota | Primary Section 14: Chemistry | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/lawrence-que-jr-9bfhrx/
+Marina Rodnina | International Member | Max Planck Institute for Multidisciplinary Sciences | Primary Section 21: Biochemistry | Secondary Section 29: Biophysics and Computational Biology | https://www.nasonline.org/directory-entry/marina-rodnina-kqsjnf/
+Ronitt Rubinfeld | Member | Massachusetts Institute of Technology | Primary Section 34: Computer and Information Sciences | https://www.nasonline.org/directory-entry/ronitt-rubinfeld-k2aaim/
+Eugenia (Jenny) Russinova | International Member | Ghent University | Primary Section 25: Plant Biology | https://www.nasonline.org/directory-entry/eugenia-jenny-russinova-kvcs5g/
+Laure Saint-Raymond | International Member | Collège de France | Primary Section 11: Mathematics | https://www.nasonline.org/directory-entry/laure-saint-raymond-bxigzh/
+Federica Sallusto | International Member | ETH Zurich | Primary Section 43: Immunology and Inflammation | https://www.nasonline.org/directory-entry/federica-sallusto-7xthfe/
+Ueli Schibler | International Member | University of Geneva | Primary Section 42: Medical Physiology and Metabolism | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/ueli-schibler-uinrf1/
+Kate Scholberg | Member | Duke University | Primary Section 13: Physics | Secondary Section 12: Astronomy | https://www.nasonline.org/directory-entry/kate-scholberg-e1bykr/
+Nicholas Z. Scoville | Member | California Institute of Technology | Primary Section 12: Astronomy | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/nicholas-z-scoville-yhddxr/
+Kate M. Scow | Member | University of California, Davis | Primary Section 62: Plant, Soil, and Microbial Sciences | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/kate-m-scow-zushhl/
+Kathleen Segerson | Member | University of Connecticut | Primary Section 64: Human Environmental Sciences | https://www.nasonline.org/directory-entry/kathleen-segerson-4fj9xp/
+Julie Segre | Member | National Human Genome Research Institute | Primary Section 26: Genetics | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/julie-segre-satcqg/
+Michael Shelley | Member | Flatiron Institute | Primary Section 32: Applied Mathematical Sciences | Secondary Section 29: Biophysics and Computational Biology | https://www.nasonline.org/directory-entry/michael-shelley-jmv5x6/
+Jay Shendure | Member | University of Washington | Primary Section 26: Genetics | Secondary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/jay-shendure-ugaota/
+Barbara Sherwood Lollar | International Member | University of Toronto | Primary Section 15: Geology | https://www.nasonline.org/directory-entry/barbara-sherwood-lollar-eadwng/
+Joan B Silk | Member | Arizona State University | Primary Section 51: Anthropology | Secondary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/joan-b-silk-goosfy/
+Mario L. Small | Member | Columbia University | Primary Section 53: Social and Political Sciences | https://www.nasonline.org/directory-entry/mario-l-small-dwfx0r/
+Himladevi Soodyall | International Member | Academy of Science of South Africa | Primary Section 51: Anthropology | https://www.nasonline.org/directory-entry/himladevi-soodyall-4pw9un/
+Nancy R. Sottos | Member | University of Illinois Urbana-Champaign | Primary Section 31: Engineering Sciences | Secondary Section 14: Chemistry | https://www.nasonline.org/directory-entry/nancy-r-sottos-u4sjb8/
+Susan Stokes | Member | The University of Chicago | Primary Section 53: Social and Political Sciences | https://www.nasonline.org/directory-entry/susan-stokes-4ncapk/
+James M. Stone | Member | Institute for Advanced Study | Primary Section 12: Astronomy | Secondary Section 13: Physics | https://www.nasonline.org/directory-entry/james-m-stone-a1jwkf/
+Sharon Y. Strauss | Member | University of California, Davis | Primary Section 27: Evolutionary Biology | Secondary Section 63: Environmental Sciences and Ecology | https://www.nasonline.org/directory-entry/sharon-y-strauss-fkfzsn/
+Jenny Ting | Member | The University of North Carolina at Chapel Hill | Primary Section 43: Immunology and Inflammation | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/jenny-ting-x6plhh/
+Andrei Tokmakoff | Member | The University of Chicago | Primary Section 14: Chemistry | https://www.nasonline.org/directory-entry/andrei-tokmakoff-nrp68k/
+James W. Truman | Member | University of Washington | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 22: Cellular and Developmental Biology | https://www.nasonline.org/directory-entry/james-w-truman-1fdjen/
+Sara A. van de Geer | International Member | ETH Zurich | Primary Section 32: Applied Mathematical Sciences | https://www.nasonline.org/directory-entry/sara-a-van-de-geer-7iyavk/
+Geerat J. Vermeij | Member | University of California, Davis | Primary Section 27: Evolutionary Biology | https://www.nasonline.org/directory-entry/geerat-j-vermeij-ips4bt/
+Karen Vogtmann | Member | University of Warwick | Primary Section 11: Mathematics | https://www.nasonline.org/directory-entry/karen-vogtmann-inb2br/
+Richard J. Walker | Member | University of Maryland, College Park | Primary Section 15: Geology | Secondary Section 16: Geophysics | https://www.nasonline.org/directory-entry/richard-j-walker-kx8jig/
+Casey T. Weaver | Member | The University of Alabama at Birmingham | Primary Section 43: Immunology and Inflammation | https://www.nasonline.org/directory-entry/casey-t-weaver-twvesz/
+James R. Williamson | Member | Scripps Research | Primary Section 29: Biophysics and Computational Biology | Secondary Section 21: Biochemistry | https://www.nasonline.org/directory-entry/james-r-williamson-pxfe8x/
+Qijing Zhang | Member | Iowa State University | Primary Section 61: Animal, Nutritional, and Applied Microbial Sciences | Secondary Section 44: Microbial Biology | https://www.nasonline.org/directory-entry/qijing-zhang-awafiw/
+Leonard I. Zon | Member | Boston Children's Hospital | Primary Section 41: Medical Genetics, Hematology, and Oncology | https://www.nasonline.org/directory-entry/leonard-i-zon-t0rjve/

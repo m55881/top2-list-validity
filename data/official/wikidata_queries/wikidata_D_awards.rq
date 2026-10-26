@@ -1,0 +1,29 @@
+SELECT ?person ?crit ?when (SAMPLE(?name) AS ?label) (SAMPLE(?family) AS ?familyName)
+  (GROUP_CONCAT(DISTINCT ?alias; separator="|") AS ?aliases)
+  (SAMPLE(?birth) AS ?born) (SAMPLE(?death) AS ?died)
+  (GROUP_CONCAT(DISTINCT ?cit; separator="|") AS ?citizenship) (SAMPLE(?scopus) AS ?scopusId)
+WHERE {
+  VALUES ?crit {
+    "Nobel Prize in Physics"@en "Nobel Prize in Chemistry"@en "Nobel Prize in Physiology or Medicine"@en
+    "Nobel Memorial Prize in Economic Sciences"@en "Lasker Award"@en
+    "Albert Lasker Award for Basic Medical Research"@en "Lasker-DeBakey Clinical Medical Research Award"@en
+    "Breakthrough Prize in Life Sciences"@en "Breakthrough Prize in Fundamental Physics"@en "Breakthrough Prize in Mathematics"@en
+    "Wolf Prize in Physics"@en "Wolf Prize in Chemistry"@en "Wolf Prize in Medicine"@en "Wolf Prize in Mathematics"@en "Wolf Prize in Agriculture"@en
+    "Kavli Prize in Astrophysics"@en "Kavli Prize in Nanoscience"@en "Kavli Prize in Neuroscience"@en
+    "Fields Medal"@en "Abel Prize"@en "Turing Award"@en "Crafoord Prize"@en "Shaw Prize"@en "Japan Prize"@en
+    "Gairdner Foundation International Award"@en "King Faisal Prize"@en "Copley Medal"@en "Royal Medal"@en
+    "Fellow of the Royal Society"@en "Fellow of the Academy of Medical Sciences"@en
+    "Fellow of the Royal Society of Canada"@en "Fellow of the Australian Academy of Science"@en
+  }
+  ?award rdfs:label ?crit .
+  ?person p:P166 ?st . ?st ps:P166 ?award .
+  OPTIONAL { ?st pq:P585 ?when }
+  OPTIONAL { ?person rdfs:label ?name FILTER(LANG(?name)="en") }
+  OPTIONAL { ?person skos:altLabel ?alias FILTER(LANG(?alias)="en") }
+  OPTIONAL { ?person wdt:P734 ?fn . ?fn rdfs:label ?family FILTER(LANG(?family)="en") }
+  OPTIONAL { ?person wdt:P569 ?birth }
+  OPTIONAL { ?person wdt:P570 ?death }
+  OPTIONAL { ?person wdt:P27 ?c . ?c wdt:P298 ?cit }
+  OPTIONAL { ?person wdt:P1153 ?scopus }
+}
+GROUP BY ?person ?crit ?when

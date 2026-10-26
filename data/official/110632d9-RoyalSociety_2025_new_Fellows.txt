@@ -1,0 +1,425 @@
+FILE: RoyalSociety_2025_new_Fellows.txt
+SOURCE: Royal Society official news release, https://royalsociety.org/news/2025/05/new-fellows/
+PAGE TITLE: Exceptional scientists elected as Fellows of the Royal Society | Royal Society
+RETRIEVED: 2026-10-10T11:10:59.568Z
+FORMAT: plain-text copy of the article body (names with post-nominals, followed by position/affiliation line)
+
+/
+
+ News from the Royal Society
+
+ Exceptional scientists elected as Fellows of the Royal Society
+
+ 20 May 2025
+
+ Over 90 outstanding researchers from across the world have this year been elected to the Fellowship of the Royal Society, the UK’s national academy of sciences.
+
+This year’s cohort include trailblazers across a wide range of fields, from artificial intelligence and electron microscopy to global health and neuroscience. Among them are a public health expert working to prevent HIV in young women, a Nobel Prize winner whose team created the transformative AI model, AlphaFold, an immunologist whose work has led to new insights into how the immune system can distinguish between ‘good’ and ‘bad’ microbes, and the first Sudanese scientist to be elected to the Fellowship.
+
+Sir Adrian Smith, President of the Royal Society, said:
+
+“It is with great pleasure that I welcome the latest cohort of outstanding researchers into the Fellowship of the Royal Society.
+
+“Their achievements represent the very best of scientific endeavour, from basic discovery to research with real-world impact across health, technology and policy. From tackling global health challenges to reimagining what AI can do for humanity, their work is a testament to the power of curiosity-driven research and innovation.
+
+“The strength of the Fellowship lies not only in individual excellence, but in the diversity of backgrounds, perspectives and experiences each new member brings. This cohort represents the truly global nature of modern science and the importance of collaboration in driving scientific breakthroughs.”
+
+The Fellows and Foreign Members join the ranks of Stephen Hawking, Isaac Newton, Charles Darwin, Albert Einstein, Lise Meitner, Subrahmanyan Chandrasekhar and Dorothy Hodgkin.  
+
+Statistics about this year’s intake of Fellows:
+
+ 25% of this year’s intake of Fellows, Foreign Members and Honorary Fellows are women
+
+ New Fellows have been elected from more than 20 UK institutions, including The University of Hull, the National Physical Laboratory, University of Dundee and Google DeepMind
+
+ They have been elected from countries including, South Africa, China, Switzerland, Singapore and Malaysia
+
+The full list of the newly elected Fellows of the Royal Society is, in alphabetical order:
+
+Fellowship
+
+Professor Quarraisha Abdool Karim FRS
+
+Associate Scientific Director, Centre for the AIDS Programme of Research in South Africa (CAPRISA), University of KwaZulu-Natal & Professor of Clinical Epidemiology, Mailman School of Public Health, Columbia University
+
+Professor Neil Alford MBE FREng FRS
+
+Professor of Physical Electronics and Thin Film Materials, Department of Materials, Imperial College London
+
+Professor Deborah Ashby OBE FMedSci FRS
+
+Dean of the Faculty of Medicine, Imperial College London
+
+Professor Bernard P. Binks FRS
+
+Emeritus Professor of Physical Chemistry, Department of Chemistry, University of Hull
+
+Professor Philip Boyd FRS
+
+Professor Marine Biogeochemistry, Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Australia
+
+Dr John Briggs FRS
+
+Director, Department of Cell and Virus Structure, Max Planck Institute of Biochemistry, Germany
+
+Professor Morris Brown FMedSci FRS
+
+Professor of Endocrine Hypertension, Department of Clinical Pharmacology and Precision Medicine, Queen Mary University London
+
+Professor Edward Bullmore FMedSci FRS
+
+Professor of Psychiatry, Department of Psychiatry, University of Cambridge
+
+Professor Matteo Carandini FRS
+
+GlaxoSmithKline / Fight for Sight Professor of Visual Neuroscience, UCL Institute of Ophthalmology, University College London
+
+Professor Xiaodong Chen FRS
+
+Distinguished University Professor and Professor of Materials Science and Engineering, Nanyang Technological University, Singapore
+
+Professor Alessio Ciulli FRS
+
+Professor of Chemical Structural Biology and Director of Centre for Targeted Protein Degradation, School of Life Sciences, University of Dundee
+
+Professor Jonathan Clayden FRS
+
+Professor of Chemistry, School of Chemistry, University of Bristol
+
+Professor Jonathan Coleman FRS
+
+Erasmus Smith's Professor of Natural and Experimental Philosophy, Trinity College Dublin, Ireland
+
+Professor Iain Couzin FRS
+
+Director, Max Planck Institute of Animal Behaviour and Professor, University of Konstanz, Germany
+
+Professor Gabor Csanyi FRS
+
+Professor of Molecular Modelling, Engineering Laboratory, University of Cambridge
+
+Professor Judith Driscoll FREng FRS
+
+Professor of Materials Science, Department of Materials Science and Metallurgy, University of Cambridge
+
+Professor Marie Edmonds FRS
+
+Head of Department and Professor of Volcanology and Petrology, Department of Earth Sciences, University of Cambridge
+
+Professor Sir Anthony Finkelstein Kt CBE FREng FRS
+
+President, City St George's, University of London
+
+Professor Kevin Foster FRS
+
+Chair of Microbiology, Sir William Dunn School of Pathology, University of Oxford
+
+Professor Mike Giles FRS
+
+Professor of Numerical Analysis, Mathematical Institute, University of Oxford
+
+Professor Sue Grimmond FRS
+
+Professor of Atmospheric and Oceanic Sciences, Department of Meteorology, University of Reading
+
+Professor Jim Hall FREng FRS
+
+Professor of Climate and Environmental Risks, School of Geography and the Environment, University of Oxford
+
+Professor Graham Hatfull FRS
+
+Eberly Family Professor of Biotechnology and Howard Hughes Medical Institute Professor, Department of Biological Sciences, University of Pittsburgh, USA
+
+Professor Julian Hibberd FRS
+
+Head of Department, Department of Plant Sciences, University of Cambridge and Fellow of Emmanuel College, Cambridge
+
+Professor Jane Hill OBE FRS
+
+Associate Dean for Research, Faculty of Sciences & Department of Biology, University of York
+
+Professor Neil Hunter FRS
+
+Professor, Department of Microbiology and Molecular Genetics, University of California, Davis, USA and Investigator, Howard Hughes Medical Institute
+
+Professor Barbara Imperiali FRS
+
+Professor of Biology and Chemistry, Massachusetts Institute of Technology, USA
+
+Professor Chennupati Jagadish AC FRS
+
+Distinguished Professor Emeritus, Australian National University and President, Australian Academy of Science
+
+Dr Leo James FRS
+
+Group Leader, MRC Laboratory of Molecular Biology
+
+Dr Gregory Jefferis FRS
+
+Joint Head, Neurobiology Division, MRC Laboratory of Molecular Biology and Director of Research, Department of Zoology, University of Cambridge
+
+Professor Sajeev John OC FRS
+
+University Professor, Department of Physics, University of Toronto, Canada
+
+Dr John Jumper FRS
+
+Distinguished Scientist, Google DeepMind
+
+Professor Baljit Khakh FRS
+
+Eleanor I. Leslie Chair in Neuroscience, Professor of Physiology and Neurobiology, Department of Physiology, David Geffen School of Medicine, University of California, Los Angeles, USA
+
+Professor John King FRS
+
+Professor of Theoretical Mechanics, School of Mathematical Sciences, University of Nottingham
+
+Professor Philipp Kukura FRS
+
+Professor of Chemistry, Department of Chemistry and Kavli Institute for Nanoscience Discovery, University of Oxford
+
+Professor William Laurance FRS
+
+Distinguished Research Professor & Director, Centre for Tropical Environmental and Sustainability Science, College of Science and Engineering, James Cook University, Australia
+
+Professor Cristina Lazzeroni FRS
+
+Professor of Particle Physics, School of Physics and Astronomy, University of Birmingham
+
+Professor Mark Lewis FRS
+
+Professor and Gilbert and Betty Kennedy Chair in Mathematical Biology, Department of Mathematics and Statistics, and Department of Biology, University of Victoria, Canada
+
+Professor Melissa H. Little AC FRS
+
+CEO, Novo Nordisk Foundation Centre for Stem Cell Medicine (reNEW), Denmark and Chief Scientist at the Murdoch Children’s Research Institute, Australia
+
+Professor Wenbo Ma FRS
+
+Senior Group Leader, The Sainsbury Laboratory
+
+Professor Graham Machin FREng FRS
+
+NPL Senior Fellow, National Physical Laboratory, Honorary Professor Universities of Glasgow and Birmingham and Visiting Professor University of Strathclyde
+
+Professor Jennifer McElwain FRS
+
+1711 Chair of Botany, School of Natural Sciences, Discipline of Botany, Trinity College Dublin, Ireland
+
+Professor Jason Miller FRS
+
+Professor, Department of Pure Mathematics and Mathematical Statistics, University of Cambridge
+
+Dr Charles Mullighan FRS
+
+Member and Divisional Director for Research, Department of Pathology; Senior Deputy Director, Comprehensive Cancer Center; Director, Center of Excellence for Leukemia Studies; and William E. Evans Endowed Chair, St. Jude Children's Research Hospital, USA
+
+Professor Donal O'Carroll FRS
+
+Chair of Stem Cell Biology, Centre for Cell Biology and Centre for Regenerative Medicine, School of Biological Sciences, University of Edinburgh
+
+Professor Prakash Panangaden FRS
+
+Professor Emeritus, School of Computer Science, McGill University, Canada
+
+Professor Andrew Pitts FRS
+
+Emeritus Professor of Theoretical Computer Science, Department of Computer Science and Technology, University of Cambridge
+
+Professor Philip Poole FRS
+
+Professor of Plant Microbiology, Molecular Plant Sciences Section, Department of Biology, University of Oxford
+
+Professor Hugh Possingham FRS
+
+Research Professor, School of The Environment, University of Queensland, Australia
+
+Professor David Pyle FRS
+
+Professor of Earth Sciences, Department of Earth Sciences, University of Oxford
+
+Professor Graham Reed FREng FRS
+
+Director, Optoelectronics Research Centre, University of Southampton
+
+Professor Daniel Rueckert FMedSci FREng FRS
+
+Alexander von Humboldt Professor for AI in Medicine and Healthcare, Technical University Munich, Germany and Professor of Visual Information Processing, Imperial College London
+
+Professor Stuart Russell OBE FRS
+
+Professor of Computer Science and Smith-Zadeh Professor in Engineering, University of California, Berkeley and Honorary Fellow, Wadham College, Oxford
+
+Dr Ravigadevi Sambanthamurthi FRS
+
+Scientific Consultant, Malaysian Palm Oil Board, Malaysia
+
+Dr Andrew Singleton FRS
+
+Co-Lead, Global Parkinson's Genetics Program, USA
+
+Professor Nigel Smith FRS
+
+Executive Director and CEO, TRIUMF
+
+Professor Shivaji Sondhi FRS
+
+Wykeham Professor of Theoretical Physics, Tencent Professor of Physics and Leverhulme Professor, Rudolf Peierls Centre for Theoretical Physics, University of Oxford
+
+Professor Claire Spottiswoode FRS
+
+Pola Pasvolsky Chair in Conservation Biology, FitzPatrick Institute of African Ornithology, University of Cape Town, South Africa and Visiting Research Associate, Department of Zoology, University of Cambridge
+
+Professor Nial Tanvir FRS
+
+Professor of Astronomy, School of Physics and Astronomy, University of Leicester
+
+Dr Mallikarjun Tatipamula FRS
+
+Chief Technology Officer, Ericsson Silicon Valley, USA
+
+Dr Swee Lay Thein FMedSci FRS
+
+Senior Investigator and Chief, Sickle Cell Branch, National Institutes of Health, USA
+
+Professor Arkady Tseytlin FRS
+
+Professor of Theoretical Physics, Blackett Laboratory, Imperial College London
+
+Professor Miltos Tsiantis FRS
+
+Director, Department of Comparative Development and Genetics, Max Planck Institute for Plant Breeding Research, Germany
+
+Professor Jacob Tsimerman FRS
+
+Professor, Department of Mathematics, University of Toronto, Canada
+
+Professor Reidun Twarock FRS
+
+Professor of Mathematical and Computational Virology, University of York
+
+Professor Joanne P. Webster FMedSci FRS
+
+Chair in Parasitic Diseases and Director London Centre for Neglected Tropical Disease Research, Department of Pathobiology and Population Sciences, Royal Veterinary College and Professor of Infectious Diseases, Imperial College London
+
+Professor Tien Y. Wong FRS
+
+Senior Vice-Chancellor, Tsinghua Medicine and Vice-Provost, Tsinghua University, Beijing, China
+
+Senior Advisor, SingHealth, Singapore National Eye Centre, Singapore
+
+Dr Tony Wood FMedSci FRS
+
+Chief Scientific Officer and President of R&D, GSK
+
+Professor Dek Woolfson FRS
+
+Professor of Chemistry and Biochemistry, School of Chemistry and School of Biochemistry, University of Bristol
+
+Dr Marta Zlatic FMedSci FRS
+
+Programme Leader, MRC Laboratory of Molecular Biology, Director of Research, Department of Zoology, University of Cambridge and Fellow, Trinity College, University of Cambridge
+
+Honorary Fellowship
+
+Baroness Manningham-Buller LG DCB FMedSci FRS
+
+Cross-Bench Life Peer and Chair of Select Committee on Society Mobility, House of Lords, Ambassador for Halo and former Director General, MI5
+
+Foreign Membership
+
+Professor Asifa Akhtar FRS
+
+Director, Max Planck Institute of Immunobiology and Epigenetics and Vice-President, Biology and Medicine Section of the Max Planck Society, Germany
+
+Professor Yasmine Belkaid FRS
+
+President, Institut Pasteur, France
+
+Professor Robert E. Black FRS
+
+Professor and Director, Institute for International Programs, Department of International Health, Bloomberg School of Public Health, The Johns Hopkins University, Baltimore, Maryland, USA
+
+Professor Antje Boetius FRS
+
+President and CEO, Monterey Bay Aquarium Research Institute (MBARI), USA, Professor of Geomicrobiology, University of Bremen, Germany and Alfred Wegener Institute, Helmholtz Center for Polar and Marine Research, Germany
+
+Professor Zhijian 'James' Chen FRS
+
+Investigator, Howard Hughes Medical Institute; Professor, Department of Molecular Biology; Director, Inflammation Research Center, University of Texas Southwestern Medical Center, USA
+
+Professor Robbert Dijkgraaf FRS
+
+Distinguished University Professor, University of Amsterdam, Netherlands
+
+Professor Claudia Felser FRS
+
+Director, Max Planck Institute for Chemical Physics of Solids, Germany
+
+Professor Bin Han FRS
+
+Director, Centre for Excellence in Plant Molecular Sciences (Shanghai Institute of Plant Physiology and Ecology), Chinese Academy of Sciences, China
+
+Professor Mohamed Hassan FRS
+
+President, Sudanese National Academy of Sciences
+
+Professor Sanwen Huang FRS
+
+President, Chinese Academy of Tropical Agricultural Sciences, China and Professor, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, China
+
+Professor Claude Jaupart FRS
+
+Professor (Emeritus), Université Paris-Cité and the Institut de Physique du Globe de Paris, France and Member of the French Academy of Science
+
+Professor Ursula Keller FRS
+
+Professor, Head of Research, Physics and Electrical Engineering Department, ETH Zurich, Switzerland
+
+Professor Dr Ulman Lindenberger FRS
+
+Director, Max Planck Institute for Human Development, Germany
+
+Professor Detlef Lohse FRS
+
+Chair of Physics of Fluids, Faculty of Science and Technology, University of Twente, Netherlands and Max-Planck Institute for Dynamics and Self-Organization, Göttingen, Germany
+
+Professor Eiichi Nakamura FRS
+
+University Professor, Department of Chemistry, the University of Tokyo, Japan and Lecture Professor, College of Chemistry, Nankai University, China
+
+Professor Eva Nogales FRS
+
+Distinguished Professor of Biochemistry, Biophysics and Structural Biology, Molecular and Cell Biology Department, UC Berkeley, Investigator, Howard Hughes Medical Institute and Senior Faculty Scientist, Lawrence Berkeley National Lab, USA
+
+Professor Stephen Pacala FRS
+
+Frederick D. Petrie Professor Emeritus, Department of Ecology and Evolutionary Biology, Princeton University, USA
+
+Professor Judea Pearl FRS
+
+Chancellor's Professor of Computer Science and Statistics, University of California, Los Angeles, USA
+
+Professor Steve Quake FRS
+
+Lee Otterson Professor of Bioengineering and Applied Physics, Stanford University, and Chief Science Advisor, Chan Zuckerberg Initiative, USA
+
+Professor John Rogers FRS
+
+Louis Simpson and Kimberly Querrey Professor, Department of Materials Science and Engineering, Northwestern University, USA
+
+Professor Joshua Sanes FRS
+
+Professor of Molecular and Cellular Biology and Founding Director, Center for Brain Science, Harvard University, USA
+
+Professor Terrence Sejnowski FRS
+
+Francis Crick Chair, Salk Institute for Biological Studies and Distinguished Professor of Neurobiology, University of Califorma, San Diego, USA
+
+Professor Yifang Wang FRS
+
+Researcher, Institute of High Energy Physics, Chinese Academy of Sciences, China
+
+Professor Xueming Yang FRS
+
+Distinguished Research Fellow, Dalian Institute of Chemical Physics, Chinese Academy of Sciences

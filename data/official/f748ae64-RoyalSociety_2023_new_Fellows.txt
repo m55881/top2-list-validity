@@ -1,0 +1,365 @@
+FILE: RoyalSociety_2023_new_Fellows.txt
+SOURCE: Royal Society official news release, https://royalsociety.org/news/2023/05/new-fellows-2023/
+PAGE TITLE: Exceptional scientists elected as Fellows of the Royal Society | Royal Society
+RETRIEVED: 2026-10-10T11:10:59.101Z
+FORMAT: plain-text copy of the article body (names with post-nominals, followed by position/affiliation line)
+
+/
+
+ News from the Royal Society
+
+ Exceptional scientists elected as Fellows of the Royal Society
+
+ 09 May 2023
+
+ Eighty outstanding researchers, innovators and communicators from around the world have been elected as the newest Fellows of the Royal Society, the UK’s national academy of sciences and the oldest science academy in continuous existence. 
+
+They have been selected for their substantial contribution to the advancement of science, from the use of forensic techniques to identify victims of war crimes, to investigating processes in the Earth’s core, and mapping the world’s largest tropical peatlands in the Congo basin.
+
+Sir Adrian Smith, President of the Royal Society said: “I am delighted to welcome our newest cohort of Fellows.  
+
+“These individuals have pushed forward the boundaries of their respective fields and had a beneficial influence on the world beyond. 
+
+“Among this year’s intake are individuals who were at the forefront of the response to the COVID-19 pandemic, and those working on global challenges, from TB to climate change. They are pioneering scientists and innovators from around the world who have confounded expectations and transformed our thinking.  
+
+“This year’s intake have already achieved incredible things, and I have no doubt that they will continue to do so. I look forward to meeting them and following their contributions in future.”
+
+This year sees 59 Fellows, 19 Foreign Members and two Honorary Fellows elected, reflecting changes introduced in 2023 which increased the maximum number who can be elected. This will help create a broader and more engaged Fellowship and support the Society’s mission of championing excellence in research and science for the benefit of humanity. 
+
+The Fellows and Foreign Members join the ranks of Stephen Hawking, Isaac Newton, Charles Darwin, Albert Einstein, Lise Meitner, Subrahmanyan Chandrasekhar and Dorothy Hodgkin. 
+
+Statistics about this year’s intake of Fellows:
+
+ 30% of this year’s intake of Fellows, Foreign Members and Honorary Fellows are women.
+
+ New Fellows have been elected from 20 UK institutions, including Manchester, Sussex, Exeter and Edinburgh.
+
+ They have been elected from countries including Japan, Finland, China and South Africa.
+
+The full list of the newly elected Fellows and Foreign Members of the Royal Society is, in alphabetical order:
+
+New Fellows
+
+Professor Bashir M Al-Hashimi CBE FREng FRS
+
+Vice President (Research & Innovation), King’s College London
+
+Professor Judith Allen FMedSci FRS
+
+Professor of Immunobiology, Faculty of Medicine, Biology and Health, University of Manchester
+
+Professor Myles Allen CBE FRS
+
+Professor of Geosystem Science, Environmental Change Institute, School of Geography and the Environment and Department of Physics, University of Oxford
+
+Dame Sue Black, Baroness Black of Strome DBE FRS
+
+President, St John's College, Oxford
+
+Professor Bradley Cairns FRS
+
+Professor and Chair, Oncological Sciences, Spencer Eccles School of Medicine, University of Utah and Chief Academic Officer, Huntsman Cancer Institute, United States
+
+Professor Keith Caldecott FMedSci FRS
+
+Deputy Director, Genome Damage and Stability Centre, University of Sussex
+
+Professor Sir Ian Chapman FRS
+
+Chief Executive Officer, United Kingdom Atomic Energy Authority
+
+Professor Bryan Charleston FRS
+
+Director and CEO, Pirbright Institute
+
+Professor Sourav Chatterjee FRS
+
+Professor of Statistics, Department of Statistics, and Professor of Mathematics, Department of Mathematics, Stanford University, United States
+
+Professor Cathie Clarke FRS
+
+Professor of Theoretical Astrophysics, Institute of Astronomy, University of Cambridge
+
+Professor Pieter Cullis OC FRS
+
+Professor of Biochemistry and Molecular Biology, Department of Biochemistry and Molecular Biology, University of British Columbia, Canada
+
+Professor Andrew Davison FREng FRS
+
+Professor of Robot Vision, Department of Computing, Imperial College London
+
+Professor Michael Depledge CBE FRS
+
+Emeritus Professor of Environment and Human Health, European Centre for Environment and Human Health, University of Exeter Medical School
+
+Professor W Ford Doolittle FRS
+
+Professor Emeritus, Department of Biochemistry and Molecular Biology, Dalhousie University, Canada
+
+Professor Michael Dustin FRS
+
+Kennedy Trust Professor of Molecular Immunology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences and Director of Research, Kennedy Institute of Rheumatology, University of Oxford
+
+Professor Wendy Freedman FRS
+
+John and Marion Sullivan University Professor of Astronomy and Astrophysics, Astronomy Department, University of Chicago, United States
+
+Professor Huajian Gao FRS
+
+Distinguished University Professor, Nanyang Technological University, Singapore
+
+Professor Julian William Gardner FREng FRS
+
+Professor of Electronic Engineering, School of Engineering, University of Warwick
+
+Dame Sarah Gilbert DBE FMedSci FRS
+
+Said Professor of Vaccinology, Pandemic Sciences Institute, University of Oxford
+
+Professor Andrey Golutvin FRS
+
+Professor of Physics, Blackett Laboratory, Imperial College London
+
+Professor Andrew Goodwin FRS
+
+Professor of Materials Chemistry, Department of Chemistry, University of Oxford
+
+Professor Louise Heathwaite CBE FRS
+
+Lancaster Environment Centre and Pro-Vice-Chancellor Research and Enterprise, Lancaster University
+
+Professor Laura Heyderman FRS
+
+Professor, Mesoscopic Systems, ETH Zurich - Paul Scherrer Institute
+
+Professor Andrew Hopkins FRS
+
+Chief Executive, Exscientia plc
+
+Professor John Hutchinson FRS
+
+Professor of Evolutionary Biomechanics, Royal Veterinary College
+
+Dr Michael Isard FRS
+
+Research Scientist, Google, United States
+
+Professor Christopher Jiggins FRS
+
+Professor of Evolutionary Biology (2014), Department of Zoology, University of Cambridge
+
+Professor David Jones FRS
+
+Professor of Bioinformatics, Department of Computer Science and Division of Biosciences, University College London (UCL)
+
+Dr Philip Jones FMedSci FRS
+
+Senior Group Leader, Wellcome Sanger Institute and Professor of Cancer Development, University of Cambridge
+
+Professor Loeske Kruuk FRS
+
+Royal Society Research Professor, Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh
+
+Professor Mark Lancaster FRS
+
+Professor of Particle Physics, Department of Physics and Astronomy, University of Manchester
+
+Professor Ben Lehner FRS
+
+Senior Group Leader, Wellcome Sanger Institute and Coordinator and ICREA Professor, Centre for Genomic Regulation (CRG), Barcelona, Spain
+
+Professor Simon L Lewis FRS
+
+Chair, Global Change Science, University College London and Chair, Global Change Science, University of Leeds
+
+Professor Allan Matthews FREng FRS
+
+Professor of Surface Engineering and Tribology, The Henry Royce Institute, Department of Materials, University of Manchester
+
+Professor James Maynard FRS
+
+Professor of Number Theory, Mathematical Institute, University of Oxford
+
+Professor Jane Memmott OBE FRS
+
+Professor of Ecology, School of Biological Sciences, University of Bristol
+
+Professor R J Dwayne Miller FRS
+
+University Professor, Departments of Chemistry and Physics, University of Toronto, Canada
+
+Professor Valerie Mizrahi FRS
+
+Director, Institute of Infectious Disease and Molecular Medicine, University of Cape Town, South Africa
+
+Dr Graeme Moad AC FRS
+
+CSIRO Fellow, CSIRO Manufacturing, Australia
+
+Dr Madan Babu Mohan FMedSci FRS
+
+Member, Endowed Chair and Director, Center of Excellence for Data Driven Discovery, Department of Structural Biology, St Jude Children’s Research Hospital, United States
+
+Professor Robert Mokaya OBE FRS
+
+Pro-Vice-Chancellor and Professor of Materials Chemistry, School of Chemistry, University of Nottingham
+
+Professor Tebello Nyokong FRS
+
+Distinguished Professor of Chemistry, and Department of Science and Innovation/National Research Foundation Research Chair, Rhodes University, South Africa
+
+Dr Sarah O'Connor FRS
+
+Director, Department of Natural Product Biosynthesis, Max Planck Institute for Chemical Ecology, Germany
+
+Professor Jane Parker FRS
+
+Senior Research Group Leader, Department of Plant-Microbe Interactions, Max-Planck Institute for Plant Breeding Research, Germany
+
+Dr Lori Passmore FRS
+
+Group Leader, Structural Studies Division, MRC Laboratory of Molecular Biology and Fellow, Clare Hall, University of Cambridge
+
+Professor D Graham Pearson FRS
+
+Canada Excellence Research Chair Laureate and Henry Marshall Tory Chair, Department of Earth and  Atmospheric Sciences, University of Alberta, Canada
+
+Professor Peter Sewell FRS
+
+Professor, Computer Laboratory, University of Cambridge
+
+Professor Hanadi Sleiman FRS
+
+Professor of Chemistry and Canada Research Chair in DNA Nanoscience, Department of Chemistry, McGill University, Canada
+
+Professor Ivan Smith FRS
+
+Professor of Geometry, Centre for Mathematical Sciences, University of Cambridge
+
+Professor Matthew Stephens FRS
+
+Ralph W. Gerard Professor, Department of Statistics and Department of Human Genetics, University of Chicago, United States
+
+Professor William Sutherland CBE FRS
+
+Miriam Rothschild Chair of Conservation Biology, Department of Zoology, University of Cambridge and Professorial Fellow, St Catharine’s College, Cambridge
+
+Professor Elizabeth Thompson FRS
+
+Professor Emerita of Statistics, Department of Statistics, University of Washington, United States
+
+Professor Irene Tracey CBE FMedSci FRS
+
+Vice-Chancellor, University of Oxford and Professor Anaesthetic Neuroscience, Nuffield Department Clinical Neurosciences, University of Oxford
+
+Dr James Turner FMedSci FRS
+
+Assistant Research Director, The Francis Crick Institute
+
+Professor Derek Vance FRS
+
+Professor of Geochemistry, Department of Earth Sciences, ETH Zurich, Switzerland
+
+Dr Rajeev Varshney FRS
+
+Director, Centre for Crop and Food Innovation; Director, Western Australian State Agricultural Biotechnology Centre; and International Chair in Agriculture and Food Security, Food Futures Institute, Murdoch University, Australia
+
+Professor Scott Waddell FMedSci FRS
+
+Professor of Neurobiology, Centre for Neural Circuits and Behaviour, University of Oxford
+
+Professor Philip Wadler FRS
+
+Professor of Theoretical Computer Science, Laboratory for Foundations of Computer Science, School of Informatics, University of Edinburgh
+
+Sir Christopher Whitty KCB FMedSci FRS
+
+Chief Medical Officer for England
+
+New Honorary Fellows
+
+Dame Kate Bingham FMedSci FRS
+
+Managing Partner, SV Health Investors
+
+Ms Fiona Fox FMedSci FRS
+
+CEO, Science Media Centre
+
+New Foreign Members
+
+Professor Eva-Mari Aro ForMemRS
+
+Research Director of Molecular Plant Biology, Department of Life Technologies, University of Turku, Finland
+
+Professor Jeffery Dangl ForMemRS
+
+John N. Couch Distinguished Professor, Department of Biology, University of North Carolina at Chapel Hill, United States and Howard Hughes Medical Institute Investigator, United States
+
+Professor Stanislas Dehaene ForMemRS
+
+Director, NeuroSpin Brain Imaging Center, CEA Saclay; Chair of Experimental Cognitive Psychology, Collège de France; and Director of the INSERM-CEA Cognitive Neuroimaging Unit, France
+
+Professor Odile Eisenstein ForMemRS
+
+Emeritus CNRS-Université Montpellier, France and University Oslo, Norway
+
+Professor Shafi Goldwasser ForMemRS
+
+Director, Simons Institute for the Theory of Computing, University of California, Berkeley, United States
+
+Professor Douglas Hanahan ForMemRS
+
+Distinguished Scholar, Ludwig Institute for Cancer Research, Agora Translational Cancer Research Center, Lausanne, and Emeritus Professor and former Director, Swiss Institute for Experimental Cancer Research, Swiss Federal Institute of Technology Lausanne
+
+Professor Gerald Haug ForMemRS
+
+Director, Department of Climate Geochemistry, Max-Planck-Institute for Chemistry, Mainz, Germany; Professor, Department of Earth Sciences, ETH Zürich, Switzerland; and President, German National Academy of Sciences Leopoldina, Germany
+
+Professor Kristian Helin FMedSci ForMemRS
+
+Chief Executive, President and Professor, The Institute of Cancer Research
+
+Professor Kei Hirose ForMemRS
+
+Professor, Department of Earth and Planetary Science, University of Tokyo, Japan
+
+Professor Yonggang Huang ForMemRS
+
+Jan and Marcia Achenbach Professor in Mechanical Engineering, Civil and Environmental Engineering, and Materials Science and Engineering, Northwestern University, United States
+
+Professor Susumu Kitagawa ForMemRS
+
+Deputy Director-General, Kyoto University Institute for Advanced Study (KUIAS), Japan
+
+Professor Jinghai Li ForMemRS
+
+Professor, Institute of Process Engineering, Chinese Academy of Sciences, Former President of the National Natural Science Foundation of China, and former Vice President of International Science Council
+
+Professor Edvard Moser ForMemRS
+
+Professor of Neuroscience, Kavli Institute for Systems Neuroscience, Norwegian University of Science and Technology, Norway
+
+Professor May-Britt Moser ForMemRS
+
+Professor of Neuroscience, Kavli Institute for Systems Neuroscience, Norwegian University of Science and Technology, Norway
+
+Professor Subir Sachdev ForMemRS
+
+Herchel Smith Professor of Physics, Department of Physics, Harvard University, United States
+
+Professor Yoshinori Tokura ForMemRS
+
+Center Director, RIKEN Center for Emergent Matter Science, Japan and University Distinguished Professor, The University of Tokyo, Japan
+
+Professor Karen Uhlenbeck ForMemRS
+
+Distinguished Visiting Professor, Institute for Advanced Study, United States
+
+Professor Ronald Vale ForMemRS
+
+Executive Director, Janelia Research Campus and Vice President Howard Hughes Medical Institute, United States
+
+Professor Moshe Y Vardi ForMemRS
+
+University Professor and George Distinguished Service Professor in Computational Engineering, Department of Computer Science, Rice University, United States

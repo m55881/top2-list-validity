@@ -1,0 +1,301 @@
+FILE: RoyalSociety_2022_new_Fellows.txt
+SOURCE: Royal Society official news release, https://royalsociety.org/news/2022/05/new-fellows-2022/
+PAGE TITLE: Outstanding scientists elected as Fellows and Foreign Members of the Royal Society | Royal Society
+RETRIEVED: 2026-10-10T11:10:58.724Z
+FORMAT: plain-text copy of the article body (names with post-nominals, followed by position/affiliation line)
+
+/
+
+ News from the Royal Society
+
+ Outstanding scientists elected as Fellows and Foreign Members of the Royal Society
+
+ 09 May 2022
+
+ More than 60 exceptional scientists from around the world have been elected Fellows and Foreign Members of the Royal Society. The 51 Fellows and 10 Foreign Members along with one Honorary Fellow have been selected for their outstanding contributions to science. Their work spans multiple disciplines, from using AI to better detect strokes to developing new technologies for improved energy storage and expanding our understanding of genetic cancer risk factors in non-European populations. 
+
+As well as excellence in research, many of this year’s intake have made outstanding contributions in industry, policy and higher education.
+
+Sir Adrian Smith, President of the Royal Society said: “It is an honour to welcome so many outstanding researchers from around the world into the Fellowship of the Royal Society. 
+
+“Through their careers so far, these researchers have helped further our understanding of human disease, biodiversity loss and the origins of the universe. I am also pleased to see so many new Fellows working in areas likely to have a transformative impact on our society over this century, from new materials and energy technologies to synthetic biology and artificial intelligence. I look forward to seeing what great things they will achieve in the years ahead.”
+
+Among this year’s Fellows and Foreign Members:
+
+Sandra Knapp is elected as a Fellow, she has made major contributions to our understanding of plant evolution and tropical biodiversity, and has been a ceaseless public advocate for its conservation and appreciation. Ros Rickaby also becomes a Fellow and has made fundamental advances in understanding the evolution of the Earth’s surface, and the processes that continue to shape our environment today. Carlos Nobre joins as a Foreign Member; he is recognised for his work on biosphere-atmosphere interactions and the climate impacts of Amazon deforestation and his leadership of programmes that have shaped Brazilian science. Rachel Wood has made fundamental contributions to our understanding of the origin and evolution of important reef ecosystems, she becomes a Fellow. She is also among six alumni from the Society’s prestigious University Research Fellowship and Dorothy Hodgkin Fellowship schemes represented in this year’s intake of new Fellows.
+
+Tedros Ghebreyesus, Director General of the World Health Organization, has been made an Honorary Fellow in recognition of an outstanding career which has benefitted health worldwide. Menelas Pangalos joins the Fellowship having made outstanding contributions to applied life science as an academic neuroscientist and a pharmaceutical leader who has transformed AstraZeneca’s R&D pipeline. Andrew Rambaut also joins as a Fellow. He spearheaded the use of pathogen genome sequences to track, understand and respond to virus epidemics – work that has proved transformative during the COVID-19 pandemic.
+
+Yvonne Rogers is elected a Fellow for her pioneering contributions to the field of Ubiquitous Computing – interactive technologies and objects which can enhance our daily work and activities. Joining her as Fellows are Ilya Sutskever, who has been a major contributor to several of the most disruptive advances in artificial intelligence, from object recognition to natural language processing; and Paul Seymour, a renowned graph theorist whose vast and definitive contributions to structural graph theory have rewritten the textbooks of the area
+
+Elected as Fellows, Richard Gilbertson has transformed our understanding of the origins and pathogenesis paediatric brain tumours, improving their classifiction and treatment and providing new theraputic targets. Kate Storey has made seminal discoveries about embryonic development of the vertebrate spinal cord. Peter Goadsby has laid the scientific foundations for research into migraine and headaches, interrogating their mechanisms and developing new treatments. Irene Miguel-Aliaga has transformed our understanding of how organs communicate with one another and the importance of the gut-brain axis for regulating metabolism. Her insights have implications for the treatment and prevention of metabolic illnesses, such as diabetes and obesity, and may help explain why some diseases are more common in women, and why men and women respond differently to therapies. 
+
+Zeblon Vilakazi has made significant contributions to nuclear and particle physics in experiments at CERN and, as Vice Chancellor at the University of the Witwatersrand, has continued to build capacity for experimental particle physics and quantum computing in Sub-Saharan Africa. Chemist Richard Robson founded the field of metallic organic frameworks (MOFs), tailor-made structures with a range of applications in areas such as gas sorption and catalysis. He becomes a Fellow. Michael Thackeray joins the Fellowship for the discovery, design, and development of lithium metal oxide electrodes for lithium-ion battery systems – including technologies likely to be widely adopted in electric vehicles over the next decade. Michael Graetzel has been elected as a Foreign Member for his advances in photovoltaic technology, which are improving the yields of solar hydrogen generation using cheap and abundant light absorbers.
+
+ Also elected as Foreign Members, George Gao, whose contributions in the field of infection and immunity, particularly relating to emerging viral infections, have helped to improve our understanding of major threats to human health, and Maria Leptin, whose leadership in European science – currently as President of the European Research Council – builds on her research contributions across fields from immunity to genetics.
+
+This year’s Fellows and Foreign Members join the ranks of Stephen Hawking, Isaac Newton, Charles Darwin, Albert Einstein, Lise Meitner, Subrahmanyan Chandrasekhar and Dorothy Hodgkin. 
+
+Statistics about this year’s intake of Fellows:
+
+ 23.5% of this year’s intake of Fellows and Foreign Members are women
+
+ New Fellows have been elected from across the UK including, Belfast, Birmingham, Cambridge, Dundee, Edinburgh, Exeter, London, Loughborough, Manchester, Oxford, Southampton and Strathclyde and from around the world including Australia, Germany, South Africa and the USA
+
+ Alumni from the Society’s University Research Fellowship (URF) and Dorothy Hodgkin Fellowship (DHF) schemes are: Professor Andrew Harrison, URF,1988; Professor Susan Lea, DHF, 1995; Professor Oliver Pybus, URF, 2004; Andrew Rambaut, URF, 2001; Rachel Wood, URF, 1994 and Benjamin Sheldon, URF, 2000 
+
+The full list of the newly elected Fellows and Foreign Members of the Royal Society is, in alphabetical order:
+
+New Fellows
+
+Professor Fernando Alday FRS
+
+Professor, Mathematical Institute, University of Oxford
+
+Dr Simon Boulton FMedSci FRS
+
+Principal Group Leader, Francis Crick Institute
+
+Professor Graham Burton FMedSci FRS
+
+Mary Marshall and Arthur Walton Professor Emeritus of the Physiology of Reproduction, University of Cambridge
+
+Professor Jason Chin FMedSci FRS
+
+Head, Centre for Chemical and Synthetic Biology, and Joint Head, Division of Protein and Nucleic Acid Chemistry, MRC Laboratory of Molecular Biology; Professor of Chemistry and Chemical Biology, Yusuf Hamied Department of Chemistry, University of Cambridge; Associate Faculty in Synthetic Genomics, Wellcome Sanger Institute and Fellow in Natural Sciences, Trinity College, Cambridge
+
+Professor Roberto Cipolla FREng FRS
+
+Professor of Information Engineering, Department of Engineering, University of Cambridge
+
+Professor Martin Dawson FRS
+
+Professor, Institute of Photonics, Department of Physics, University of Strathclyde
+
+Professor Douglas Easton FMedSci FRS
+
+Professor of Genetic Epidemiology, Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge
+
+Professor Robin Franklin FMedSci FRS
+
+Principal Investigator, Altos Labs - Cambridge Institute
+
+Professor Pierre Friedlingstein FRS
+
+Professor, College of Engineering, Mathematics and Physical Sciences, University of Exeter
+
+Dr Eileen Furlong FRS
+
+Head of Department, Genome Biology Deptartment/Unit, European Molecular Biology Laboratory (EMBL), Germany
+
+Professor Vincent Fusco FREng FRS
+
+Professor of High Frequency Electronic Engineering, Director of Research EEECS, Queen's University Belfast
+
+Professor Richard Gilbertson FMedSci FRS
+
+Li Ka Shing Chair of Oncology and Head of Department of Oncology, University of Cambridge, Director of Cancer Research UK Cambridge Centre and Senior Group Leader, CRUK Cambridge Institute
+
+Professor Peter Goadsby FMedSci FRS
+
+Director, NIHR-Wellcome Trust King’s Clinical Research Facility and Professor of Neurology, King’s College London
+
+Professor Alain Goriely FRS
+
+Statutory Chair of Mathematical Modelling, Mathematical Institute, University of Oxford
+
+Dr Alexander Gould FMedSci FRS
+
+Principal Group Leader, Francis Crick Institute
+
+Professor Andrew Harrison OBE FRS
+
+CEO, Diamond Light Source Ltd
+
+Professor Jane Hillston FRS
+
+Professor and Head of School, School of Informatics, University of Edinburgh
+
+Professor Peter Hore FRS
+
+Professor of Chemistry, Department of Chemistry, University of Oxford
+
+Professor Nicholas Jennings CB FREng FRS
+
+Vice-Chancellor and President, Loughborough University
+
+Dr Sandra Knapp FRS
+
+Research Botanist, Natural History Museum, London
+
+Professor Susan Lea FMedSci FRS
+
+Chief and Senior Investigator, Center for Structural Biology, Center for Cancer Research, National Cancer Institute, National Institutes of Health, United States
+
+Professor Paul Lehner FMedSci FRS
+
+Professor of Immunology and Medicine, Cambridge Institute of Therapeutic Immunology and Infectious Disease, University of Cambridge
+
+Professor Andrew Livingston FREng FRS
+
+Vice Principal Research and Innovation and Professor of Chemical Engineering, Queen Mary University of London
+
+Professor Juergen Maier CBE FREng FRS
+
+Chair, Manchester Graphene Company, University of Manchester
+
+Professor Roberto Maiolino FRS
+
+Professor of Experimental Astrophysics, Cavendish Laboratory and Kavli Institute for Cosmology, University of Cambridge, and Honorary Professor at University College London
+
+Professor Oscar Marín FMedSci FRS
+
+Professor of Neuroscience and Director, MRC Centre for Neurodevelopmental Disorders and Director, Centre for Developmental Neurobiology, King’s College London
+
+Professor Angelos Michaelides FRS
+
+1968 Professor of Chemistry, Yusuf Hamied Department of Chemistry, University of Cambridge
+
+Professor Irene Miguel-Aliaga FMedSci FRS
+
+Professor of Genetics and Physiology, Imperial College London and MRC Investigator, MRC London Institute of Medical Sciences
+
+Professor Mark Newman FRS
+
+Anatol Rapoport Distinguished University Professor of Physics, Department of Physics and Center for the Study of Complex Systems, University of Michigan, United States
+
+Professor Rachel O'Reilly FRS
+
+Professor of Chemistry, School of Chemistry, University of Birmingham
+
+Sir Menelas Pangalos FMedSci FRS
+
+Executive Vice President and President, BioPharmaceuticals R&D, AstraZeneca
+
+Professor Robert Pressey FRS
+
+Professor, Australian Research Council Centre of Excellence for Coral Reef Studies, James Cook University, Australia
+
+Professor Trevor Price FRS
+
+Professor, Department of Ecology and Evolution, University of Chicago, United States
+
+Professor Oliver Pybus FRS
+
+Professor of Infectious Diseases, Department of Pathobiology and Population Sciences, Royal Veterinary College, London and Professor of Evolution and Infectious Disease, Department of Zoology, University of Oxford
+
+Professor Jordan Raff FMedSci FRS
+
+César Milstein Chair of Cancer Cell Biology, Sir William Dunn School of Pathology, University of Oxford
+
+Professor Andrew Rambaut FRS
+
+Chair of Molecular Evolution, School of Biological Sciences, University of Edinburgh
+
+Professor Ros Rickaby FRS
+
+Chair of Geology, Department of Earth Sciences, University of Oxford
+
+Professor Richard Robson FRS
+
+Professorial Fellow, School of Chemistry, University of Melbourne, Australia
+
+Professor Yvonne Rogers FRS
+
+Professor of Interaction Design, UCLIC Director and Deputy Head,  Computer Science Department, University College London
+
+Professor Jamie Rossjohn FMedSci FRS
+
+Professor, Department of Biochemistry and Molecular Biology, Biomedicine Discovery Institute, Monash University, Australia
+
+Professor Paul Seymour FRS
+
+Alfred Baldwin Dod Professor of Mathematics, Department of Mathematics, Princeton University, United States
+
+Professor Ben Sheldon FRS
+
+Luc Hoffmann Professor of Field Ornithology, Department of Department of Zoology, University of Oxford
+
+Professor Ian Shipsey FRS
+
+Henry Moseley Centenary Professor of Experimental Physics, University of Oxford
+
+Professor Kate Storey FMedSci FRS
+
+Head, Division of Cell and Developmental Biology, School of Life Sciences, University of Dundee
+
+Dr Ilya Sutskever FRS
+
+Co-Founder and Chief Scientist of OpenAI
+
+Dr Michael Thackeray FRS
+
+Argonne Emeritus Scientist and Distinguished Fellow, Chemical Sciences and Engineering Division, Argonne National Laboratory, United States
+
+Professor Zeblon Vilakazi FRS
+
+Vice Chancellor, University of the Witwatersrand, South Africa
+
+Professor Carola G. Vinuesa FRS
+
+Royal Society Wolfson Fellow, Principal Group Leader and Professor of Immunology, Francis Crick Institute and Australian National University
+
+Professor Vaclav Vitek FRS
+
+Professor Emeritus of Engineering and Applied Science, Department of Materials Science and Engineering, University of Pennsylvania, United States
+
+Professor Sally Ward FRS
+
+Director of Translational Immunology, Cancer Sciences Unit, Centre for Cancer Immunology, University of Southampton
+
+Professor Rachel Wood FRS
+
+Professor of Carbonate Geoscience, Grant Institute, School of GeoSciences, University of Edinburgh
+
+Honorary Fellowship
+
+Dr Tedros Ghebreyesus FRS
+
+Director General, World Health Organisation
+
+Foreign Membership
+
+Dr Charles Bennett ForMemRS
+
+Fellow, IBM Research Division
+
+Professor Donald Canfield ForMemRS
+
+Professor, Department of Biology, University of Southern Denmark, Denmark
+
+Professor Titia de Lange ForMemRS
+
+Leon Hess Professor, Laboratory for Cell Biology and Genetics, Rockefeller University, United States
+
+Professor George Gao ForMemRS
+
+Director-General, Chinese Center for Disease Control and Prevention, Vice President, National Natural Science Foundation of China, and Director and Professor, CAS Key Laboratory of Pathogen Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences
+
+Professor Michael Graetzel ForMemRS
+
+Professor and Director. Laboratory for Phtonics and Interfaces, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+
+Professor Hiroshi Hamada ForMemRS
+
+Team Leader, RIKEN Center for Biosystems and Dynamics Research, Japan
+
+Professor Maria Leptin ForMemRS
+
+Professor of Genetics, Institute of Genetics, University of Cologne and President of the European Research Council (ERC)
+
+Professor Carlos Nobre ForMemRS
+
+Senior Researcher, Institute of Advanced Studies, University of São Paulo, Science Director, Institute of Climate Studies, Federal University of Espírito Santo and Director of the Amazon Third Way Initiative/Amazonia 4.0 Project, Brazil
+
+Professor Peter Scholze ForMemRS
+
+Director, Max-Planck-Institut für Mathematik, Germany
+
+Professor Howard Stone ForMemRS
+
+Donald R Dixon ’69 and Elizabeth W Dixon Professor in Mechanical and Aerospace Engineering, School of Engineering and Applied Science, Princeton University, United States

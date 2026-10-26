@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Top 2% List Validity: code and data"
+authors:
+  - family-names: Alotaibi
+    given-names: Mansour M.
+    affiliation: "College of Applied Medical Sciences, Northern Border University, Arar, Saudi Arabia"
+date-released: 2026-10-26
+license: MIT

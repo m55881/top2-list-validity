@@ -1,0 +1,17 @@
+SELECT ?person ?scopus ?bodyName ?start ?personLabel ?familyLabel ?born ?died WHERE {
+  VALUES ?bodyName {
+    "National Academy of Sciences"@en "National Academy of Medicine"@en
+    "National Academy of Engineering"@en "Royal Society"@en
+    "German National Academy of Sciences Leopoldina"@en "French Academy of Sciences"@en
+    "Australian Academy of Science"@en "Royal Society of Canada"@en
+    "Chinese Academy of Sciences"@en "Academy of Medical Sciences"@en
+  }
+  ?body rdfs:label ?bodyName .
+  ?person p:P463 ?st . ?st ps:P463 ?body .
+  OPTIONAL { ?st pq:P580 ?start }
+  OPTIONAL { ?person wdt:P1153 ?scopus }
+  OPTIONAL { ?person wdt:P734 ?family }
+  OPTIONAL { ?person wdt:P569 ?born }
+  OPTIONAL { ?person wdt:P570 ?died }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

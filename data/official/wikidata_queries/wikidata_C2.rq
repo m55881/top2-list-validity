@@ -1,0 +1,10 @@
+SELECT ?person ?scopus ?date ?personLabel ?familyLabel ?born ?died WHERE {
+  ?award rdfs:label "Fellow of the Royal Society"@en .
+  ?person p:P166 ?st . ?st ps:P166 ?award .
+  OPTIONAL { ?st pq:P585 ?date }
+  OPTIONAL { ?person wdt:P1153 ?scopus }
+  OPTIONAL { ?person wdt:P734 ?family }
+  OPTIONAL { ?person wdt:P569 ?born }
+  OPTIONAL { ?person wdt:P570 ?died }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}

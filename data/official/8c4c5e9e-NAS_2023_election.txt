@@ -1,0 +1,356 @@
+FILE: NAS_2023_election.txt
+SOURCE: US National Academy of Sciences official press release, https://www.nasonline.org/news/2023-nas-election/
+PAGE TITLE: National Academy of Sciences Elects Members and International Members - NAS
+RETRIEVED: 2026-10-10T11:11:32.048Z
+FORMAT: plain-text copy of the press release body (same page type as the 2024 file already supplied)
+
+Skip to content
+
+ National Academy of Sciences Elects Members and International Members
+
+ WASHINGTON — The National Academy of Sciences announced today the election of 120 members and 23 international members in recognition of their distinguished and continuing achievements in original research.
+
+Those elected today bring the total number of active members to 2,565 and the total number of international members to 526. International members are nonvoting members of the Academy, with citizenship outside the United States.
+
+Newly elected members and their affiliations at the time of election are:
+
+Angrist, Joshua; co‐director, School Effectiveness and Inequality Initiative, and Ford Professor of Economics, Department of Economics, Massachusetts Institute of Technology, Cambridge
+
+Artavanis-Tsakonas, Spyros; professor of cell biology, emeritus, Department of Cell Biology, Harvard Medical School, Boston
+
+Banks, Thomas; Distinguished Professor, Department of Physics and Astronomy, Rutgers University, Piscataway, N.J.
+
+Bastian, Amy J.; chief science officer, Kennedy Krieger Institute; professor of neuroscience, Johns Hopkins University, Baltimore
+
+Bäumler, Andreas J.; professor and vice chair of research, Medical Microbiology and Immunology, University of California, Davis
+
+Berman, Helen M.; Board of Governors Distinguished Professor Emerita of Chemistry and Chemical Biology, Department of Chemistry and Chemical Biology, Rutgers University, New Brunswick, N.J.
+
+Bernhardt, Emily S.; James B. Duke Distinguished Professor of Biology, Department of Biology, Duke University, Durham, N.C.
+
+Block, Barbara A.; professor, Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, Calif.
+
+Bluestone, Jeffrey A.; president and chief executive officer, Sonoma Biotherapeutics; A.W. and Mary Margaret Clausen Distinguished Professor in the Diabetes Center at University of California, San Francisco
+
+Bodnar, Robert J.; University Distinguished Professor and C.C. Garvin Professor of Geochemistry, Department of Geosciences, Virginia Tech, Blacksburg
+
+Boneh, Dan; Chaired Professorship, Computer Science Department, Stanford University, Stanford, Calif.
+
+Brainard, David H.; RRL Professor of Psychology; director, Vision Research Center; University of Pennsylvania, Philadelphia
+
+Bresnan, Joan W.; Sadie Dernham Patek Professor in Humanities, Emerita, and senior researcher, Center for the Study of Language and Information, Department of Linguistics, Stanford University, Stanford, Calif.
+
+Brodsky, Emily E.; professor, earth and planetary sciences, University of California, Santa Cruz
+
+Chao, Moses V.; professor, Department of Cell Biology, Psychiatry, Neuroscience and Physiology, Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York City
+
+Chen, Gang; Carl Richard Soderberg Professor of Power Engineering, Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge
+
+Coley, Phyllis D.; research associate, Smithsonian Tropical Research Institute; professor emerita, Department of Biology, University of Utah, Salt Lake City
+
+Comai, Luca; professor, Department of Plant Biology and the Genome Center, University of California, Davis
+
+Coussens, Lisa M.; associate director for basic science, Knight Cancer Institute; and professor and chair, Department of Cell, Developmental, and Cancer Biology, Oregon Health & Science University, Portland
+
+Crandall, Michael; professor emeritus, Department of Mathematics, University of California, Santa Barbara
+
+DeBose-Boyd, Russell A.; Beatrice and Miguel Elias Distinguished Professor, Department of Molecular Genetics, University of Texas Southwestern Medical Center, Dallas
+
+Devoret, Michel H.; professor of applied physics, Department of Applied Physics, Yale University, New Haven, Conn.
+
+DiVincenzo, David P.; director, Theoretical Nanoscience Jülich Research Center; and professor, Institute for Quantum Information, RWTH Aachen, Aachen, Germany
+
+Dongarra, Jack; Distinguished Research Staff, Oak Ridge National Laboratory; Turing Fellow, University of Manchester; and University Distinguished Professor, Department of Electrical Engineering and Computer Science, University of Tennessee, Knoxville
+
+Drennan, Catherine L.; professor of chemistry and biology, Drennan Research and Education Laboratory, Massachusetts Institute of Technology, Cambridge
+
+Dressler, William W.; professor emeritus of anthropology, Department of Anthropology, University of Alabama, Tuscaloosa
+
+Driscoll, Monica; professor, Department of Molecular Biology and Biochemistry, Rutgers University, Piscataway, N.J.
+
+Earle, Timothy K.; professor emeritus of anthropology, Department of Anthropology, Northwestern University, Evanston, Ill.
+
+Elisseeff, Jennifer; founder and director, Translactional Tissue Engineering Center; and full professor, School of Medicine, Johns Hopkins University, Baltimore
+
+Emlen, Douglas J.; professor, Division of Biological Sciences, University of Montana, Missoula
+
+Farrar, Glennys R.; professor of physics and Collegiate Professor, Department of Physics, New York University, New York City
+
+Fauci, Lisa J.; professor, Department of Mathematics, Tulane University, New Orleans
+
+Feller, Marla; professor of neurobiology, Department of Molecular and Cell Biology, University of California, Berkeley
+
+Fishell, Gordon; professor of neurobiology, Harvard Medical School, Boston
+
+Fraser, Claire M.; professor of medicine and director, Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore
+
+Garcia-Garibay, Miguel A.; professor and dean of physical sciences, Division of Physical Sciences, University of California, Los Angeles
+
+Goodenough, Ursula W.; professor emerita of biology, Department of Biology, Washington University, St. Louis
+
+Gordon, Cameron M.; professor, Department of Mathematics, University of Texas, Austin
+
+Greenberg, Philip; member and head, program in immunology, Fred Hutchinson Cancer Research Center; and professor of immunology and medicine, Division of Oncology, University of Washington School of Medicine, Seattle
+
+Handelsman, Jo; professor and director, Wisconsin Institute for Discovery, University of Wisconsin-Madison
+
+Harper, J. Wade; chairman and professor, Department of Cell Biology, Harvard Medical School, Boston
+
+Hayes, Tyrone B.; professor of integrative biology, University of California, Berkeley
+
+Hoynes, Hilary W.; professor and Haas Distinguished Chair in Economic Disparities, Public Policy, and Economics, Goldman School of Public Policy and Department of Economics, University of California, Berkeley
+
+Hubbell, Jeffrey A.; director, Chicago Immunoengineering Innovation Center, and Eugene Bell Professor, The University of Chicago, Chicago
+
+Johnson, Catherine L.; professor, Department of Earth, Ocean, and Atmospheric Sciences, University of British Columbia, Vancouver; senior scientist, Planetary Science Institute, Tucson
+
+Jones, James M.; director, Center for the Study of Diversity, and Trustees Distinguished Professor Emeritus, Department of Psychological and Brain Science, University of Delaware, Newark
+
+Jones Forman, Christine A.; senior astrophysicist and lecturer, Center for Astrophysics  Harvard & Smithsonian, Cambridge, Mass.
+
+Julienne, Paul S.; adjunct professor, Joint Quantum Institute, University of Maryland, College Park
+
+Kass, Robert E.; Maurice Falk Professor of Statistics and Computational Neuroscience and Endowed Chair, Carnegie Mellon University, Pittsburgh
+
+Katabi, Dina; professor, MIT Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge
+
+Kelly, Jeffery W.; Lita Annenberg Hazen Professor of Chemistry, Department of Chemistry, The Scripps Research Institute, La Jolla, Calif.
+
+Kimmerer, Robin W.; Distinguished Teaching Professor, Environmental Biology, State University of New York, Syracuse
+
+Koller, Daphne; co‐founder and co‐chair, Coursera; and founder and CEO, INSITRO, South San Francisco, Calif.
+
+Kossiakoff, Anthony A.; professor, Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago
+
+Kruglyak, Leonid; investigator, Howard Hughes Medical Institute; Distinguished Professor, Department of Biological Chemistry, University of California, Los Angeles
+
+Lehmann, Johannes; Liberty Hyde Bailey Professor, Soil and Crop Sciences, School of Integrative Plant Science, Cornell University, Ithaca, N.Y.
+
+Lemos, Maria C.; professor, Natural Resources and Environment, University of Michigan, Ann Arbor
+
+Lin, Xihong; coordinating director, program in quantitative genomics, Harvard T.H. Chan School of Public Health; and professor of statistics, Department of Biostatistics, Harvard University, Boston
+
+Lobell, David; Gloria and Richard Kushel Director of the Center on Food Security and the Environment; professor, Earth System Science; Stanford University, Stanford, Calif.
+
+Long, Jeffrey R.; Judon King Distinguished Professor, College of Chemistry, University of California, Berkeley
+
+Lowell, Bradford B.; professor of medicine, Harvard Medical School, Boston
+
+Makri, Nancy; Edward Williams and Jane Marr Gutgsell Chair and professor in chemistry, Department of Chemistry, University of Illinois, Urbana-Champaign
+
+McKinnon, William B.; professor of earth and planetary sciences, Department of Earth and Planetary Sciences, Washington University, St. Louis
+
+Moazed, Danesh; professor of cell biology, Department of Cell Biology, Harvard Medical School, Boston
+
+Moseley, S. Harvey; vice president, hardware engineering, Quantum Circuits Inc., University Park, Md.
+
+Nussenzweig, Andre; branch chief, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Md.
+
+Odom, Teri W.; Madden Professor of Chemistry and chair, Department of Chemistry, Northwestern University, Evanston, Ill.
+
+O’Shea, John J.; scientific director, National Institute of Arthritis and Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, Md.
+
+Pan, Duojia; investigator, Howard Hughes Medical Institute; and professor and department chair of physiology, University of Texas Southwestern Medical Center, Dallas
+
+Parrish, Colin R.; John M. Olin Professor of Virology, Baker Institute for Animal Health, Cornell University, Ithaca, N.Y.
+
+Peichel, Catherine L.; head, Division Evolutionary Ecology, Institute of Ecology and Evolution, University of Bern, Bern, Switzerland
+
+Perozo, Eduardo A.; professor of biochemistry and molecular biology, Department of Biochemistry and Molecular Biology, The University of Chicago, Chicago
+
+Piazzesi, Monika; Joan Kenney Professor of Economics and professor of economics, Department of Economics, Stanford University, Stanford, Calif.
+
+Pierce, Naomi; principal investigator, Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, Mass.
+
+Piwnica-Worms, Helen M.; professor of cancer biology and experimental radiation, University of Texas MD Anderson Cancer Center, Houston
+
+Pyle, Anna Marie; investigator, Howard Hughes Medical Institute; and Sterling Professor of Molecular, Cellular, and Developmental Biology, professor of chemistry, Yale University, New Haven, Conn.
+
+Rey, Ana Maria; JILA and NIST Fellow, National Institute of Standards and Technology, University of Colorado, Boulder
+
+Rick, Torben C.; curator and research scientist, Department of Anthropology, Smithsonian Institution, Washington, D.C.
+
+Rio, Donald C.; professor, Department of Molecular and Cell Biology, University of California, Berkeley
+
+Rotunno, Richard; senior scientist, Mesoscale and Microscale Meteorology Lab, National Center for Atmospheric Research, Boulder, Colo.
+
+Saez, Emmanuel; professor of economics, University of California, Berkeley
+
+Segura, Gary M.; professor of political science and public policy and dean, UCLA Luskin School of Public Affairs, University of California, Los Angeles
+
+Sellers, Robert M.; Charles D. Moody Collegiate Professor of Psychology and Education, University of Michigan, Ann Arbor
+
+Shadlen, Michael N.; professor of neuroscience, Columbia University, New York City
+
+Shechtman, Dan; Distinguished Professor, Department of Materials Science and Engineering, Iowa State University, Ames
+
+Shindell, Drew T.; Nicholas Distinguished Professor, Nicholas School of the Environment, Duke University, Durham, N.C.
+
+Shklovskii, Boris I.; A.S. Fine Chair of Theoretical Physics, University of Minnesota, Minneapolis
+
+Silver, Pamela A.; Elliot T. and Onie H. Adams Professor of Biochemistry and Systems Biology, Department of Systems Biology, Harvard Medical School, Boston
+
+Silverman, Richard B.; Ryan/Aon Professor, Department of Chemistry and Department of Molecular Biosciences, Northwestern University, Evanston, Ill.
+
+Stahl, Shannon S.; Steenbock Professor of Chemical Sciences, Department of Chemistry, University of Wisconsin – Madison
+
+Stephanopoulos, Gregory; director, Laboratory of Metabolic Engineering and Bioinformatics, and W.H. Dow Professor of Biotechnology and Chemical Engineering, Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge
+
+Sundaresan, Venkatesan; Distinguished Professor, College of Biological Sciences, University of California, Davis
+
+Szalay, Alexander S.; Bloomberg Distinguished Professor, Department of Computer Science, and director, Institute for Data Intensive Engineering and Science, Johns Hopkins University, Baltimore
+
+Tabashnik, Bruce E.; Regents Professor and department head, Department of Entomology, University of Arizona, Tucson
+
+Tanaka, Elly M.; senior scientist, Research Institute of Molecular Pathology, Vienna
+
+Tilley, T. Don; PMP Tech Chancellor’s Chair in Chemistry, Department of Chemistry, University of California, Berkeley
+
+Ting, Alice; professor of genetics, biology, and, by courtesy, chemistry, Department of Genetics, Stanford University, Stanford, Calif.
+
+Tranquada, John M.; group leader for neutron scattering, Condensed Matter Physics and Materials Science Department, Brookhaven National Laboratory, Upton, N.Y.
+
+Tye, Bik-Kwoon; professor, molecular biology and genetics, College of Agriculture and Life Sciences, Cornell University, Ithaca, N.Y.
+
+Uhlmann, Gunther; Robert R. and Elaine F. Phelps Endowed Professor, Department of Mathematics, University of Washington, Seattle
+
+Venkatesh, Akshay; Robert and Luisa Fernholz Professor, School of Mathematics, Institute for Advanced Study, Princeton, N.J.
+
+Vierling, Elizabeth; Distinguished Professor, Department of Biochemistry and Molecular Biology, University of Massachusetts, Amherst
+
+Voeltz, Gia K.; investigator, Howard Hughes Medical Institute; and professor of molecular and cellular biology, University of Colorado, Boulder
+
+von Andrian, Ulrich H.; program leader, Ragon Institute of MGH, MIT, and Harvard; and Edward Mallinckrodt Professor of Immunopathology, Department of Immunology, Harvard Medical School, Boston, Mass.
+
+Vuckovic, Jelena; professor of electrical engineering, Fortinet Founders Chair of Electrical Engineering, and Jensen Huang Professor in Global Leadership, School of Engineering, Stanford University, Stanford, Calif.
+
+Wadhwa, Meenakshi; director and professor, School of Earth and Space Exploration, Arizona State University, Tempe
+
+Walter, Barbara F.; Rohr Professor of International Relations, School of Global Policy and Strategy, University of California, San Diego, La Jolla
+
+Wang, Michelle D.; investigator, Howard Hughes Medical Institute; and James Gilbert White Distinguished Professor of the Physical Sciences, Department of Physics, Cornell University, Ithaca, N.Y.
+
+Watts, Duncan; Stevens University Professor and Professor, Department of Computer and Information Science, Annenberg School of Information, and Operations, Information, and Decisions Department, University of Pennsylvania
+
+Weinberg, David H.; department chair and Distinguished University Professor, Department of Astronomy, Ohio State University, Columbus
+
+Weiss, Susan R.; professor of microbiology, Department of Microbiology, University of Pennsylvania Perelman School of Medicine, Philadelphia
+
+Wendel, Jonathan F.; Distinguished Professor, Department of Ecology, Evolution, and Organismal Biology, Iowa State University, Ames
+
+Wood, Richard D.; J. Ralph Meadows Chair in Carcinogenesis Research and professor, Department of Epigenetics and Molecular Carcinogenesis, University of Texas MD Anderson Cancer Center, Houston
+
+Woodin, W. Hugh; professor of philosophy and mathematics, Department of Philosophy, Harvard University, Cambridge, Mass.
+
+Xiao, Shuhai; professor of geobiology, Department of Geosciences, Virginia Tech, Blacksburg
+
+Yoder, Anne D.; Braxton Craven Distinguished Professor of Biology, Department of Biology, Duke University, Durham, N.C.
+
+Zamore, Phillip D.; professor and chair, RNA Therapeutics Institute, University of Massachusetts Medical School, Worcester
+
+Zaret, Kenneth S.; professor, Department of Cell and Developmental Biology, University of Pennsylvania, Philadelphia
+
+Zeng, Hongkui; executive vice president and director, Allen Institute for Brain Science, Seattle
+
+Zhou, Min; Walter and Shirley Wang Endowed Chair in US‐China Relations and Communications, Department of Sociology, University of California, Los Angeles
+
+Newly elected international members, their affiliations at the time of election, and their country of citizenship are:
+
+Balasubramanian, Shankar; Herchel Smith Professor of Medicinal Chemisty, University of Cambridge; and senior group leader, Cancer Research UK Cambridge Institute (United Kingdom)
+
+Bock, Ralph; professor, University of Potsdam; and director, Max Planck Institute of Molecular Plant Physiology (Germany)
+
+Clarke, Jane; president, Wolfson College, University of Cambridge (United Kingdom)
+
+Combes, Françoise; professor of galaxies and cosmology, Collège de France; and astronomer, Paris Observatory (France)
+
+Dehant, Véronique; head of service and senior research scientist, Royal Observatory of Belgium (Belgium)
+
+Etheridge, Alison M.; professor of probability, department of statistics, University of Oxford (United Kingdom)
+
+Fahrig, Lenore; professor of biology, Chancellor’s Professor, Carleton University (Canada)
+
+Georges, Antoine; professor and chair of condensed matter physics, Collège de France (France)
+
+Hinton, Geoffrey E.; professor emeritus, University of Toronto (Canada and the United Kingdom)
+
+Kashiwara, Masaki; emeritus and project professor, Research Insitute for Mathematical Sciences, Kyoto University (Japan)
+
+Khot, Subhash A.; professor of computer science, Courant Institute of Mathematical Sciences, New York University (India)
+
+Kim, Philip; professor of physics and of applied physics, physics department, Harvard University (South Korea)
+
+Leptin, Maria; president, European Research Council; and professor, Institute of Genetics, University of Cologne (Germany)
+
+Magallón Puebla, Susana; director, Institute of Biology; and investigador, department of botany, Universidad Nacional Autónoma de México (Mexico)
+
+Nasmyth, Kim; Whitley Chair, department of biochemistry, University of Oxford (United Kingdom)
+
+Parker, Jane E.; professor and research group leader, department of plant-microbe interactions, Max Planck Institute for Plant Breeding Research (United Kingdom)
+
+Picard, Dominique; emeritus professor, mathematics, Paris Diderot University (France)
+
+Prentice, Andrew M.; head and professor of international nutrition, MRC Unit, The Gambia London School of Hygiene and Tropical Medicine (United Kingdom)
+
+Roberts, Richard J.; chief scientific officer, New England BioLabs Inc. (United Kingdom)
+
+Shiloh, Yosef; professor emeritus, department of human molecular genetics and biochemistry, Tel Aviv University (Israel)
+
+Smith, Linda Tuhiwai Te Rina; distinguished professor, Ngā Pae O Te Māramatanga, Te Whare Wānanga O Awanuiārangi, (New Zealand)
+
+Torto, Baldwyn; head, Behavioral and Chemical Ecology Unit, International Centre for Insect Physiology and Ecology (Ghana)
+
+Zamir, Dani; professor emeritus, Faculty of Agriculture, Institute of Plant Sciences, The Hebrew University of Jerusalem (Israel)
+
+The National Academy of Sciences is a private, nonprofit institution that was established under a congressional charter signed by President Abraham Lincoln in 1863. It recognizes achievement in science by election to membership, and—with the National Academy of Engineering and the National Academy of Medicine—provides science, engineering, and health policy advice to the federal government and other organizations.
+
+Contacts:
+
+Molly Galvin
+
+Office of News and Public Information
+
+202-334-2138; e-mail: news@nas.edu
+
+https://www.nasonline.org/
+
+Twitter: @theNASciences
+
+ Post Type
+
+Press Release
+
+ Publish Date
+
+May 2, 2023
+
+Share
+
+ Latest Posts
+
+ New NAS President Takes Office
+
+ NAS President Marcia McNutt Delivered Annual State of the Science Address
+
+ Science Academies “S7” Statements Call on Governments to Protect the Arctic, Manage Large Satellite Constellations, and Advance Brain Health
+
+ Latest Posts
+
+ View All News
+
+ Press Release July 6, 2026
+
+ New NAS President Takes Office
+ Learn More
+
+ Featured June 11, 2026
+
+ NAS President Marcia McNutt Delivered Annual State of the Science Address
+ Learn More
+
+ Featured May 19, 2026
+
+ Science Academies “S7” Statements Call on Governments to Protect the Arctic, Manage Large Satellite Constellations, and Advance Brain Health
+ Learn More
+
+Scroll To Top

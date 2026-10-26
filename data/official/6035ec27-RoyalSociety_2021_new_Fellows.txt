@@ -1,0 +1,210 @@
+FILE: RoyalSociety_2021_new_Fellows.txt
+SOURCE: Royal Society official news release, https://royalsociety.org/news/2021/05/new-fellows-announcement-2021/
+PAGE TITLE: Royal Society elects outstanding new Fellows and Foreign Members | Royal Society
+RETRIEVED: 2026-10-10T11:10:58.251Z
+FORMAT: plain-text copy of the article body (names with post-nominals, followed by position/affiliation line)
+
+/
+
+ News from the Royal Society
+
+ Royal Society elects outstanding new Fellows and Foreign Members
+
+ 06 May 2021
+
+ Over 60 outstanding scientists from all over the globe have joined the Royal Society as Fellows and Foreign Members. The distinguished group of scientists consists of 52 Fellows, 10 Foreign Members and one Honorary Fellow and were all selected for their exceptional contributions to science. 
+Their achievements and research are diverse and range from the detection of a new type of neuron in the human brain and the design and development of new vaccines for globally important infectious diseases to a new way of looking at Einstein’s theory of general relativity and contributing to understanding the link between the increase in sea levels and global warming. The new Fellows and Foreign Members originate from around the world and include one Nobel laureate as well as academics and world-renowned figures from industry.
+Sir Adrian Smith, President of the Royal Society, said:
+“This is the first year of my presidency at the Royal Society and I’ve been very much looking forward to welcoming the newly elected Fellows and Foreign Members. 
+“The global pandemic has demonstrated the continuing importance of scientific thinking and collaboration across borders. Each Fellow and Foreign Member bring their area of scientific expertise to the Royal Society and when combined, this expertise supports the use of science for the benefit of humanity. 
+“Our new Fellows and Foreign Members are all at the forefronts of their fields from molecular genetics and cancer research to tropical open ecosystems and radar technology. It is an absolute pleasure and honour to have them join us.”
+Among this year’s Fellows and Foreign Members:
+Adrian Hill is elected as Fellow for his world-leading work in the design and development of new vaccines for globally important infectious diseases. He founded and directs the Jenner Institute at Oxford University, one of the leading academic vaccine institutes globally.
+Jane Francis joins as a Fellow for her significant contributions to our knowledge of the climate history of polar regions. Ian Boyd is a marine and polar scientist with a focus on the management of marine resources and human impacts on the marine environment. Karen Heywood was the first in her field to show the crucial roles that Antarctic slope currents play in heat transfer to ice shelves, in krill ecology and in bottom water formation. Paul Bates develops new numerical solutions to the Shallow Water equations and combines these with satellite and airborne data to advance our fundamental understanding of flood dynamics and reduce threats to life and economic losses worldwide.
+Abigail Sellen is elected as one of the most highly cited and influential scientists in the field of Human-Computer Interaction. Her career has spanned both academia and industrial research with many of the world's leading technology companies, and her seminal contributions laid foundations for technologies used today by billions of people including video conferencing and teleworking. Richard Samworth has been elected for his fundamental contributions to the development of modern statistical methodology and theory. David Silver has made major contributions to seminal projects including DQN, the world's first end-to-end reinforcement learning system, and AlphaGo, trained through self-play to become the first program to defeat a world champion Go player, a feat considered by many to be a decade ahead of its time. He was previously a Royal Society University Research Fellow.
+Nobel Prize winner Stanley Whittingham has also been elected for his work on materials for energy-related applications, and in particular for electrochemical energy storage and his role in the development of Lithium-ion batteries. Nigel Brandon works on electrochemical devices for energy applications and is the inventor of of fuel cell technology now being commercialised by LG and Rolls-Royce.
+Bernard Schutz is honoured for his work driving the field of gravitational wave searches, leading to their direct detection in 2015. Geoffrey Hall’s work on detector designs and exploitation of programmable digital electronics for real-time measurements will considerably extend the physics reach of the LHC.
+For his lifelong contributions to the quantum theory of gravity, Stanley Deser becomes a Foreign Member of the Royal Society. He is joined by Giacomo Rizzolatti for his work including the discovery of mirror neurons in the human motor cortex. Biochemical Engineer, Sang Yup Lee and molecular cell biologist V. Narry Kim become the first Foreign Members elected from Korea. 
+Sadaf Farooqi is distinguished for her discoveries of fundamental mechanisms that control human energy homeostasis and their disruption in obesity and evolutionary biologist, Peter Campbell was an early adopter of genomic technologies to study the underlying mechanisms of cancer and his work has led the development of an entirely new approach to investigating cancer. Fiona Marshall is known for her discoveries in the field of G protein-coupled receptors (GPCRs). Her work has enabled structure-based drug design leading to a pipeline of drugs in clinical development for diseases including Alzheimer's disease and cancer.
+Rebecca Kilner becomes a Fellow for her discoveries in how social behaviour drives evolutionary change. She was previously a Royal Society Dorothy Hodgkin Fellow and a Royal Society University Research Fellow. Usha Goswami becomes a Fellow for her fundamental contributions to understanding how individual differences in children's 'phonological awareness' (of word sound structure) underpin reading development and dyslexia across languages. 
+Frank Close is elected a Fellow for his extraordinarily effective work in explaining profound concepts in physics at all levels of society including in parliament and to the general public. Andy Haldane’s research and policy career spans the intersection between academe, public policy and civil society, often using cross-disciplinary approaches to provide creative solutions to pressing public policy problems
+John Kingman becomes an Honorary Fellow for his unwavering support for science throughout his career. He has been an important and highly effective force for good for UK science and innovation for many years, through his career in the Treasury, his steering role in the creation of UK Research and Innovation and subsequent chairmanship. 
+Some statistics about this year’s intake are as follows:
+ 20 of this year’s intake of Fellows (16) and Foreign Members (4) are women – this is 31.7% of the 2021 intake and an increase of 9.1% compared to 2020
+ New Fellows have been elected from institutions across the UK, (London, Cambridge, Bristol St Andrews, Oxford, Birmingham, East Anglia, Leeds), the Commonwealth (South Africa, Canada, Australia, Singapore) and around the world (the US, Switzerland, Germany) 
+ The first two Foreign Members have been elected from South Korea
+Our new Fellows and Foreign Members join the ranks of Stephen Hawking, Isaac Newton, Charles Darwin, Albert Einstein, Lise Meitner, Subrahmanyan Chandrasekhar and Dorothy Hodgkin who all enriched the Society with their expertise. 
+The full list of the newly elected Fellows and Foreign Members of the Royal Society is, in alphabetical order:
+Professor Julie Ahringer FMedSci FRS
+Director, Wellcome Trust/Cancer Research UK Gurdon Institute, University of Cambridge
+Professor Glen Barber FRS
+Professor and Chairman, Department of Cell Biology, University of Miami Miller School of Medicine, United States
+Professor Paul Bates CBE FRS
+Professor of Hydrology, School of Geographical Sciences, University of Bristol
+
+Professor Richard Benton FRS
+Professor, Center for Integrative Genomics, University of Lausanne, Switzerland
+
+Professor William Bond FRS
+Emeritus Professor, Department of Biological Sciences, University of Cape Town, South Africa
+
+Professor Sir Ian Boyd FRS
+Professor in Biology, School of Biology, University of St Andrews
+
+Professor Nigel Brandon OBE FREng FRS
+Chair, Sustainable Development in Energy and Dean, Faculty of Engineering, Imperial College London
+
+Dr Peter Campbell FMedSci FRS
+Head, Cancer, Ageing, and Somatic Mutations Programme, Wellcome Sanger Institute
+
+Professor Frank Close OBE FRS
+Professor of Theoretical Physics Emeritus and Fellow Emeritus of Exeter College, University of Oxford
+
+Professor David Craik FRS
+Director, ARC Centre of Excellence for Innovations in Peptide and Protein Science, Group Leader, Chemistry and Structural Biology Division and Director, Clive and Vera Ramaciotti Facility for Producing Pharmaceuticals in Plants, Institute for Molecular Bioscience, University of Queensland, Australia
+Professor Donald Dingwell OC FRS
+Earth and Environmental Sciences, LMU - University of Munich, Germany
+Dr Connie Eaves FRS
+Distinguished Scientist, Terry Fox Laboratory, British Columbia Cancer Research Institute and University Professor, Departments of Medical Genetics, Medicine, Pathology & Laboratory Medicine, and the School of Biomedical Engineering, University of British Columbia, Canada
+Professor Sadaf Farooqi FMedSci FRS
+Professor of Metabolism and Medicine, Wellcome-MRC Institute of Metabolic Science, University of Cambridge
+Professor Ten Feizi FMedSci FRS
+Director, Glycosciences Laboratory, Department of Metabolism, Digestion and Reproduction, Faculty of Medicine, Imperial College London
+
+Professor Michael Finnis FRS
+Professor, Department of Materials and Department of Physics, Imperial College London
+
+Professor Julie Forman-Kay FRS
+Senior Scientist and Program Head, Molecular Medicine, The Hospital for Sick Children (SickKids) and Professor, Department of Biochemistry, University of Toronto, Canada
+Professor Dame Jane Francis DCMG FRS
+Director, British Antarctic Survey
+
+Professor Vernonica Franklin-Tong FRS
+Professor in Plant Cell Biology, School of Biosciences, University of Birmingham
+Professor Usha Goswami CBE FBA FRS
+Professor of Cognitive Developmental Neuroscience, Department of Psychology, University of Cambridge
+Professor Hugh Griffiths OBE FREng FRS
+Royal Academy of Engineering / Thales Chair of RF Sensors, Department of Electronic and Electrical Engineering, University College London
+
+Mr Andrew Haldane FRS
+Chief Economist, Bank of England (until June 2021) and Chief Executive Officer, Royal Society for Arts, Manufactures and Commerce (September 2021 - onwards)
+
+Professor Geoffrey Hall FRS
+Professor of Physics, Blackett Laboratory, Imperial College London
+
+Professor Karen Heywood FRS
+Professor of Physical Oceanography, Centre for Ocean and Atmospheric Sciences, School of Environmental Sciences, University of East Anglia
+
+Professor Adrian Hill FRS
+Lakshmi Mittal and Family Professor of Vaccinology and Director, The Jenner Institute, Nuffield Department of Medicine, University of Oxford
+
+Professor Richard Horne FRS
+Head, Space Weather and Atmosphere, British Antarctic Survey
+
+Professor Gregory Houseman FRS
+Emeritus Professor of Geophysics, School of Earth and Environment, University of Leeds
+
+Professor Rebecca Kilner FRS
+Professor of Evolutionary Biology and Director, University Museum of Zoology, University of Cambridge
+
+Professor Roger Lemon FRS
+Sobell Chair of Neurophysiology, Queen Square Institute of Neurology, University College London
+
+Dr Fiona Marshall FMedSci FRS
+Senior Vice President Head of Discovery Sciences and Translational Medicine, MSD
+
+Professor Thomas Muir FRS
+Van Zandt Williams Jr. Class of '65 Professor of Chemistry, Princeton University, United States
+
+Professor Frances Platt FMedSci FRS
+Professor of Biochemistry and Pharmacology, Department of Pharmacology, University of Oxford
+
+Professor Jeremy Quastel FRS
+Professor, Department of Mathematics, University of Toronto, Canada
+
+Professor Marilyn Renfree FRS
+Melbourne Laureate Professor and Ian Potter Chair of Zoology, School of BioSciences, University of Melbourne
+
+Professor David Rowitch FMedSci FRS
+Professor of Paediatrics and Head of Department, Department of Paediatrics, University of Cambridge and Adjunct Professor of Pediatrics, University of California, San Francisco, United States
+
+Professor Richard Samworth FRS
+Professor of Statistical Science and Director, Statistical Laboratory, University of Cambridge
+
+Dr Sjors Scheres FRS
+Group Leader, Structural Studies Division, MRC Laboratory of Molecular Biology
+
+Professor Bernard Schutz FRS
+Professor, School of Physics and Astronomy, and Fellow and founding Director, Data Innovation Research Institute, Cardiff University; and Director (retired), Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
+Professor Abigail Sellen FREng FRS
+Deputy Lab Director, Microsoft Research
+
+Professor David Silver FRS
+Principal research scientist, DeepMind and Professor of Computer Science, Department of Computer Science, University College London
+
+Professor Benjamin Simons FRS
+Royal Society EP Abraham Professor, Gurdon Institute and Department of Applied Mathematics and Theoretical Physics, University of Cambridge
+Professor Endre Süli FRS
+Professor of Numerical Analysis, Mathematical Institute, University of Oxford
+
+Professor Richard Sutton FRS
+Professor, Department of Computing Science, University of Alberta, Canada and Distinguished Research Scientist, DeepMind
+
+Professor Louis Taillefer FRS
+Professor, Department of Physics and Institut quantique, Université de Sherbrooke, Canada
+
+Dr Christopher Tate FRS
+MRC Investigator, MRC Laboratory of Molecular Biology
+
+Professor Philip Torr FREng FRS
+Professor, Department of Engineering Science, University of Oxford
+
+Professor Thirumalai Venkatesan FRS
+Director, Center for Quantum Research and Technology and Professor of Physics and ECE, University of Oklahoma (from July 2021), and Affiliate Scientist, National Institute of Standards and Technology (NIST) Gaithersburg, United States, and Adjunct Professor, Electrical and Computer Engineering Department, National University of Singapore
+Professor Karen Vogtmann FRS
+Professor, Mathematics Institute, University of Warwick and Goldwin Smith Professor Emeritus, Cornell University, USA
+
+Professor Bruce Weir FRS
+Professor, Department of Biostatistics, University of Washington, United States
+
+Sir Simon Wessely FMedSci FRS
+Regius Chair of Psychiatry, Institute of Psychiatry, Psychology & Neurosciences, King's College London and Past President, Royal College of Psychiatrists and Royal Society of Medicine
+
+Professor Stanley Whittingham FRS
+Distinguished Professor of Chemistry and Materials Science and Engineering, Department of Chemistry, Binghamton University, United States
+
+Professor Charlotte Williams FRS
+Professor of Inorganic Chemistry, Department of Chemistry, University of Oxford
+Honorary Fellowship
+Sir John Kingman FRS
+Chair, UK Research and Innovation; Group Chairman, Legal and General plc; Chairman, Tesco Bank; Deputy Chair, The National Gallery; Trustee, Royal Opera House; and a World Fellow, Yale University
+Foreign Membership
+Professor Stephen Benkovic ForMemRS
+Evan Pugh University Professor and Eberly Chair in Chemistry, Department of Chemistry, Pennsylvania State University, United States
+
+Dr Anny Cazenave ForMemRS
+Emeritus scientist at LEGOS/CNES, France and Director for Earth Sciences, International Space Science Institute, Switzerland
+
+Professor Elena Conti ForMemRS
+Director and Scientific Member, Max Planck Institute for Biochemistry, Germany
+
+Professor Stanley Deser ForMemRS
+Senior Research Associate, Brandeis University and Institute of Theoretical Physics, Caltech, United States
+
+Dr Vishva Dixit ForMemRS
+Vice President, Early Discovery Research, Genentech Inc, United States
+
+Professor Michael Jordan ForMemRS
+Professor, Department of Electrical Engineering and Computer Sciences and Department of Statistics, University of California, Berkeley, United States
+
+Professor V. Narry Kim ForMemRS
+Professor, School of Biological Sciences, Seoul National University and Director, Center for RNA Research, Institute for Basic Science, South Korea
+
+Professor Sang Yup Lee ForMemRS
+Distinguished Professor, Department of Chemical and Biomolecular Engineering, and Vice President for Research, Korea Advanced Institute of Science and Technology (KAIST), South Korea
+
+Professor Giacomo Rizzolatti ForMemRS
+Emeritus Professor, Department of Medicine and Surgery, University of Parma, Italy
+
+Professor Claire Voisin ForMemRS
+Senior researcher, Centre national de la recherche scientifique (CNRS), France

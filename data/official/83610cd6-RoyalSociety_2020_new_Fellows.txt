@@ -1,0 +1,163 @@
+FILE: RoyalSociety_2020_new_Fellows.txt
+SOURCE: Royal Society official news release, https://royalsociety.org/news/2020/04/outstanding-scientists-elected-as-fellows-and-foreign-members-of-the-royal-society/
+PAGE TITLE: Outstanding scientists elected as Fellows and Foreign Members of the Royal Society | Royal Society
+RETRIEVED: 2026-10-10T11:10:57.533Z
+FORMAT: plain-text copy of the article body (names with post-nominals, followed by position/affiliation line)
+
+/
+
+ News from the Royal Society
+
+ Outstanding scientists elected as Fellows and Foreign Members of the Royal Society
+
+ 29 April 2020
+
+ More than 60 exceptional scientists from around the world have been elected as Fellows and Foreign Members of the Royal Society. The 51 new Fellows, 10 Foreign Members and one Honorary Fellow have been selected for their outstanding contributions to scientific understanding. With discoveries ranging from the first planets outside our solar system, to the creation of the world’s smallest molecular engine, new mathematical proofs and treatments for debilitating global disease. They embody the global nature of science, with representation from Sweden, Israel, Germany, Australia, Canada, UK-born scientists working in Europe and beyond, and researchers from around the world enriching Britain’s own research and innovation sector. Their ranks include six Nobel laureates, as well as internationally recognised leaders in industry and science policy. 
+Venki Ramakrishnan, President of the Royal Society, said: 
+'At this time of global crisis, the importance of scientific thinking, and the medicines, technologies and insights it delivers, has never been clearer. Our Fellows and Foreign Members are central to the mission of the Royal Society, to use science for the benefit of humanity.
+'While election to the Fellowship is a recognition of exceptional individual contributions to the sciences, it is also a network of expertise that can be drawn on to address issues of societal, and global significance. This year’s Fellows and Foreign Members have helped shape the 21st century through their work at the cutting-edge of fields from human genomics, to climate science and machine learning. 
+'It gives me great pleasure to celebrate these achievements, and those yet to come, and welcome them into the ranks of the Royal Society.'
+Among this year’s Fellows and Foreign Members:
+Francis Collins becomes a Foreign Member for his contributions to human genetics over four decades, including identifying the genetic mutation that causes cystic fibrosis and leading the landmark Human Genome Project. John Shine joins as a Fellow for his leading role in the development of gene cloning technology, including the first cloned human gene and the development of gene expression tools critical to the biotechnology industry.
+Donna Strickland is honoured as a Fellow for her co-invention of Chirped Pulse Amplification. This revolution in laser science has led to advances in fields as diverse as astrophysics, surgery and nuclear fusion research, and saw her share the 2018 Nobel Prize in Physics. Henry Chapman becomes a Fellow for breakthroughs in the field of lensless imaging. By pulsing radiation to limit its damaging effects, he made atomic-scale ‘movies’ of the cell’s molecular machinery in action a reality. Pioneering crystallographer Ada Yonath is elected as a Foreign Member for her part in unravelling the structure of the ribosome – the cellular assembly line that turns DNA into proteins – which also saw her share in the 2009 Nobel Prize in Chemistry.
+For his contributions to global child health, Zulfiqar Bhutta becomes a Fellow. Working with public health sector workers in Pakistan he has led more than a dozen large cluster randomised trials into maternal, newborn and child health. William Campbell is recognised for his part in developing drugs for devastating parasitic diseases. He shared in the 2015 Nobel in Physiology or Medicine for the discovery of ivermectin, which has helped virtually eliminate river blindness across large parts of the world.
+As one of the founding fathers of deep learning, Yoshua Bengio is honoured this year. His work on neural networks and machine translation helped bring about the AI revolution transforming the 21st century. Stephen Young joins the list for pioneering the statistical approach to language processing – namely, treating conversation as a reinforcement learning problem – that made the speech-recognition products in millions of homes a reality. 
+Margaret Kivelson becomes a Foreign Member for her work in shaping our understanding of the magnetic fields of Earth, Jupiter and Saturn, and revealing subsurface oceans on Ganymede and Europa. Didier Queloz joins the Fellowship for his part in the discovery of the first planet beyond our solar system, for which he shared the Nobel Prize in Physics last year. Hundreds more exoplanets have since been revealed by his pioneering observational techniques. Stephen Smartt is honoured for his pioneering use of digital sky surveying, enabling the detection of stars before they explode, and the discovery of the first electromagnetic counterpart to a gravitational wave source.
+For her trailblazing development of directed evolution, Frances Arnold is elected a Foreign Member. Her techniques to improve on existing enzyme or protein function led to more efficient, cost-effective and environmentally friendly products, and earned her the 2018 Nobel Prize in Chemistry. In recognition of his work in molecular nanoscience Ben Feringa also joins as a Foreign Member. His discovery of the light-driven rotary molecular motor made the first moving ‘nanocar’ and more complex nanomachines a reality, with applications in dozens of fields. 
+Molly Stevens is honoured for ground-breaking advances in the engineering of bio-inspired materials for regenerative medicine and biosensing. She has been adept at translating her research from lab bench to industrial use and is currently applying her work to improving diagnostics for COVID-19. Materials engineer Vikram Deshpande becomes a Fellow for his seminal contributions in microstructural mechanics. His works include developing ‘metallic wood’, sheets of nickel as strong as titanium, but four-times lighter thanks to their plant-like nanoscale pores. 
+For opening the world’s eyes to the scale of the plastic waste pollution crisis, Richard Thompson becomes a Fellow. He coined the term microplastics in 2004, and his work to identify the sources and effects of microplastic has shaped environmental policy. Also honoured is Oliver Phillips for his work on Earth’s tropical forests. His methods revealed the extent that these ecosystems are affected by global climate processes, and how they could fuel further change in future.
+Mathematician Jack Thorne is recognised for multiple breakthroughs in diverse areas of algebraic number theory. At age 32, he becomes the youngest living member of the Fellowship. While Wendelin Werner becomes a Foreign Member for revolutionising our understanding of two-dimensional models in probability and physics and achievements in random geometry, for which he was awarded the Fields Medal in 2006.
+Ralf Speth is elected a Fellow for his advocacy for UK R&D as CEO of Jaguar Land Rover, and for his commitment to STEM education. Sir David Cooksey becomes an Honorary Fellow for helping cement the UK’s place as a global life sciences leader. As a governor of the Wellcome Trust he helped lobby for the Joint Infrastructure Fund to revitalise the UK’s out-of-date research infrastructure. He was instrumental in establishing the Francis Crick Institute, which he chaired for nine years.
+ Some statistics about this year’s intake are as follows:
+ 14 of this year’s intake of Fellows (9) and Foreign Members (5) are women – this is 22.6% of the 2020 intake
+ New Fellows have been elected from institutions across the UK, (Exeter, Plymouth, Nottingham, Leeds, Manchester, Edinburgh, Sussex, Belfast, London, Oxford, Cambridge), the Commonwealth (Canada, Australia) and around the world (Germany, the Netherlands, Israel, the US)
+ Six of this year’s intake (three men and three women) have received a Nobel Prize. Three in Chemistry, two in Physics, one in Medicine or Physiology
+Past Fellows and Foreign Members of the Royal Society have included Isaac Newton, Charles Darwin, Albert Einstein, Dorothy Hodgkin and Stephen Hawking.
+The full list of newly elected Fellows and Foreign Members:
+New Fellows 2020
+Professor Timothy Behrens FRS 
+Professor of Computational Neuroscience, Wellcome Centre for Integrative Neuroimaging, Nuffield Department of Clinical Neurosciences, University of Oxford and Honorary Principal Investigator, Wellcome Centre for Human Neuroimaging, University College London
+Professor Yoshua Bengio OC FRS 
+Full Professor, Département d'informatique et de recherche opérationnelle, Université de Montréal, Canada
+Professor Malcolm Bennett FRS 
+Professor of Plant Science, School of Biosciences, University of Nottingham
+Professor Ben Berks FRS 
+Professor of Biochemistry, Department of Biochemistry, University of Oxford
+Professor Zulfiqar Bhutta FRS 
+Robert Harding Inaugural Chair in Global Child Health & Policy, Centre for Global Child Health, Toronto and Distinguished University Professor and Founding Director, Institute for Global Health & Development, Aga Khan University, South-Central Asia, East Africa and United Kingdom
+Professor Kevin Brindle FMedSci FRS 
+Professor, Department of Biochemistry and Senior Group Leader, Cancer Research UK Cambridge Institute, University of Cambridge
+Professor Gordon Brown FMedSci FRS 
+Professor in Immunology, MRC Centre for Medical Mycology, University of Exeter
+Professor William Campbell FRS 
+Emeritus Fellow, Drew University (New Jersey), United States
+Professor Henry Chapman FRS 
+Director, Centre for Free-Electron Laser Science, Deutsches Elektronen-Synchrotron (DESY) and Universität Hamburg, Germany
+Dr G. Marius Clore FRS 
+NIH Distinguished Investigator and Chief of the Protein Nuclear Magnetic Resonance Section, Laboratory of Chemical Physics, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, United States
+Professor Vikram Deshpande FRS 
+Professor of Materials Engineering, Department of Engineering, University of Cambridge
+Professor John Endler FRS 
+Emeritus Professor, School of Life and Environmental Sciences, Deakin University, Australia
+Professor Adam Eyre-Walker FRS 
+Professor of Biology, School of Life Sciences, University of Sussex
+Professor Daniel Frost FRS 
+Professor and Deputy Director, Bayerisches Geoinstitut, Universität Bayreuth
+Dr Francois Guillemot FMedSci FRS 
+Senior Group Leader, The Francis Crick Institute
+Professor David Harel FRS 
+Professor, Department of Computer Science and Applied Mathematics, Weizmann Institute of Science, Israel
+Professor Marian Holness FRS 
+Professor, Department of Earth Sciences, University of Cambridge
+Professor Ehud Hrushovski FRS 
+Professor of Mathematical Logic, Mathematical Institute, University of Oxford
+Professor Andrew Jackson FRS 
+Professor of Human Genetics, MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, University of Edinburgh
+Professor George Jackson FRS 
+Professor of Chemical Physics, Department of Chemical Engineering, Imperial College London
+Professor Xin Lu FMedSci FRS 
+Director, Ludwig Institute for Cancer Research, Nuffield Department of Medicine, University of Oxford
+Dr Alexander Makarov FRS 
+Director of Global Research, Thermo Fisher Scientific, Germany and Professor of High Resolution Mass Spectrometry, Utrecht University, Netherlands
+Professor Keith Matthews FMedSci FRS 
+Professor of Parasite Biology, Institute of Immunology and Infection Research, University of Edinburgh
+Professor Iain McCulloch FRS 
+Professor of Polymer Materials, Department of Chemistry, Imperial College London and Director, KAUST Solar Center, King Abdullah University of Science and Technology
+Professor Linda Nazar OC FRS 
+Professor and Canada Research Chair in Solid State Energy Materials, Department of Chemistry, and Waterloo Institute of Nanotechnology, University of Waterloo, Canada
+Professor Peter Nellist FRS 
+Professor of Materials and Joint Head of Department, Department of Materials, University of Oxford
+Professor Giles Oldroyd FRS 
+Russell R Geiger Professor of Crop Science, Crop Science Centre and Group Leader, Sainsbury Laboratory, University of Cambridge
+Professor Hugh Osborn FRS 
+Emeritus Professor, Department of Applied Mathematics and Theoretical Physics, University of Cambridge
+Professor Oliver Phillips FRS 
+Professor of Tropical Ecology, School of Geography, University of Leeds
+Professor Raymond Pierrehumbert FRS 
+Halley Professor, Atmospheric, Oceanic and Planetary Physics, Department of Physics, University of Oxford
+Professor John Plane FRS 
+Professor of Atmospheric Chemistry, School of Chemistry, University of Leeds
+Professor Catherine Price FMedSci FRS 
+Wellcome Trust Principal Research Fellow and Director, Wellcome Centre for Human Neuroimaging, University College London
+Professor Carol Prives FRS 
+DaCosta Professor of Biology, Department of Biological Sciences, Columbia University, United States
+Professor Didier Queloz FRS 
+Professor, Cavendish Laboratory, University of Cambridge
+Professor Nicholas Read FRS 
+Henry Ford II Professor of Physics and Professor of Applied Physics and Mathematics, Department of Physics, Yale University, United States
+Dr Michael Rudnicki OC FRS 
+Senior Scientist and Program Director, Ottawa Hospital Research Institute, Canada
+Dr William Schafer FMedSci FRS 
+Group Leader, Divison of Neurobiology, MRC Laboratory of Molecular Biology
+Professor Nigel Scrutton FRS 
+Director, UK Future Biomanufacturing Research Hub and Manchester Synthetic Biology Research Centre and Professor of Molecular Enzymology, University of Manchester
+Professor John Shine AC FRS 
+Emeritus Professor, Garvan Institute of Medical Research, Australia
+Professor Stephen Smartt FRS 
+Professor of Astrophysics, School of Mathematics and Physics, Queen's University Belfast
+Professor Sir Ralf Speth KBE FREng FRS 
+CEO, Jaguar Land Rover
+Professor Molly Stevens FREng FRS 
+Professor of Biomedical Materials and Regenerative Medicine and Research Director for Biomedical Material Sciences, Department of Materials and Department of Bioengineering, Imperial College London
+Professor Donna Strickland FRS 
+Professor of Physics, Department of Physics and Astronomy, University of Waterloo, Canada
+Professor Andrew Stuart FRS 
+Bren Professor of Applied and Computational Mathematics, Department of Computing and Mathematical Sciences, California Institute of Technology, United States
+Dr Sarah Teichmann FMedSci FRS 
+Cellular Genetics Programme Head, Wellcome Sanger Institute; Director of Research, Cavendish Laboratory, University of Cambridge and Senior Research Fellow, Churchill College, Cambridge
+Professor Richard Thompson OBE FRS 
+Professor of Marine Biology and Director of Marine Institute, University of Plymouth
+Professor Jack Thorne FRS 
+Professor, Department of Pure Mathematics and Mathematical Statistics, University of Cambridge
+Professor Nicholas Turner FRS 
+Professor of Chemical Biology and Director of the Centre of Excellence in Biocatalysis (CoEBio3), Department of Chemistry, Manchester Institute of Biotechnology, University of Manchester
+Professor Jane Visvader FRS 
+Division and Laboratory Head, The Walter and Eliza Hall Institute of Medical Research, Australia
+Professor Alan Wilson FRS 
+Professor of Locomotor Biomechanics, Structure and Motion Laboratory, Royal Veterinary College
+Professor Steve Young FRS 
+Emeritus Professor of Information Engineering, Department of Engineering, University of Cambridge
+New Honorary Fellow 2020
+Sir David Cooksey FRS 
+Founding Chair, Diamond Light Source and Founding Chair, Francis Crick Institute
+New Foreign Members 2020
+Professor Frances Arnold ForMemRS 
+Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry and Director, Donna and Benjamin M Rosen Bioengineering Center, Caltech, United States
+Dr Francis Collins ForMemRS 
+Director, National Institutes of Health, United States
+Professor Kerry Emanuel ForMemRS 
+Cecil and Ida Green Professor of Atmospheric Science, Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, United States
+Professor Ben Feringa ForMemRS 
+Jacobus van't Hoff Distinguished Professor of Molecular Science and Academy Professor, Royal Netherlands Academy of Science, Netherlands
+Professor Else Marie Friis ForMemRS 
+Emeritus Professor, Department of Geoscience, Aarhus University, Denmark and Emeritus Professor of Palaeobotany, Department of Palaeobiology, Swedish Museum of Natural History, Sweden
+Professor Regine Kahmann ForMemRS 
+Emeritus Scientific Member, Max Planck Institute  for Terrestrial  Microbiology, Germany
+Professor Margaret Kivelson ForMemRS 
+Distinguished Research Professor, Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, United States and Research Professor, Department of Climate and Space Sciences and Engineering, University of Michigan, United States
+Professor Ramamoorthy Ramesh ForMemRS 
+Purnendu Chatterjee Chair in Energy Technologies, Department of Physics and Department of Materials Science and Engineering, University of California, Berkeley, United States and Lawrence Berkeley National Laboratory, United States
+Professor Wendelin Werner ForMemRS 
+Professor, Department of Mathematics, ETH Zürich, Switzerland
+Professor Ada Yonath ForMemRS 
+The Martin S and Helen Kimmel Professor of Structural Biology, The Helen and Milton A Kimmelman Center for Biomolecular Structure and Assembly, Weizmann Institute of Science, Israel
