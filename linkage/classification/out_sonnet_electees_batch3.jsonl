@@ -1,0 +1,311 @@
+{"model_id": "claude-sonnet-5-5"}
+{"id": "E622", "classification": "research", "reason": "University of Cambridge, child psychology."}
+{"id": "E623", "classification": "non-research", "reason": "Former journal editor in health journalism with no professorial title."}
+{"id": "E624", "classification": "research", "reason": "University institution, international health."}
+{"id": "E625", "classification": "research", "reason": "University of Oxford, neuroscience."}
+{"id": "E626", "classification": "research", "reason": "University of Edinburgh, reproductive sciences."}
+{"id": "E627", "classification": "research", "reason": "University of Glasgow, public health."}
+{"id": "E628", "classification": "research", "reason": "University of Liverpool, pharmacology."}
+{"id": "E629", "classification": "research", "reason": "University of Oxford, genomic medicine."}
+{"id": "E630", "classification": "research", "reason": "Tropical medicine school, global health."}
+{"id": "E631", "classification": "research", "reason": "University of Oxford, vaccine immunology."}
+{"id": "E632", "classification": "research", "reason": "Imperial College London, primary care."}
+{"id": "E633", "classification": "uncertain", "reason": "Only a company name and field, no role given."}
+{"id": "E634", "classification": "research", "reason": "UCL, neurobiology."}
+{"id": "E635", "classification": "research", "reason": "University of Oxford, virology."}
+{"id": "E636", "classification": "research", "reason": "University of Oxford, haematology."}
+{"id": "E637", "classification": "research", "reason": "University of Birmingham, head and neck surgery."}
+{"id": "E638", "classification": "research", "reason": "Genomic medicine centre, academic."}
+{"id": "E639", "classification": "research", "reason": "Imperial College London, immunology."}
+{"id": "E640", "classification": "research", "reason": "King's College London, cell biology."}
+{"id": "E641", "classification": "uncertain", "reason": "Company name and field only, no role given."}
+{"id": "E642", "classification": "research", "reason": "University of Bristol, cell biology."}
+{"id": "E643", "classification": "research", "reason": "UCL, immunotherapy."}
+{"id": "E644", "classification": "research", "reason": "University of Edinburgh, metabolic medicine."}
+{"id": "E645", "classification": "research", "reason": "University of Birmingham, biostatistics."}
+{"id": "E646", "classification": "research", "reason": "UCL, infectious diseases."}
+{"id": "E647", "classification": "research", "reason": "University of Edinburgh, neurology."}
+{"id": "E648", "classification": "research", "reason": "King's College London, midwifery."}
+{"id": "E649", "classification": "research", "reason": "University of York, health care research."}
+{"id": "E650", "classification": "research", "reason": "University, pharmacy."}
+{"id": "E651", "classification": "research", "reason": "Newcastle University, respiratory medicine."}
+{"id": "E652", "classification": "research", "reason": "University of Surrey, neuroendocrinology."}
+{"id": "E653", "classification": "research", "reason": "University of Liverpool, clinical pharmacology."}
+{"id": "E654", "classification": "research", "reason": "University of Edinburgh, neurodegeneration."}
+{"id": "E655", "classification": "research", "reason": "University of Birmingham, maternal health."}
+{"id": "E656", "classification": "research", "reason": "University of Sheffield, MR physics."}
+{"id": "E657", "classification": "research", "reason": "MRC Laboratory of Molecular Biology, neuroscience."}
+{"id": "E658", "classification": "research", "reason": "University of Oxford, reproductive health."}
+{"id": "E659", "classification": "research", "reason": "Francis Crick Institute, a research institute."}
+{"id": "E660", "classification": "uncertain", "reason": "Only a venture company name, no role."}
+{"id": "E661", "classification": "research", "reason": "Imperial College London, university only."}
+{"id": "E662", "classification": "research", "reason": "Imperial College London, university only."}
+{"id": "E663", "classification": "research", "reason": "Imperial College London, university only."}
+{"id": "E664", "classification": "research", "reason": "Imperial College London, university only."}
+{"id": "E665", "classification": "research", "reason": "Imperial College London, university only."}
+{"id": "E666", "classification": "research", "reason": "King's College London, university only."}
+{"id": "E667", "classification": "research", "reason": "King's College London, university only."}
+{"id": "E668", "classification": "research", "reason": "King's College London, university only."}
+{"id": "E669", "classification": "research", "reason": "King's College London, university only."}
+{"id": "E670", "classification": "research", "reason": "LSHTM, university institution only."}
+{"id": "E671", "classification": "uncertain", "reason": "Only a company name, no role."}
+{"id": "E672", "classification": "research", "reason": "Newcastle University, university only."}
+{"id": "E673", "classification": "research", "reason": "Newcastle University, university only."}
+{"id": "E674", "classification": "uncertain", "reason": "Only an organisation name, no role."}
+{"id": "E675", "classification": "research", "reason": "Queen Mary University of London, university only."}
+{"id": "E676", "classification": "research", "reason": "Queen Mary University of London, university only."}
+{"id": "E677", "classification": "research", "reason": "Stanford University, university only."}
+{"id": "E678", "classification": "research", "reason": "UCL, university only."}
+{"id": "E679", "classification": "research", "reason": "UCL, university only."}
+{"id": "E680", "classification": "research", "reason": "UCL, university only."}
+{"id": "E681", "classification": "research", "reason": "UCL, university only."}
+{"id": "E682", "classification": "research", "reason": "UCL, university only."}
+{"id": "E683", "classification": "research", "reason": "UCL, university only."}
+{"id": "E684", "classification": "research", "reason": "UCL, university only."}
+{"id": "E685", "classification": "research", "reason": "University of Birmingham, university only."}
+{"id": "E686", "classification": "research", "reason": "University of Birmingham, university only."}
+{"id": "E687", "classification": "research", "reason": "University of Birmingham, university only."}
+{"id": "E688", "classification": "research", "reason": "University of Bristol, university only."}
+{"id": "E689", "classification": "research", "reason": "University of Cambridge, university only."}
+{"id": "E690", "classification": "research", "reason": "University of Cambridge, university only."}
+{"id": "E691", "classification": "research", "reason": "University of Cambridge, university only."}
+{"id": "E692", "classification": "research", "reason": "University of Dundee, university only."}
+{"id": "E693", "classification": "research", "reason": "University of Dundee, university only."}
+{"id": "E694", "classification": "research", "reason": "University of Edinburgh, university only."}
+{"id": "E695", "classification": "research", "reason": "University of Edinburgh, university only."}
+{"id": "E696", "classification": "research", "reason": "University of Exeter, university only."}
+{"id": "E697", "classification": "research", "reason": "University of Manchester, university only."}
+{"id": "E698", "classification": "research", "reason": "University of Manchester, university only."}
+{"id": "E699", "classification": "research", "reason": "University of Manchester, university only."}
+{"id": "E700", "classification": "research", "reason": "University of Nottingham, university only."}
+{"id": "E701", "classification": "research", "reason": "University of Oxford, university only."}
+{"id": "E702", "classification": "research", "reason": "University of Oxford, university only."}
+{"id": "E703", "classification": "research", "reason": "University of Oxford, university only."}
+{"id": "E704", "classification": "research", "reason": "University of Oxford, university only."}
+{"id": "E705", "classification": "research", "reason": "University of Oxford, university only."}
+{"id": "E706", "classification": "research", "reason": "University of Sheffield, university only."}
+{"id": "E707", "classification": "research", "reason": "University of Surrey, university only."}
+{"id": "E708", "classification": "research", "reason": "University of Sydney, university only."}
+{"id": "E709", "classification": "research", "reason": "University of West London, university only."}
+{"id": "E710", "classification": "research", "reason": "University of York, university only."}
+{"id": "E711", "classification": "research", "reason": "University of York, university only."}
+{"id": "E712", "classification": "research", "reason": "Sanger Institute, research institute only."}
+{"id": "E713", "classification": "research", "reason": "Named chair in public health."}
+{"id": "E714", "classification": "research", "reason": "Director of Translation at a research institute."}
+{"id": "E715", "classification": "research", "reason": "Group leader at a research institute."}
+{"id": "E716", "classification": "research", "reason": "Pro-Vice Chancellor Research and Professor."}
+{"id": "E717", "classification": "research", "reason": "Professor of genetics and foetal medicine."}
+{"id": "E718", "classification": "research", "reason": "NIHR Research Professor."}
+{"id": "E719", "classification": "research", "reason": "Clinical professor, personal chair."}
+{"id": "E720", "classification": "research", "reason": "Professor of breast cancer oncology."}
+{"id": "E721", "classification": "research", "reason": "NIHR Professor."}
+{"id": "E722", "classification": "research", "reason": "Named professor of chemical engineering."}
+{"id": "E723", "classification": "research", "reason": "Professor of paediatric endocrinology."}
+{"id": "E724", "classification": "research", "reason": "Professor of clinical epidemiology."}
+{"id": "E725", "classification": "research", "reason": "Professor and director of sleep medicine."}
+{"id": "E726", "classification": "research", "reason": "Named professor of molecular microbiology."}
+{"id": "E727", "classification": "research", "reason": "Professor of clinical epidemiology."}
+{"id": "E728", "classification": "research", "reason": "Professor of psychological medicine."}
+{"id": "E729", "classification": "research", "reason": "Senior fellow and head of science at a national lab."}
+{"id": "E730", "classification": "research", "reason": "Professor of biomaterials science."}
+{"id": "E731", "classification": "research", "reason": "Named professor of gerontology."}
+{"id": "E732", "classification": "research", "reason": "Professor of surgery and data science."}
+{"id": "E733", "classification": "research", "reason": "Professor of genetic epidemiology."}
+{"id": "E734", "classification": "research", "reason": "Professor of clinical epidemiology."}
+{"id": "E735", "classification": "non-research", "reason": "Industry business franchise head without scientific title."}
+{"id": "E736", "classification": "non-research", "reason": "Company CEO without a scientific title."}
+{"id": "E737", "classification": "non-research", "reason": "Government agency chief medical advisor, no academic title."}
+{"id": "E738", "classification": "research", "reason": "Clinical Director of Research at a university."}
+{"id": "E739", "classification": "research", "reason": "Professor of neurology and neurogenetics."}
+{"id": "E740", "classification": "research", "reason": "Professor of vaccine epidemiology."}
+{"id": "E741", "classification": "research", "reason": "Clinical professor of public health."}
+{"id": "E742", "classification": "research", "reason": "Professor of medicine."}
+{"id": "E743", "classification": "research", "reason": "Senior group leader and chief scientific officer."}
+{"id": "E744", "classification": "research", "reason": "Senior group leader at a research institute."}
+{"id": "E745", "classification": "research", "reason": "Institute director and senior group leader."}
+{"id": "E746", "classification": "research", "reason": "Personal chair of stem cell biology."}
+{"id": "E747", "classification": "research", "reason": "Professor of systems neuroscience."}
+{"id": "E748", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E749", "classification": "research", "reason": "Professor of immunology."}
+{"id": "E750", "classification": "research", "reason": "Professor of infectious disease."}
+{"id": "E751", "classification": "research", "reason": "Professor of stroke and elderly care medicine."}
+{"id": "E752", "classification": "research", "reason": "Deputy director and named professor."}
+{"id": "E753", "classification": "research", "reason": "Professor and senior research fellow."}
+{"id": "E754", "classification": "research", "reason": "NIHR Research Professor."}
+{"id": "E755", "classification": "research", "reason": "Head of a university school of biomedical engineering."}
+{"id": "E756", "classification": "research", "reason": "Professor of rheumatology."}
+{"id": "E757", "classification": "research", "reason": "Professor of ophthalmic epidemiology."}
+{"id": "E758", "classification": "research", "reason": "Academic consultant at a university."}
+{"id": "E759", "classification": "research", "reason": "Professor of public health and centre director."}
+{"id": "E760", "classification": "research", "reason": "Professor of cell biology."}
+{"id": "E761", "classification": "research", "reason": "Emeritus professor of paediatric haematology."}
+{"id": "E762", "classification": "research", "reason": "Professor of cognitive neurology."}
+{"id": "E763", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E764", "classification": "research", "reason": "Director of a cancer prevention trials unit."}
+{"id": "E765", "classification": "research", "reason": "Professor of eating disorders."}
+{"id": "E766", "classification": "research", "reason": "Professor of epigenetics."}
+{"id": "E767", "classification": "research", "reason": "Industry clinical development lead, scientific role."}
+{"id": "E768", "classification": "research", "reason": "Professor of medical imaging."}
+{"id": "E769", "classification": "research", "reason": "Principal group leader at a research institute."}
+{"id": "E770", "classification": "research", "reason": "Professor of haematology."}
+{"id": "E771", "classification": "research", "reason": "Senior group leader."}
+{"id": "E772", "classification": "research", "reason": "Director of a university institute for global health."}
+{"id": "E773", "classification": "research", "reason": "Wellcome Principal Research Fellow."}
+{"id": "E774", "classification": "research", "reason": "Professor of retinal studies."}
+{"id": "E775", "classification": "research", "reason": "Chief scientific officer of a genomics company."}
+{"id": "E776", "classification": "research", "reason": "Professor and head of neurology division."}
+{"id": "E777", "classification": "research", "reason": "Director of an MRC research unit."}
+{"id": "E778", "classification": "research", "reason": "Professor of genetic epidemiology."}
+{"id": "E779", "classification": "research", "reason": "NIHR Research Professor."}
+{"id": "E780", "classification": "research", "reason": "NIHR Research Professor."}
+{"id": "E781", "classification": "research", "reason": "Professor of haemato-oncology and unit director."}
+{"id": "E782", "classification": "research", "reason": "Professor of biochemistry."}
+{"id": "E783", "classification": "research", "reason": "Professor of paediatric allergy."}
+{"id": "E784", "classification": "research", "reason": "NIHR Professor and section head."}
+{"id": "E785", "classification": "research", "reason": "Director of a research institute."}
+{"id": "E786", "classification": "non-research", "reason": "University administrative leadership with no professorial title shown."}
+{"id": "E787", "classification": "research", "reason": "Clinical geneticist with research faculty affiliation."}
+{"id": "E788", "classification": "research", "reason": "Professor of virology."}
+{"id": "E789", "classification": "research", "reason": "Professor of child psychiatry."}
+{"id": "E790", "classification": "research", "reason": "Professor of transplantation."}
+{"id": "E791", "classification": "non-research", "reason": "Managing partner of a firm, no research title."}
+{"id": "E792", "classification": "research", "reason": "Director of a translational medicine institute."}
+{"id": "E793", "classification": "research", "reason": "Professor of epidemiology."}
+{"id": "E794", "classification": "research", "reason": "Professor of epidemiology."}
+{"id": "E795", "classification": "research", "reason": "Named chair of immunology."}
+{"id": "E796", "classification": "research", "reason": "Professor of global health."}
+{"id": "E797", "classification": "research", "reason": "Professor of paediatrics and immunology."}
+{"id": "E798", "classification": "research", "reason": "Senior research fellow."}
+{"id": "E799", "classification": "non-research", "reason": "Museum director of science, no research or professorial title."}
+{"id": "E800", "classification": "research", "reason": "Professor of molecular psychiatry."}
+{"id": "E801", "classification": "research", "reason": "Director of research units and institute."}
+{"id": "E802", "classification": "research", "reason": "Section chief at a research institute."}
+{"id": "E803", "classification": "research", "reason": "Professor and director of a research laboratory."}
+{"id": "E804", "classification": "research", "reason": "Professor of maternal and child epidemiology."}
+{"id": "E805", "classification": "research", "reason": "Professor of cardiovascular medicine."}
+{"id": "E806", "classification": "research", "reason": "Director of a research centre."}
+{"id": "E807", "classification": "research", "reason": "Professor of neonatal medicine."}
+{"id": "E808", "classification": "research", "reason": "Professor of cell and gene therapy."}
+{"id": "E809", "classification": "research", "reason": "Professor of biochemistry."}
+{"id": "E810", "classification": "research", "reason": "Professor and head of a research department."}
+{"id": "E811", "classification": "research", "reason": "Chief scientific officer in industry."}
+{"id": "E812", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E813", "classification": "research", "reason": "Senior group leader at a research institute."}
+{"id": "E814", "classification": "research", "reason": "Industry neuroscience therapeutic area scientific head."}
+{"id": "E815", "classification": "research", "reason": "Professor of regenerative medicine."}
+{"id": "E816", "classification": "research", "reason": "Professor of epidemiology."}
+{"id": "E817", "classification": "research", "reason": "Professor and centre director."}
+{"id": "E818", "classification": "research", "reason": "Professor of epidemiology and unit director."}
+{"id": "E819", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E820", "classification": "research", "reason": "Professor of neuroscience."}
+{"id": "E821", "classification": "research", "reason": "Director of a research institute."}
+{"id": "E822", "classification": "research", "reason": "Professor of molecular imaging chemistry."}
+{"id": "E823", "classification": "non-research", "reason": "Trade association CEO, no research title."}
+{"id": "E824", "classification": "research", "reason": "Professor of surgery."}
+{"id": "E825", "classification": "non-research", "reason": "Consultancy president and CEO, no research title."}
+{"id": "E826", "classification": "uncertain", "reason": "Hospital department head, academic status not stated."}
+{"id": "E827", "classification": "research", "reason": "Institute director and professor."}
+{"id": "E828", "classification": "research", "reason": "Professor of statistical genetics."}
+{"id": "E829", "classification": "research", "reason": "Professor of biostatistics."}
+{"id": "E830", "classification": "research", "reason": "Deputy director of a clinical research unit."}
+{"id": "E831", "classification": "non-research", "reason": "Public health agency medical director, no academic title."}
+{"id": "E832", "classification": "research", "reason": "Professor of behavioural genetics."}
+{"id": "E833", "classification": "research", "reason": "Professor of cardiovascular sciences."}
+{"id": "E834", "classification": "research", "reason": "Professor of medicinal chemistry."}
+{"id": "E835", "classification": "research", "reason": "Professor of vaccinology."}
+{"id": "E836", "classification": "research", "reason": "Professor of primary care."}
+{"id": "E837", "classification": "research", "reason": "Professor of clinical microbiology."}
+{"id": "E838", "classification": "research", "reason": "Professor of emerging infectious diseases."}
+{"id": "E839", "classification": "research", "reason": "Named professor of epidemiology."}
+{"id": "E840", "classification": "research", "reason": "Professor of leukaemia stem cell biology."}
+{"id": "E841", "classification": "research", "reason": "Wellcome Principal Research Fellow."}
+{"id": "E842", "classification": "research", "reason": "Professor and vaccine centre director."}
+{"id": "E843", "classification": "research", "reason": "Professor of maternal population health."}
+{"id": "E844", "classification": "research", "reason": "Professor of medicine and epidemiology."}
+{"id": "E845", "classification": "research", "reason": "Senior group leader at a research institute."}
+{"id": "E846", "classification": "research", "reason": "Named professor of neuroscience."}
+{"id": "E847", "classification": "research", "reason": "Professor of intensive care medicine."}
+{"id": "E848", "classification": "research", "reason": "Professor of tropical maternal and child health."}
+{"id": "E849", "classification": "research", "reason": "Senior clinical research fellow."}
+{"id": "E850", "classification": "research", "reason": "Endowed chair and centre director at research hospital."}
+{"id": "E851", "classification": "research", "reason": "Professor of health care law."}
+{"id": "E852", "classification": "research", "reason": "Professor of molecular medicine."}
+{"id": "E853", "classification": "research", "reason": "Clinical professor."}
+{"id": "E854", "classification": "research", "reason": "Professor of dermatology."}
+{"id": "E855", "classification": "research", "reason": "Chief scientific officer of a therapeutics company."}
+{"id": "E856", "classification": "research", "reason": "Professor of molecular microbiology."}
+{"id": "E857", "classification": "research", "reason": "Professor of forensic pathology."}
+{"id": "E858", "classification": "research", "reason": "Senior group leader."}
+{"id": "E859", "classification": "research", "reason": "Professor of immunology."}
+{"id": "E860", "classification": "research", "reason": "Named Royal Society professor."}
+{"id": "E861", "classification": "research", "reason": "Chair of neurological science."}
+{"id": "E862", "classification": "research", "reason": "Professor and research hub director."}
+{"id": "E863", "classification": "research", "reason": "Professor of analytical chemistry."}
+{"id": "E864", "classification": "research", "reason": "Vice Principal who is also Professor of Obstetrics."}
+{"id": "E865", "classification": "research", "reason": "Senior group leader and research director."}
+{"id": "E866", "classification": "research", "reason": "Professor of molecular oncology."}
+{"id": "E867", "classification": "research", "reason": "Chair in pharmaceutical nanoscience."}
+{"id": "E868", "classification": "research", "reason": "Dean of a university biosciences institute."}
+{"id": "E869", "classification": "research", "reason": "Professor of developmental psychopathology."}
+{"id": "E870", "classification": "research", "reason": "Professor and Wellcome Principal Research Fellow."}
+{"id": "E871", "classification": "research", "reason": "Chair of medicine and BRC director."}
+{"id": "E872", "classification": "research", "reason": "Professor of experimental immunology."}
+{"id": "E873", "classification": "research", "reason": "Professor of experimental medicine."}
+{"id": "E874", "classification": "research", "reason": "Professor of biochemistry."}
+{"id": "E875", "classification": "research", "reason": "Principal group leader."}
+{"id": "E876", "classification": "research", "reason": "Professor of psychology and cognitive neuroscience."}
+{"id": "E877", "classification": "research", "reason": "Professor of neuropathology."}
+{"id": "E878", "classification": "research", "reason": "Director of an international eye health centre."}
+{"id": "E879", "classification": "research", "reason": "Named professor of neurology."}
+{"id": "E880", "classification": "research", "reason": "Industry senior director of structural sciences."}
+{"id": "E881", "classification": "research", "reason": "Professor of orthopaedic trauma surgery."}
+{"id": "E882", "classification": "research", "reason": "Professor of clinical psychology."}
+{"id": "E883", "classification": "research", "reason": "Professor of experimental cancer therapeutics."}
+{"id": "E884", "classification": "research", "reason": "Director of a dementia research centre."}
+{"id": "E885", "classification": "research", "reason": "Professor of respiratory biology."}
+{"id": "E886", "classification": "research", "reason": "Head of a university radiology department."}
+{"id": "E887", "classification": "research", "reason": "Chair in anaesthesia and critical care."}
+{"id": "E888", "classification": "research", "reason": "Director of a cancer research centre."}
+{"id": "E889", "classification": "research", "reason": "Professor of infectious disease epidemiology."}
+{"id": "E890", "classification": "research", "reason": "Professor of child psychiatry."}
+{"id": "E891", "classification": "research", "reason": "Professor and research centre director."}
+{"id": "E892", "classification": "research", "reason": "Head of epigenetics section at a research institute."}
+{"id": "E893", "classification": "research", "reason": "Head of a university surgery and cancer department."}
+{"id": "E894", "classification": "research", "reason": "Professor of infectious diseases."}
+{"id": "E895", "classification": "research", "reason": "Head of a cancer research institute."}
+{"id": "E896", "classification": "research", "reason": "Professor of tissue repair."}
+{"id": "E897", "classification": "research", "reason": "Professor of infectious diseases."}
+{"id": "E898", "classification": "research", "reason": "Professor of targeted therapy."}
+{"id": "E899", "classification": "research", "reason": "Professor of respiratory medicine."}
+{"id": "E900", "classification": "non-research", "reason": "University administrative leadership with no professorial title shown."}
+{"id": "E901", "classification": "research", "reason": "Professor of cerebrovascular pathology."}
+{"id": "E902", "classification": "research", "reason": "Named professor of microbial biochemistry."}
+{"id": "E903", "classification": "research", "reason": "Industry vice president of vaccine clinical R&D."}
+{"id": "E904", "classification": "research", "reason": "Clinical professor of public health."}
+{"id": "E905", "classification": "research", "reason": "Professor of neurology and neuroscience."}
+{"id": "E906", "classification": "research", "reason": "Senior group leader at a bioinformatics institute."}
+{"id": "E907", "classification": "research", "reason": "Professor of biological psychiatry."}
+{"id": "E908", "classification": "research", "reason": "Chair in oncology and division head."}
+{"id": "E909", "classification": "research", "reason": "Professor of child psychiatry."}
+{"id": "E910", "classification": "research", "reason": "Professor of intensive care medicine."}
+{"id": "E911", "classification": "research", "reason": "Professor of embryonic pluripotency."}
+{"id": "E912", "classification": "research", "reason": "Chair of musculoskeletal science."}
+{"id": "E913", "classification": "research", "reason": "Professor of developmental endocrinology."}
+{"id": "E914", "classification": "research", "reason": "Professor and BRC director."}
+{"id": "E915", "classification": "research", "reason": "Chief scientific officer in pharma."}
+{"id": "E916", "classification": "research", "reason": "Head of a university school of biological sciences."}
+{"id": "E917", "classification": "research", "reason": "Academic director of a research programme."}
+{"id": "E918", "classification": "research", "reason": "Emeritus professor."}
+{"id": "E919", "classification": "uncertain", "reason": "Hospital medical director role, no academic title shown."}
+{"id": "E920", "classification": "research", "reason": "Professor of medical statistics."}
+{"id": "E921", "classification": "research", "reason": "Professor of molecular metabolism."}
+{"id": "E922", "classification": "research", "reason": "Division head and programme leader at MRC lab."}
+{"id": "E923", "classification": "research", "reason": "Professor of infectious diseases."}
+{"id": "E924", "classification": "non-research", "reason": "Training director at a professional faculty, no research title."}
+{"id": "E925", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E926", "classification": "research", "reason": "Group leader at Sanger Institute."}
+{"id": "E927", "classification": "research", "reason": "Professor of RNA biology."}
+{"id": "E928", "classification": "research", "reason": "Professor of psychiatry."}
+{"id": "E929", "classification": "research", "reason": "Professor of adolescent health."}
+{"id": "E930", "classification": "research", "reason": "Chair of parasitic diseases."}
+{"id": "E931", "classification": "research", "reason": "Professor of immune cell biology."}

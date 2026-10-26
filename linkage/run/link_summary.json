@@ -1,0 +1,70 @@
+{
+ "by_source": {
+  "AMS": {
+   "auto-match": 152,
+   "non-match": 114,
+   "review": 65
+  },
+  "CIHR": {
+   "auto-match": 470,
+   "non-match": 2479,
+   "review": 490
+  },
+  "ERC_LS": {
+   "auto-match": 210,
+   "non-match": 696,
+   "review": 96
+  },
+  "KAKEN": {
+   "auto-match": 171,
+   "non-match": 488,
+   "review": 61
+  },
+  "MRC": {
+   "auto-match": 249,
+   "non-match": 917,
+   "review": 290
+  },
+  "NAM": {
+   "auto-match": 273,
+   "non-match": 204,
+   "review": 123
+  },
+  "NAS": {
+   "auto-match": 520,
+   "non-match": 118,
+   "review": 246
+  },
+  "NHMRC": {
+   "auto-match": 210,
+   "non-match": 864,
+   "review": 302
+  },
+  "NIH_R01": {
+   "auto-match": 4240,
+   "non-match": 15001,
+   "review": 5163
+  },
+  "RoyalSociety": {
+   "auto-match": 129,
+   "non-match": 76,
+   "review": 241
+  },
+  "TWAS": {
+   "auto-match": 86,
+   "non-match": 141,
+   "review": 70
+  },
+  "Wellcome": {
+   "auto-match": 88,
+   "non-match": 228,
+   "review": 69
+  }
+ },
+ "total": {
+  "non-match": 21326,
+  "review": 7216,
+  "auto-match": 6798
+ },
+ "review_pairs": 26008
+}

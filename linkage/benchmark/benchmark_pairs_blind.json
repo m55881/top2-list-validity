@@ -1,0 +1,6402 @@
+[
+ {
+  "pair_id": "BM001",
+  "record_A": {
+   "name": "S. L. Berger",
+   "institution": "University of Pennsylvania School of Arts and Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Berger, Shelley L.",
+   "institution": "University of Pennsylvania",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM002",
+  "record_A": {
+   "name": "T. Nishida",
+   "institution": "Japan Monkey Centre",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Nishida, Toshirou",
+   "institution": "National Cancer Center Hospital",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM003",
+  "record_A": {
+   "name": "Barbara Boyan",
+   "institution": "VCU College of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Boyan, Barbara D.",
+   "institution": "Virginia Commonwealth University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Biomedical Engineering",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM004",
+  "record_A": {
+   "name": "T. Pierson",
+   "institution": "United States Geological Survey",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Pierson, Theodore C.",
+   "institution": "National Institute of Allergy and Infectious Diseases",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Virology",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM005",
+  "record_A": {
+   "name": "K. Mori",
+   "institution": "Waseda University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Mori, Kenji",
+   "institution": "Toyo Gosei Co., Ltd",
+   "country": "jpn",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "1960-2019"
+  }
+ },
+ {
+  "pair_id": "BM006",
+  "record_A": {
+   "name": "Sangeeta N. Bhatia",
+   "institution": "Massachusetts Institute of Technology",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bhatia, Smita",
+   "institution": "The University of Alabama at Birmingham",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM007",
+  "record_A": {
+   "name": "Chris Baber",
+   "institution": "University of Birmingham",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Baber, Chris",
+   "institution": "University of Birmingham",
+   "country": "gbr",
+   "field": "Psychology & Cognitive Sciences",
+   "subfield": "Human Factors",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM008",
+  "record_A": {
+   "name": "A. V. Dyskin",
+   "institution": "The University of Western Australia",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Dyskin, Arcady V.",
+   "institution": "University of Western Australia",
+   "country": "aus",
+   "field": "Engineering",
+   "subfield": "Mechanical Engineering & Transports",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM009",
+  "record_A": {
+   "name": "T. Honjo",
+   "institution": "Kyoto University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Honjo, Tasuku",
+   "institution": "Graduate School of Medicine",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1964-2020"
+  }
+ },
+ {
+  "pair_id": "BM010",
+  "record_A": {
+   "name": "Ferdinando Gliozzi",
+   "institution": "Università degli Studi di Torino",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Gliozzi, Ferdinando",
+   "institution": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+   "country": "ita",
+   "field": "Physics & Astronomy",
+   "subfield": "Nuclear & Particle Physics",
+   "publication_years": "1964-2018"
+  }
+ },
+ {
+  "pair_id": "BM011",
+  "record_A": {
+   "name": "J. Gomez-Hernandez",
+   "institution": "Universitat Politècnica de València",
+   "country": "esp"
+  },
+  "record_B": {
+   "name": "Gómez-Jeria, J. S.",
+   "institution": "Universidad de Chile",
+   "country": "chl",
+   "field": "Chemistry",
+   "subfield": "General Chemistry",
+   "publication_years": "1982-2019"
+  }
+ },
+ {
+  "pair_id": "BM012",
+  "record_A": {
+   "name": "M. Barbara E. Livingstone",
+   "institution": "Ulster University",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Livingstone, M. Barbara E.",
+   "institution": "Ulster University",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Nutrition & Dietetics",
+   "publication_years": "1989-2019"
+  }
+ },
+ {
+  "pair_id": "BM013",
+  "record_A": {
+   "name": "N. Risgaard-Petersen",
+   "institution": "Aarhus Universitet",
+   "country": "dnk"
+  },
+  "record_B": {
+   "name": "Petersen, Nils O.",
+   "institution": "University of Alberta",
+   "country": "can",
+   "field": "Biomedical Research",
+   "subfield": "Biophysics",
+   "publication_years": "1975-2019"
+  }
+ },
+ {
+  "pair_id": "BM014",
+  "record_A": {
+   "name": "G. M. Bidelman",
+   "institution": "Indiana University Bloomington",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bidelman, Gavin M.",
+   "institution": "University of Memphis",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "2009-2020"
+  }
+ },
+ {
+  "pair_id": "BM015",
+  "record_A": {
+   "name": "R. Brown",
+   "institution": "University of Nevada, Las Vegas",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Brown, Richard E.",
+   "institution": "Exponent, Inc.",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1996-2019"
+  }
+ },
+ {
+  "pair_id": "BM016",
+  "record_A": {
+   "name": "R. Miller",
+   "institution": "Vantage Partners",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Miller, Robert F.",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Public Health",
+   "publication_years": "1972-2019"
+  }
+ },
+ {
+  "pair_id": "BM017",
+  "record_A": {
+   "name": "Harry Orr",
+   "institution": "University of Minnesota Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Orr, Harry T.",
+   "institution": "University of Minnesota",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM018",
+  "record_A": {
+   "name": "John Arnold",
+   "institution": "Lawrence Berkeley National Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Arnold, John H.",
+   "institution": "Children's Hospital Boston",
+   "country": "",
+   "field": "Clinical Medicine",
+   "subfield": "Emergency & Critical Care Medicine",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM019",
+  "record_A": {
+   "name": "Jeroen Hugenholtz",
+   "institution": "Swammerdam Institute for Life Sciences",
+   "country": "nld"
+  },
+  "record_B": {
+   "name": "Hugenholtz, Jeroen",
+   "institution": "Swammerdam Institute for Life Sciences",
+   "country": "nld",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1980-2018"
+  }
+ },
+ {
+  "pair_id": "BM020",
+  "record_A": {
+   "name": "Raj Suryanarayanan",
+   "institution": "College of Pharmacy",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Suryanarayanan, Raj",
+   "institution": "College of Pharmacy",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM021",
+  "record_A": {
+   "name": "M. Feychting",
+   "institution": "Karolinska Institutet",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Feychting, Maria",
+   "institution": "Karolinska Institutet",
+   "country": "swe",
+   "field": "Clinical Medicine",
+   "subfield": "Epidemiology",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM022",
+  "record_A": {
+   "name": "G. L. Wilcox",
+   "institution": "University of Minnesota Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wilcox, George L.",
+   "institution": "Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1974-2020"
+  }
+ },
+ {
+  "pair_id": "BM023",
+  "record_A": {
+   "name": "F. Lopez-Gallego",
+   "institution": "CIC biomaGUNE",
+   "country": "esp"
+  },
+  "record_B": {
+   "name": "Pérez-López, Faustino R.",
+   "institution": "Universidad de Zaragoza",
+   "country": "esp",
+   "field": "Clinical Medicine",
+   "subfield": "Obstetrics & Reproductive Medicine",
+   "publication_years": "1973-2020"
+  }
+ },
+ {
+  "pair_id": "BM024",
+  "record_A": {
+   "name": "Yue Rong",
+   "institution": "Curtin University",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Rong, Yue",
+   "institution": "Curtin University",
+   "country": "aus",
+   "field": "Information & Communication Technologies",
+   "subfield": "Networking & Telecommunications",
+   "publication_years": "2003-2020"
+  }
+ },
+ {
+  "pair_id": "BM025",
+  "record_A": {
+   "name": "R. Harris",
+   "institution": "The University of North Carolina at Chapel Hill",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Harris, Robert A.",
+   "institution": "Indiana University School of Medicine",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1963-2019"
+  }
+ },
+ {
+  "pair_id": "BM026",
+  "record_A": {
+   "name": "Ron Kwok",
+   "institution": "Applied Physics Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kwok, Ron",
+   "institution": "Jet Propulsion Laboratory",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Meteorology & Atmospheric Sciences",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM027",
+  "record_A": {
+   "name": "Franco Nori",
+   "institution": "Riken",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Nori, Franco",
+   "institution": "Riken",
+   "country": "jpn",
+   "field": "Physics & Astronomy",
+   "subfield": "General Physics",
+   "publication_years": "1983-2020"
+  }
+ },
+ {
+  "pair_id": "BM028",
+  "record_A": {
+   "name": "Robin L. Bailey",
+   "institution": "London School of Hygiene & Tropical Medicine",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Bailey, Robin L.",
+   "institution": "London School of Hygiene & Tropical Medicine",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Tropical Medicine",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM029",
+  "record_A": {
+   "name": "J. Ward Kennedy",
+   "institution": "Duke Clinical Research Institute",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kennedy, Jae",
+   "institution": "Washington State University",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Rehabilitation",
+   "publication_years": "1995-2018"
+  }
+ },
+ {
+  "pair_id": "BM030",
+  "record_A": {
+   "name": "Y. Li",
+   "institution": "Georgia State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Li, Yongming",
+   "institution": "Shaanxi Normal University",
+   "country": "chn",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM031",
+  "record_A": {
+   "name": "David Thomas",
+   "institution": "SRC, Inc.",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Thomas, David R.",
+   "institution": "University of Auckland",
+   "country": "nzl",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1969-2017"
+  }
+ },
+ {
+  "pair_id": "BM032",
+  "record_A": {
+   "name": "T. L. Munsat",
+   "institution": "Tufts Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Munsat, Theodore L.",
+   "institution": "Tufts Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1962-2013"
+  }
+ },
+ {
+  "pair_id": "BM033",
+  "record_A": {
+   "name": "Jonathan Cohen",
+   "institution": "UT Southwestern Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Cohen, Jonathan C.",
+   "institution": "UT Southwestern Medical School",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1986-2019"
+  }
+ },
+ {
+  "pair_id": "BM034",
+  "record_A": {
+   "name": "Ethel Gilbert",
+   "institution": "Pacific Northwest National Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Gilbert-Barness, Enid",
+   "institution": "Morsani College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pediatrics",
+   "publication_years": "1988-2017"
+  }
+ },
+ {
+  "pair_id": "BM035",
+  "record_A": {
+   "name": "H. G. Weber",
+   "institution": "Fraunhofer-Institut für Nachrichtentechnik Heinrich-Hertz-Institut",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Weber, H. W.",
+   "institution": "Technische Universitat Wien",
+   "country": "aut",
+   "field": "Physics & Astronomy",
+   "subfield": "General Physics",
+   "publication_years": "1968-2018"
+  }
+ },
+ {
+  "pair_id": "BM036",
+  "record_A": {
+   "name": "C. Conati",
+   "institution": "The University of British Columbia",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Conati, Cristina",
+   "institution": "The University of British Columbia",
+   "country": "can",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM037",
+  "record_A": {
+   "name": "John Knight",
+   "institution": "Commonwealth Scientific and Industrial Research Organisation",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Knight, John R.",
+   "institution": "Harvard Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pediatrics",
+   "publication_years": "1997-2019"
+  }
+ },
+ {
+  "pair_id": "BM038",
+  "record_A": {
+   "name": "J. Owen-Smith",
+   "institution": "University of Michigan, Ann Arbor",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Smith, Jonathan D.",
+   "institution": "Cleveland Clinic Foundation",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM039",
+  "record_A": {
+   "name": "G. Bleijenberg",
+   "institution": "Radboud University Medical Center",
+   "country": "nld"
+  },
+  "record_B": {
+   "name": "Bleijenberg, Gijs",
+   "institution": "Amsterdam Public Health",
+   "country": "nld",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM040",
+  "record_A": {
+   "name": "M. Solomonow",
+   "institution": "University of Colorado Denver",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Solomonow, Moshe",
+   "institution": "University of Colorado Health Sciences Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1974-2016"
+  }
+ },
+ {
+  "pair_id": "BM041",
+  "record_A": {
+   "name": "Tze Wai Wong",
+   "institution": "Chinese University of Hong Kong",
+   "country": "hkg"
+  },
+  "record_B": {
+   "name": "Wong, Tze Wai",
+   "institution": "Prince of Wales Hospital Hong Kong",
+   "country": "hkg",
+   "field": "Clinical Medicine",
+   "subfield": "Environmental & Occupational Health",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM042",
+  "record_A": {
+   "name": "M. Smooke",
+   "institution": "Yale School of Engineering & Applied Science",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Smooke, Mitchell D.",
+   "institution": "Yale University",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1982-2018"
+  }
+ },
+ {
+  "pair_id": "BM043",
+  "record_A": {
+   "name": "Robert Miller",
+   "institution": "Vantage Partners",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Miller, Robert A.",
+   "institution": "Vantage Partners, LLC",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Materials",
+   "publication_years": "1977-2018"
+  }
+ },
+ {
+  "pair_id": "BM044",
+  "record_A": {
+   "name": "J. A. Karson",
+   "institution": "Syracuse University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Karson, Jeffrey A.",
+   "institution": "Syracuse University",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Geochemistry & Geophysics",
+   "publication_years": "1978-2020"
+  }
+ },
+ {
+  "pair_id": "BM045",
+  "record_A": {
+   "name": "Deborah M. Gordon",
+   "institution": "Stanford University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Gordon, Doria R.",
+   "institution": "Environmental Defense Fund",
+   "country": "usa",
+   "field": "Biology",
+   "subfield": "Ecology",
+   "publication_years": "1989-2018"
+  }
+ },
+ {
+  "pair_id": "BM046",
+  "record_A": {
+   "name": "Yanyong Zhang",
+   "institution": "University of Science and Technology of China",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Zhang, Yi",
+   "institution": "Chinese Academy of Forestry",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1988-2013"
+  }
+ },
+ {
+  "pair_id": "BM047",
+  "record_A": {
+   "name": "David Good",
+   "institution": "John Sealy School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Good, David W.",
+   "institution": "UT Medical Branch at Galveston",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1977-2019"
+  }
+ },
+ {
+  "pair_id": "BM048",
+  "record_A": {
+   "name": "Michael Zalutsky",
+   "institution": "Duke University Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zalutsky, Michael R.",
+   "institution": "Duke University Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1974-2020"
+  }
+ },
+ {
+  "pair_id": "BM049",
+  "record_A": {
+   "name": "Rachel I. Wilson",
+   "institution": "Harvard Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wilson, Robert F.",
+   "institution": "Wayne State University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1965-2016"
+  }
+ },
+ {
+  "pair_id": "BM050",
+  "record_A": {
+   "name": "Dario DiFrancesco",
+   "institution": "Università degli Studi di Milano",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "DiFrancesco, Dario",
+   "institution": "Università degli Studi di Milano",
+   "country": "ita",
+   "field": "Biomedical Research",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1978-2020"
+  }
+ },
+ {
+  "pair_id": "BM051",
+  "record_A": {
+   "name": "C. Jones",
+   "institution": "Georgia Institute of Technology",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Jones, Christopher B.",
+   "institution": "Cardiff University",
+   "country": "gbr",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM052",
+  "record_A": {
+   "name": "Hua O. Wang",
+   "institution": "Boston University College of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wang, Hongwei",
+   "institution": "Xinjiang University",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Materials",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM053",
+  "record_A": {
+   "name": "A. M. K. Choi",
+   "institution": "Weill Cornell Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Choi, Augustine M.K.",
+   "institution": "Weill Cornell Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Respiratory System",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM054",
+  "record_A": {
+   "name": "J. G. Gunderson",
+   "institution": "McLean Hospital",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Gunderson, John G.",
+   "institution": "Harvard Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1970-2020"
+  }
+ },
+ {
+  "pair_id": "BM055",
+  "record_A": {
+   "name": "A. Sonia Buist",
+   "institution": "Oregon Health & Science University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Buist, A. Sonia",
+   "institution": "Oregon Health & Science University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Respiratory System",
+   "publication_years": "1973-2020"
+  }
+ },
+ {
+  "pair_id": "BM056",
+  "record_A": {
+   "name": "C. Granger",
+   "institution": "Duke Clinical Research Institute",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Granger, Carl V.",
+   "institution": "Uniform Data System for Medical Rehabilitation",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Rehabilitation",
+   "publication_years": "1963-2018"
+  }
+ },
+ {
+  "pair_id": "BM057",
+  "record_A": {
+   "name": "Ryan Zarychanski",
+   "institution": "University of Manitoba",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Zarychanski, Ryan",
+   "institution": "University of Manitoba",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1998-2020"
+  }
+ },
+ {
+  "pair_id": "BM058",
+  "record_A": {
+   "name": "David J. Cooper",
+   "institution": "University of Alberta",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Cooper, David S.",
+   "institution": "Johns Hopkins School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM059",
+  "record_A": {
+   "name": "Rajiv Jalan",
+   "institution": "University College Hospital",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Jalan, Rajiv",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM060",
+  "record_A": {
+   "name": "J. Dong",
+   "institution": "Ningbo University of Finance & Economics",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Dong, Jianfeng",
+   "institution": "Ningbo University",
+   "country": "chn",
+   "field": "Physics & Astronomy",
+   "subfield": "Optoelectronics & Photonics",
+   "publication_years": "1997-2019"
+  }
+ },
+ {
+  "pair_id": "BM061",
+  "record_A": {
+   "name": "C. J. Conselice",
+   "institution": "Jodrell Bank Centre for Astrophysics",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Conselice, Christopher J.",
+   "institution": "University of Nottingham",
+   "country": "gbr",
+   "field": "Physics & Astronomy",
+   "subfield": "Astronomy & Astrophysics",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM062",
+  "record_A": {
+   "name": "Gerhard Scherer",
+   "institution": "ABF Analytisch-Biologisches Forschungslabor GmbH",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Scherer, Gerhard",
+   "institution": "ABF Analytisch-Biologisches Forschungslabor GmbH",
+   "country": "deu",
+   "field": "Biomedical Research",
+   "subfield": "Toxicology",
+   "publication_years": "1980-2020"
+  }
+ },
+ {
+  "pair_id": "BM063",
+  "record_A": {
+   "name": "Graham J. King",
+   "institution": "Recombics",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "King, Graham J.W.",
+   "institution": "Hand and Upper Limb Centre",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM064",
+  "record_A": {
+   "name": "Kevin Whelan",
+   "institution": "King's College London",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Whelan, Kevin",
+   "institution": "King's College London",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Nutrition & Dietetics",
+   "publication_years": "1999-2020"
+  }
+ },
+ {
+  "pair_id": "BM065",
+  "record_A": {
+   "name": "P. A. Pilkonis",
+   "institution": "University of Pittsburgh School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Pilkonis, Paul A.",
+   "institution": "University of Pittsburgh School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM066",
+  "record_A": {
+   "name": "R. Hall",
+   "institution": "Concordia University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Hall, Roy A.",
+   "institution": "University of Queensland",
+   "country": "aus",
+   "field": "Biomedical Research",
+   "subfield": "Virology",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM067",
+  "record_A": {
+   "name": "Susan Goldman",
+   "institution": "University of Illinois at Chicago",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goldman, Steven A.",
+   "institution": "University of Rochester Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1972-2019"
+  }
+ },
+ {
+  "pair_id": "BM068",
+  "record_A": {
+   "name": "Chuangtian Chen",
+   "institution": "Technical Institute of Physics and Chemistry Chinese Academy of Sciences",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Chen, Chu",
+   "institution": "Fred Hutchinson Cancer Research Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Epidemiology",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM069",
+  "record_A": {
+   "name": "Carol H. Lee",
+   "institution": "Memorial Sloan Kettering Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lee, Carol H.",
+   "institution": "Evelyn H Lauder Breast Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM070",
+  "record_A": {
+   "name": "J. George",
+   "institution": "Iowa State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "George, John E.",
+   "institution": "USDA Agricultural Research Service, Washington DC",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Tropical Medicine",
+   "publication_years": "1971-2009"
+  }
+ },
+ {
+  "pair_id": "BM071",
+  "record_A": {
+   "name": "Chunzhong Li",
+   "institution": "East China University of Science and Technology",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Li, Chunju",
+   "institution": "Tianjin Normal University",
+   "country": "chn",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "2004-2020"
+  }
+ },
+ {
+  "pair_id": "BM072",
+  "record_A": {
+   "name": "P. H. Hart",
+   "institution": "The Kids Research Institute Australia",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Hart, Prue H.",
+   "institution": "Telethon Kids Institute",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM073",
+  "record_A": {
+   "name": "Sergio Romagnani",
+   "institution": "Università degli Studi di Firenze",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Romagnani, Sergio",
+   "institution": "Università degli Studi di Firenze",
+   "country": "ita",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1966-2019"
+  }
+ },
+ {
+  "pair_id": "BM074",
+  "record_A": {
+   "name": "Gunilla Wieslander",
+   "institution": "Akademiska Sjukhuset",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Wieslander, Gunilla",
+   "institution": "Akademiska Sjukhuset",
+   "country": "swe",
+   "field": "Clinical Medicine",
+   "subfield": "Environmental & Occupational Health",
+   "publication_years": "1983-2017"
+  }
+ },
+ {
+  "pair_id": "BM075",
+  "record_A": {
+   "name": "K. Burchiel",
+   "institution": "OHSU School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Burchiel, Kim J.",
+   "institution": "OHSU School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM076",
+  "record_A": {
+   "name": "K. Lu Wong",
+   "institution": "National Sun Yat-Sen University",
+   "country": "twn"
+  },
+  "record_B": {
+   "name": "Wong, Kai Juan",
+   "institution": "Dana-Farber Cancer Institute",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1981-2012"
+  }
+ },
+ {
+  "pair_id": "BM077",
+  "record_A": {
+   "name": "M. D. Wewers",
+   "institution": "The Ohio State University Wexner Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wewers, Mark D.",
+   "institution": "The Ohio State University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1980-2020"
+  }
+ },
+ {
+  "pair_id": "BM078",
+  "record_A": {
+   "name": "M. Mussolino",
+   "institution": "National Heart, Lung, and Blood Institute (NHLBI)",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Mussolino, Michael E.",
+   "institution": "National Institutes of Health, Bethesda",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM079",
+  "record_A": {
+   "name": "K. Hecher",
+   "institution": "Universitätsklinikum Hamburg-Eppendorf",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Hecher, Kurt",
+   "institution": "Universitätsklinikum Hamburg-Eppendorf und Medizinische Fakultät",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Obstetrics & Reproductive Medicine",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM080",
+  "record_A": {
+   "name": "Hyungdae Kim",
+   "institution": "Kyung Hee University",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Kim, Hyeyoung",
+   "institution": "Korea Institute of Science and Technology",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM081",
+  "record_A": {
+   "name": "H. F. Schuknecht",
+   "institution": "Harvard Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Schuknecht, Harold F.",
+   "institution": "Harvard Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Otorhinolaryngology",
+   "publication_years": "1947-2010"
+  }
+ },
+ {
+  "pair_id": "BM082",
+  "record_A": {
+   "name": "Xiaodong Cai",
+   "institution": "Sylvester Comprehensive Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Cai, Ximing",
+   "institution": "University of Illinois at Urbana-Champaign",
+   "country": "usa",
+   "field": "Engineering",
+   "subfield": "Environmental Engineering",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM083",
+  "record_A": {
+   "name": "Peter Newton",
+   "institution": "Great Lakes Forestry Centre",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Newton, Peter F.",
+   "institution": "Canadian Forest Service",
+   "country": "can",
+   "field": "Agriculture, Fisheries & Forestry",
+   "subfield": "Forestry",
+   "publication_years": "1988-2019"
+  }
+ },
+ {
+  "pair_id": "BM084",
+  "record_A": {
+   "name": "R. A. Lamb",
+   "institution": "Northwestern University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lamb, Robert J.",
+   "institution": "University of Manitoba",
+   "country": "can",
+   "field": "Biology",
+   "subfield": "Entomology",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM085",
+  "record_A": {
+   "name": "Neal Skipper",
+   "institution": "University College London",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Skipper, Neal T.",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Physics & Astronomy",
+   "subfield": "Chemical Physics",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM086",
+  "record_A": {
+   "name": "X. Liao",
+   "institution": "Huazhong University of Science and Technology",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Liao, Xiaoxin",
+   "institution": "Huazhong University of Science and Technology",
+   "country": "chn",
+   "field": "Information & Communication Technologies",
+   "subfield": "Networking & Telecommunications",
+   "publication_years": "1992-2019"
+  }
+ },
+ {
+  "pair_id": "BM087",
+  "record_A": {
+   "name": "Jonathan Austyn",
+   "institution": "Wolfson College Oxford",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Austyn, Jonathan M.",
+   "institution": "University of Oxford",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1981-2017"
+  }
+ },
+ {
+  "pair_id": "BM088",
+  "record_A": {
+   "name": "Jacqueline Fawcett",
+   "institution": "University of Massachusetts Boston",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Fawcett, Jacqueline",
+   "institution": "University of Massachusetts Boston",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Nursing",
+   "publication_years": "1973-2020"
+  }
+ },
+ {
+  "pair_id": "BM089",
+  "record_A": {
+   "name": "Rapson Gomez",
+   "institution": "Federation University Australia",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Gomez, Rapson",
+   "institution": "Federation University Australia",
+   "country": "aus",
+   "field": "Psychology & Cognitive Sciences",
+   "subfield": "Social Psychology",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM090",
+  "record_A": {
+   "name": "F. D. Gunstone",
+   "institution": "University of St Andrews",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Gunstone, Frank D.",
+   "institution": "University of St Andrews",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Nutrition & Dietetics",
+   "publication_years": "1945-2015"
+  }
+ },
+ {
+  "pair_id": "BM091",
+  "record_A": {
+   "name": "K. Müller-Dethlefs",
+   "institution": "The University of Manchester",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Müller, Klaus",
+   "institution": "ETH Zürich",
+   "country": "che",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "1984-2020"
+  }
+ },
+ {
+  "pair_id": "BM092",
+  "record_A": {
+   "name": "John Fisher",
+   "institution": "University of Leeds",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Fisher, John D.",
+   "institution": "Montefiore Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM093",
+  "record_A": {
+   "name": "Xiaosheng Fang",
+   "institution": "Fudan University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Fang, Xiaosheng",
+   "institution": "Fudan University",
+   "country": "chn",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Nanoscience & Nanotechnology",
+   "publication_years": "2003-2020"
+  }
+ },
+ {
+  "pair_id": "BM094",
+  "record_A": {
+   "name": "Dieter Jendrossek",
+   "institution": "Universität Stuttgart",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Jendrossek, Dieter",
+   "institution": "Universität Stuttgart",
+   "country": "deu",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM095",
+  "record_A": {
+   "name": "Shiyou Chen",
+   "institution": "Fudan University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Chen, Shigang",
+   "institution": "University of Florida",
+   "country": "usa",
+   "field": "Information & Communication Technologies",
+   "subfield": "Networking & Telecommunications",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM096",
+  "record_A": {
+   "name": "Y. Zhang",
+   "institution": "Beijing Key Laboratory of Materials Utilization of Nonmetallic Minerals and Solid Wastes",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Zhang, Y. H.",
+   "institution": "Tsinghua University",
+   "country": "chn",
+   "field": "Chemistry",
+   "subfield": "Inorganic & Nuclear Chemistry",
+   "publication_years": "1989-2013"
+  }
+ },
+ {
+  "pair_id": "BM097",
+  "record_A": {
+   "name": "W. Marston Linehan",
+   "institution": "National Institutes of Health (NIH)",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Linehan, W. Marston",
+   "institution": "National Cancer Institute",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM098",
+  "record_A": {
+   "name": "S. Randel",
+   "institution": "Karlsruher Institut für Technologie",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Randel, Sebastian",
+   "institution": "Karlsruhe Institute of Technology",
+   "country": "deu",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Optoelectronics & Photonics",
+   "publication_years": "2000-2020"
+  }
+ },
+ {
+  "pair_id": "BM099",
+  "record_A": {
+   "name": "Davina Ghersi",
+   "institution": "Australian Government",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Ghersi, Davina",
+   "institution": "Australian Government",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM100",
+  "record_A": {
+   "name": "D. M. Mark",
+   "institution": "University at Buffalo, The State University of New York",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Mark, Daniel B.",
+   "institution": "Duke Clinical Research Institute",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1984-2020"
+  }
+ },
+ {
+  "pair_id": "BM101",
+  "record_A": {
+   "name": "Robert Nosofsky",
+   "institution": "Indiana University Bloomington",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Nosofsky, Robert M.",
+   "institution": "Indiana University Bloomington",
+   "country": "usa",
+   "field": "Psychology & Cognitive Sciences",
+   "subfield": "Experimental Psychology",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM102",
+  "record_A": {
+   "name": "Robert H. Pietrzak",
+   "institution": "VA Connecticut Healthcare System",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Pietrzak, Robert",
+   "institution": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+   "country": "pol",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Chemical Engineering",
+   "publication_years": "2002-2020"
+  }
+ },
+ {
+  "pair_id": "BM103",
+  "record_A": {
+   "name": "Morey Haymond",
+   "institution": "Baylor College of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Haymond, Morey W.",
+   "institution": "Baylor College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1969-2009"
+  }
+ },
+ {
+  "pair_id": "BM104",
+  "record_A": {
+   "name": "Ross D. Feldman",
+   "institution": "Western University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Feldman, Ross D.",
+   "institution": "University of Manitoba",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1978-2019"
+  }
+ },
+ {
+  "pair_id": "BM105",
+  "record_A": {
+   "name": "John Zimmerman",
+   "institution": "School of Computer Science",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zimmerman, Jack E.",
+   "institution": "Cerner Corporation",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Emergency & Critical Care Medicine",
+   "publication_years": "1978-2016"
+  }
+ },
+ {
+  "pair_id": "BM106",
+  "record_A": {
+   "name": "Lincoln Berland",
+   "institution": "Rad AI",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Berland, Lincoln L.",
+   "institution": "The University of Alabama at Birmingham",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1979-2020"
+  }
+ },
+ {
+  "pair_id": "BM107",
+  "record_A": {
+   "name": "H. Struijker-Boudier",
+   "institution": "CARIM School for Cardiovascular Disease",
+   "country": "nld"
+  },
+  "record_B": {
+   "name": "Struijker-Boudier, Harry A.J.",
+   "institution": "Maastricht University",
+   "country": "nld",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1979-2019"
+  }
+ },
+ {
+  "pair_id": "BM108",
+  "record_A": {
+   "name": "K. Sakai",
+   "institution": "Centre de Recherche en Neurosciences de Lyon",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Sakai, Kazuya",
+   "institution": "Université Claude Bernard Lyon 1",
+   "country": "fra",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1969-2019"
+  }
+ },
+ {
+  "pair_id": "BM109",
+  "record_A": {
+   "name": "S. Lagakos",
+   "institution": "Harvard T.H. Chan School of Public Health",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lagakos, Stephen W.",
+   "institution": "Harvard T.H. Chan School of Public Health",
+   "country": "usa",
+   "field": "Mathematics & Statistics",
+   "subfield": "Statistics & Probability",
+   "publication_years": "1974-2013"
+  }
+ },
+ {
+  "pair_id": "BM110",
+  "record_A": {
+   "name": "Giuseppe Cornaglia",
+   "institution": "Università degli Studi di Verona",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Cornaglia, Giuseppe",
+   "institution": "Università degli Studi di Verona",
+   "country": "ita",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM111",
+  "record_A": {
+   "name": "Stephen MacKinnon",
+   "institution": "University College London Hospitals NHS Foundation Trust",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "MacKinnon, Stephen",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM112",
+  "record_A": {
+   "name": "Cai Grau",
+   "institution": "Aarhus Universitet",
+   "country": "dnk"
+  },
+  "record_B": {
+   "name": "Grau, Cai",
+   "institution": "Aarhus Universitetshospital",
+   "country": "dnk",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM113",
+  "record_A": {
+   "name": "D. F. Smith",
+   "institution": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Smith, David K.",
+   "institution": "University of York",
+   "country": "gbr",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM114",
+  "record_A": {
+   "name": "Marco Perugini",
+   "institution": "Università degli Studi di Milano-Bicocca",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Perugini, Marco",
+   "institution": "University of Milano - Bicocca",
+   "country": "ita",
+   "field": "Psychology & Cognitive Sciences",
+   "subfield": "Social Psychology",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM115",
+  "record_A": {
+   "name": "M. Chiapasco",
+   "institution": "Università degli Studi di Milano, Facoltà di Medicina e Chirurgia",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Chiapasco, Matteo",
+   "institution": "Università degli Studi di Milano",
+   "country": "ita",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM116",
+  "record_A": {
+   "name": "Jiye Fang",
+   "institution": "Binghamton University State University of New York",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Fang, James C.",
+   "institution": "University of Utah Health Sciences",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1996-2019"
+  }
+ },
+ {
+  "pair_id": "BM117",
+  "record_A": {
+   "name": "Ian Sommerville",
+   "institution": "University of St Andrews",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Sommerville, Ian",
+   "institution": "Lancaster University",
+   "country": "gbr",
+   "field": "Information & Communication Technologies",
+   "subfield": "Software Engineering",
+   "publication_years": "1977-2018"
+  }
+ },
+ {
+  "pair_id": "BM118",
+  "record_A": {
+   "name": "C. Chen",
+   "institution": "University of Science and Technology of China",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Chen, Chu",
+   "institution": "LSUHSC Neuroscience Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1995-2019"
+  }
+ },
+ {
+  "pair_id": "BM119",
+  "record_A": {
+   "name": "J. Maffrand",
+   "institution": "Sanofi S.A.",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Maffrand, Jean Pierre",
+   "institution": "Sanofi S.A.",
+   "country": "fra",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1973-2012"
+  }
+ },
+ {
+  "pair_id": "BM120",
+  "record_A": {
+   "name": "Shizuya Saika",
+   "institution": "Wakayama Medical University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Saika, Shizuya",
+   "institution": "Wakayama Medical University",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Ophthalmology & Optometry",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM121",
+  "record_A": {
+   "name": "S. Green",
+   "institution": "The University of British Columbia",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Green, Sheldon I.",
+   "institution": "The University of British Columbia",
+   "country": "can",
+   "field": "Agriculture, Fisheries & Forestry",
+   "subfield": "Forestry",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM122",
+  "record_A": {
+   "name": "Jamie Campbell",
+   "institution": "University of Saskatchewan",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Campbell, Joseph P.",
+   "institution": "Lincoln Laboratory",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Speech-Language Pathology & Audiology",
+   "publication_years": "1986-2017"
+  }
+ },
+ {
+  "pair_id": "BM123",
+  "record_A": {
+   "name": "Ben H. Choi",
+   "institution": "University of California, Irvine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Choi, Byung Ho",
+   "institution": "Yonsei University, Wonju College of Medicine",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM124",
+  "record_A": {
+   "name": "Huck Ng",
+   "institution": "Agency for Science, Technology and Research, Singapore",
+   "country": "sgp"
+  },
+  "record_B": {
+   "name": "Ng, Huck Hui",
+   "institution": "A-Star, Genome Institute of Singapore",
+   "country": "sgp",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM125",
+  "record_A": {
+   "name": "P. Ekblom",
+   "institution": "Institutionen för Experimentell Medicinsk Vetenskap",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Ekblom, Peter",
+   "institution": "Institutionen för Experimentell Medicinsk Vetenskap",
+   "country": "swe",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1978-2007"
+  }
+ },
+ {
+  "pair_id": "BM126",
+  "record_A": {
+   "name": "D. M. McNamara",
+   "institution": "University of Pittsburgh School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "McNamara, Dennis M.",
+   "institution": "University of Pittsburgh Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM127",
+  "record_A": {
+   "name": "Gosta Granstrom",
+   "institution": "Sahlgrenska Akademin",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Granström, Gösta",
+   "institution": "Göteborg University, Sahlgrenska Academy",
+   "country": "swe",
+   "field": "Clinical Medicine",
+   "subfield": "Otorhinolaryngology",
+   "publication_years": "1972-2012"
+  }
+ },
+ {
+  "pair_id": "BM128",
+  "record_A": {
+   "name": "Kenneth Hall",
+   "institution": "Pratt School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hall, Karyl M.",
+   "institution": "Santa Clara Valley Medical Center",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Rehabilitation",
+   "publication_years": "1970-2001"
+  }
+ },
+ {
+  "pair_id": "BM129",
+  "record_A": {
+   "name": "Jan Karlseder",
+   "institution": "Salk Institute for Biological Studies",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Karlseder, Jan",
+   "institution": "Salk Institute for Biological Studies",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1994-2019"
+  }
+ },
+ {
+  "pair_id": "BM130",
+  "record_A": {
+   "name": "Milton Birnbaum",
+   "institution": "Aerospace Corporation, USA",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Birnbaum, Morris J.",
+   "institution": "University of Pennsylvania Perelman School of Medicine",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM131",
+  "record_A": {
+   "name": "P. Davies",
+   "institution": "School of Engineering and Applied Science",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Davies, Peter D.O.",
+   "institution": "Liverpool Heart and Chest Hospital",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Respiratory System",
+   "publication_years": "1989-2018"
+  }
+ },
+ {
+  "pair_id": "BM132",
+  "record_A": {
+   "name": "J. Harper",
+   "institution": "Harvard Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Harper, J. I.",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Dermatology & Venereal Diseases",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM133",
+  "record_A": {
+   "name": "Dorothy K. Hatsukami",
+   "institution": "Masonic Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hatsukami, Dorothy K.",
+   "institution": "Masonic Cancer Center",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Public Health",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM134",
+  "record_A": {
+   "name": "John Evans",
+   "institution": "University of Oxford",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Evans, John Grimley",
+   "institution": "Green Templeton College",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Geriatrics",
+   "publication_years": "1964-2013"
+  }
+ },
+ {
+  "pair_id": "BM135",
+  "record_A": {
+   "name": "Robert Wilson",
+   "institution": "Mississippi State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wilson, Robert",
+   "institution": "The Francis Crick Institute",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1965-2019"
+  }
+ },
+ {
+  "pair_id": "BM136",
+  "record_A": {
+   "name": "J. S. Ross",
+   "institution": "Yale School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Ross, Joseph S.",
+   "institution": "Yale School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1999-2020"
+  }
+ },
+ {
+  "pair_id": "BM137",
+  "record_A": {
+   "name": "Kenneth Jacobson",
+   "institution": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Jacobson, Kenneth A.",
+   "institution": "National Institute of Diabetes and Digestive and Kidney Diseases",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Medicinal & Biomolecular Chemistry",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM138",
+  "record_A": {
+   "name": "J. Wang",
+   "institution": "Xinjiang University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Wang, Jian qiang",
+   "institution": "Central South University",
+   "country": "chn",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1999-2020"
+  }
+ },
+ {
+  "pair_id": "BM139",
+  "record_A": {
+   "name": "H. Liu",
+   "institution": "Tsinghua University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Liu, Hong Min",
+   "institution": "Zhengzhou University",
+   "country": "chn",
+   "field": "Chemistry",
+   "subfield": "Medicinal & Biomolecular Chemistry",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM140",
+  "record_A": {
+   "name": "R. Easther",
+   "institution": "University of Auckland",
+   "country": "nzl"
+  },
+  "record_B": {
+   "name": "Easther, Richard",
+   "institution": "University of Auckland",
+   "country": "nzl",
+   "field": "Physics & Astronomy",
+   "subfield": "Nuclear & Particle Physics",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM141",
+  "record_A": {
+   "name": "L. Berg",
+   "institution": "University of Colorado Anschutz School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Berg, Leonard",
+   "institution": "Washington University School of Medicine in St. Louis",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1974-2004"
+  }
+ },
+ {
+  "pair_id": "BM142",
+  "record_A": {
+   "name": "J. Evans",
+   "institution": "University of Oxford",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Evans, Jilly F.",
+   "institution": "University of Pennsylvania",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM143",
+  "record_A": {
+   "name": "David Barrie Johnson",
+   "institution": "Coventry University",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Johnson, David H.",
+   "institution": "UT Southwestern Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1982-2019"
+  }
+ },
+ {
+  "pair_id": "BM144",
+  "record_A": {
+   "name": "Michael A. Teitell",
+   "institution": "UCLA Samueli School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Teitell, Michael A.",
+   "institution": "David Geffen School of Medicine at UCLA",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Developmental Biology",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM145",
+  "record_A": {
+   "name": "James Johnson",
+   "institution": "Minneapolis Veterans Affairs Health Care System",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Johnson, John M.",
+   "institution": "University of Texas Health Science Center at San Antonio",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Physiology",
+   "publication_years": "1973-2018"
+  }
+ },
+ {
+  "pair_id": "BM146",
+  "record_A": {
+   "name": "Gregory D. Myer",
+   "institution": "Emory University School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Myer, Gregory D.",
+   "institution": "University of Cincinnati College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Sport Sciences",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM147",
+  "record_A": {
+   "name": "Christina Lee",
+   "institution": "The University of Queensland",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Lee, Cin Ty",
+   "institution": "Rice University",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Geochemistry & Geophysics",
+   "publication_years": "1999-2020"
+  }
+ },
+ {
+  "pair_id": "BM148",
+  "record_A": {
+   "name": "Jincai Zhang",
+   "institution": "Shell Development Company",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zhang, J. X.",
+   "institution": "National Quality Inspection and Testing Center for Surveying and Mapping Products",
+   "country": "chn",
+   "field": "Engineering",
+   "subfield": "Geological & Geomatics Engineering",
+   "publication_years": "2000-2020"
+  }
+ },
+ {
+  "pair_id": "BM149",
+  "record_A": {
+   "name": "X. Zhang",
+   "institution": "University of Georgia",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zhang, Xing",
+   "institution": "Hefei University of Technology",
+   "country": "chn",
+   "field": "Engineering",
+   "subfield": "Electrical & Electronic Engineering",
+   "publication_years": "2001-2020"
+  }
+ },
+ {
+  "pair_id": "BM150",
+  "record_A": {
+   "name": "David R. Bickers",
+   "institution": "Columbia University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bickers, David R.",
+   "institution": "Columbia University Irving Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Dermatology & Venereal Diseases",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM151",
+  "record_A": {
+   "name": "Jeffrey Miller",
+   "institution": "Masonic Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Miller, James D.",
+   "institution": "COMMUNICATION DISORDERS TECHNOLOGY, INC",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Otorhinolaryngology",
+   "publication_years": "1957-2020"
+  }
+ },
+ {
+  "pair_id": "BM152",
+  "record_A": {
+   "name": "M. H. Hecht",
+   "institution": "Princeton University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hecht, Michael H.",
+   "institution": "Princeton University",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1978-2019"
+  }
+ },
+ {
+  "pair_id": "BM153",
+  "record_A": {
+   "name": "Fiorenzo Conti",
+   "institution": "Università Politecnica delle Marche",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Conti, Fiorenzo",
+   "institution": "Università Politecnica delle Marche",
+   "country": "ita",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM154",
+  "record_A": {
+   "name": "Mark McClellan",
+   "institution": "Institute for Health Policy Analysis",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "McClellan, Mark B.",
+   "institution": "Duke University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Health Policy & Services",
+   "publication_years": "1992-2019"
+  }
+ },
+ {
+  "pair_id": "BM155",
+  "record_A": {
+   "name": "Alan W. Weimer",
+   "institution": "College of Engineering and Applied Science",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Weimer, Alan W.",
+   "institution": "University of Colorado Boulder",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Chemical Engineering",
+   "publication_years": "1979-2020"
+  }
+ },
+ {
+  "pair_id": "BM156",
+  "record_A": {
+   "name": "G. Chandra Jagetia",
+   "institution": "Mizoram University",
+   "country": "ind"
+  },
+  "record_B": {
+   "name": "Jagetia, Ganesh Chandra",
+   "institution": "Mizoram University",
+   "country": "ind",
+   "field": "Clinical Medicine",
+   "subfield": "Toxicology",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM157",
+  "record_A": {
+   "name": "Jean Martin",
+   "institution": "Laboratoire de Tribologie et Dynamique des Systèmes",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Martin, Jean Jacques",
+   "institution": "Instituut Born-Bunge",
+   "country": "bel",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1965-2019"
+  }
+ },
+ {
+  "pair_id": "BM158",
+  "record_A": {
+   "name": "X. Ma",
+   "institution": "Tianjin University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Ma, Xiaofei",
+   "institution": "Tianjin University",
+   "country": "chn",
+   "field": "Chemistry",
+   "subfield": "Polymers",
+   "publication_years": "2004-2020"
+  }
+ },
+ {
+  "pair_id": "BM159",
+  "record_A": {
+   "name": "T. Terada",
+   "institution": "Shizuoka General Hospital",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Terada, Tadashi",
+   "institution": "Shizuoka General Hospital",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Pathology",
+   "publication_years": "1981-2018"
+  }
+ },
+ {
+  "pair_id": "BM160",
+  "record_A": {
+   "name": "Takayasu Sakurai",
+   "institution": "Institute of Industrial Science",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Sakurai, Takeshi",
+   "institution": "University of Tsukuba",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM161",
+  "record_A": {
+   "name": "S. Shapiro",
+   "institution": "University of Illinois Urbana-Champaign",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Shapiro, Scott A.",
+   "institution": "Indiana University School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM162",
+  "record_A": {
+   "name": "Martin J. Head",
+   "institution": "Brock University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Head, Martin J.",
+   "institution": "Brock University",
+   "country": "can",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Paleontology",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM163",
+  "record_A": {
+   "name": "Osamu Gotoh",
+   "institution": "Japanese Foundation for Cancer Research",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Gotoh, Osamu",
+   "institution": "Japanese Foundation for Cancer Research",
+   "country": "jpn",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM164",
+  "record_A": {
+   "name": "A. L. Stewart",
+   "institution": "University of California, San Francisco",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Stewart, A. Keith",
+   "institution": "Mayo Clinic Scottsdale-Phoenix, Arizona",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM165",
+  "record_A": {
+   "name": "P. Morgan",
+   "institution": "Samueli School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Morgan, Peter J.",
+   "institution": "University of Aberdeen",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1981-2019"
+  }
+ },
+ {
+  "pair_id": "BM166",
+  "record_A": {
+   "name": "Jin Chung",
+   "institution": "ISOPE",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Chung, Jin Ho",
+   "institution": "Seoul National University",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Dermatology & Venereal Diseases",
+   "publication_years": "1986-2019"
+  }
+ },
+ {
+  "pair_id": "BM167",
+  "record_A": {
+   "name": "J. Veenstra",
+   "institution": "Université de Bordeaux",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Veenstra, Jan A.",
+   "institution": "Université de Bordeaux",
+   "country": "fra",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1980-2020"
+  }
+ },
+ {
+  "pair_id": "BM168",
+  "record_A": {
+   "name": "K. Subbaramaiah",
+   "institution": "Weill Cornell Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Subbaramaiah, Kotha",
+   "institution": "Weill Cornell Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM169",
+  "record_A": {
+   "name": "Chang Zern Hong",
+   "institution": "Taiwan Myopain Academic Association",
+   "country": "twn"
+  },
+  "record_B": {
+   "name": "Hong, Chang Zern",
+   "institution": "Taiwan Myopain Society",
+   "country": "twn",
+   "field": "Clinical Medicine",
+   "subfield": "Rehabilitation",
+   "publication_years": "1973-2019"
+  }
+ },
+ {
+  "pair_id": "BM170",
+  "record_A": {
+   "name": "Xiaowei Yang",
+   "institution": "Duke University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Yang, Xiang Jiao",
+   "institution": "McGill University, Rosalind and Morris Goodman Cancer Research Centre",
+   "country": "can",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM171",
+  "record_A": {
+   "name": "O. B. Ptitsyn",
+   "institution": "Institute of Protein Research of the Russian Academy of Sciences",
+   "country": "rus"
+  },
+  "record_B": {
+   "name": "Ptitsyn, Oleg B.",
+   "institution": "Institute of Protein Research of the Russian Academy of Sciences",
+   "country": "rus",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1960-2016"
+  }
+ },
+ {
+  "pair_id": "BM172",
+  "record_A": {
+   "name": "A. Horowitz",
+   "institution": "Fordham University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Horowitz, Alice M.",
+   "institution": "University of Maryland School of Public Health",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1972-2012"
+  }
+ },
+ {
+  "pair_id": "BM173",
+  "record_A": {
+   "name": "C. Rosen",
+   "institution": "Haas School of Business",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Rosen, Craig A.",
+   "institution": "GlaxoSmithKline, USA",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1984-2002"
+  }
+ },
+ {
+  "pair_id": "BM174",
+  "record_A": {
+   "name": "Larry B. Goldstein",
+   "institution": "University of Kentucky College of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goldstein, Laura H.",
+   "institution": "King's College London",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1983-2020"
+  }
+ },
+ {
+  "pair_id": "BM175",
+  "record_A": {
+   "name": "W. Zheng",
+   "institution": "Western Sydney University",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Zheng, Wei",
+   "institution": "Vanderbilt-Ingram Cancer Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM176",
+  "record_A": {
+   "name": "Mary Stephenson",
+   "institution": "University of Illinois at Chicago",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Stephenson, Mary D.",
+   "institution": "University of Illinois College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Obstetrics & Reproductive Medicine",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM177",
+  "record_A": {
+   "name": "Roland R. R. Smith",
+   "institution": "University of Oxford",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Mangione-Smith, Rita M.",
+   "institution": "University of Washington, Seattle",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pediatrics",
+   "publication_years": "1992-2019"
+  }
+ },
+ {
+  "pair_id": "BM178",
+  "record_A": {
+   "name": "M. W. Gray",
+   "institution": "Dalhousie University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "McNitt-Gray, Michael F.",
+   "institution": "David Geffen School of Medicine at UCLA",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM179",
+  "record_A": {
+   "name": "S. K. Kim",
+   "institution": "Stanford University School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kim, Seung Hyun",
+   "institution": "Kyungnam University",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Applied Physics",
+   "publication_years": "1984-2013"
+  }
+ },
+ {
+  "pair_id": "BM180",
+  "record_A": {
+   "name": "H. Joe",
+   "institution": "The University of British Columbia",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Joe, Harry",
+   "institution": "The University of British Columbia",
+   "country": "can",
+   "field": "Mathematics & Statistics",
+   "subfield": "Statistics & Probability",
+   "publication_years": "1983-2020"
+  }
+ },
+ {
+  "pair_id": "BM181",
+  "record_A": {
+   "name": "R. Johnstone",
+   "institution": "Université McGill",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Johnstone, Rose M.",
+   "institution": "McGill University",
+   "country": "can",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1955-2010"
+  }
+ },
+ {
+  "pair_id": "BM182",
+  "record_A": {
+   "name": "Darrell Rigel",
+   "institution": "UT Southwestern Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Rigel, Darrell S.",
+   "institution": "NYU Grossman School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Dermatology & Venereal Diseases",
+   "publication_years": "1980-2019"
+  }
+ },
+ {
+  "pair_id": "BM183",
+  "record_A": {
+   "name": "Andrew Harris",
+   "institution": "The University of Sydney",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Harris, Andrew L.",
+   "institution": "Rutgers New Jersey Medical School",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1979-2019"
+  }
+ },
+ {
+  "pair_id": "BM184",
+  "record_A": {
+   "name": "J. Wilson",
+   "institution": "University of Alberta",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Wilson, John E.",
+   "institution": "Michigan State University",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1965-2004"
+  }
+ },
+ {
+  "pair_id": "BM185",
+  "record_A": {
+   "name": "William H. Pirkle",
+   "institution": "University of Illinois Urbana-Champaign",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Pirkle, William H.",
+   "institution": "University of Illinois at Urbana-Champaign",
+   "country": "usa",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "1964-2016"
+  }
+ },
+ {
+  "pair_id": "BM186",
+  "record_A": {
+   "name": "David Wallach",
+   "institution": "Weizmann Institute of Science Israel",
+   "country": "isr"
+  },
+  "record_B": {
+   "name": "Wallach, David",
+   "institution": "Weizmann Institute of Science Israel",
+   "country": "isr",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1971-2018"
+  }
+ },
+ {
+  "pair_id": "BM187",
+  "record_A": {
+   "name": "Carol Smith",
+   "institution": "University of Massachusetts Boston",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Smith, Carlyle T.",
+   "institution": "Trent University",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1972-2016"
+  }
+ },
+ {
+  "pair_id": "BM188",
+  "record_A": {
+   "name": "J. Klemp",
+   "institution": "National Center for Atmospheric Research",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Klemp, Joseph B.",
+   "institution": "National Center for Atmospheric Research",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Meteorology & Atmospheric Sciences",
+   "publication_years": "1972-2019"
+  }
+ },
+ {
+  "pair_id": "BM189",
+  "record_A": {
+   "name": "J. Wu",
+   "institution": "University of Notre Dame",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wu, Jian Hong",
+   "institution": "National Cheng Kung University",
+   "country": "twn",
+   "field": "Engineering",
+   "subfield": "Geological & Geomatics Engineering",
+   "publication_years": "2003-2020"
+  }
+ },
+ {
+  "pair_id": "BM190",
+  "record_A": {
+   "name": "Stefan Andersson-Engels",
+   "institution": "Tyndall National Institute",
+   "country": "irl"
+  },
+  "record_B": {
+   "name": "Andersson, Stefan",
+   "institution": "University of Houston",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1983-2011"
+  }
+ },
+ {
+  "pair_id": "BM191",
+  "record_A": {
+   "name": "Daena J. Goldsmith",
+   "institution": "Lewis & Clark College, Portland",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goldsmith, David",
+   "institution": "Guy's and St Thomas' NHS Foundation Trust",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM192",
+  "record_A": {
+   "name": "Gerd Maurer",
+   "institution": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Maurer, Gerald",
+   "institution": "Medizinische Universitat Wien",
+   "country": "aut",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM193",
+  "record_A": {
+   "name": "W. L. Lee",
+   "institution": "The Hong Kong Polytechnic University",
+   "country": "hkg"
+  },
+  "record_B": {
+   "name": "Lee, W. P.Andrew",
+   "institution": "Johns Hopkins School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1986-2019"
+  }
+ },
+ {
+  "pair_id": "BM194",
+  "record_A": {
+   "name": "F. Moore",
+   "institution": "University of Florida College of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Moore, Francis D.",
+   "institution": "Brigham and Women's Hospital",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1946-2019"
+  }
+ },
+ {
+  "pair_id": "BM195",
+  "record_A": {
+   "name": "Marc Silverstein",
+   "institution": "Mayo Clinic College of Medicine and Science",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Silverstein, Michael",
+   "institution": "Boston University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM196",
+  "record_A": {
+   "name": "G. Federici",
+   "institution": "DEMO Central Team",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Federici, Gianfranco",
+   "institution": "Programme Management Unit",
+   "country": "deu",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM197",
+  "record_A": {
+   "name": "Sean King",
+   "institution": "Intel Corporation.",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "King, Spencer B.",
+   "institution": "St. Joseph's Health System",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1971-2020"
+  }
+ },
+ {
+  "pair_id": "BM198",
+  "record_A": {
+   "name": "J. B. Taylor",
+   "institution": "National Bureau of Economic Research",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Taylor, John L.",
+   "institution": "University of Northumbria",
+   "country": "gbr",
+   "field": "Public Health & Health Services",
+   "subfield": "Rehabilitation",
+   "publication_years": "2001-2019"
+  }
+ },
+ {
+  "pair_id": "BM199",
+  "record_A": {
+   "name": "Elliot Meyerowitz",
+   "institution": "California Institute of Technology",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Meyerowitz, Elliot M.",
+   "institution": "California Institute of Technology",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1978-2020"
+  }
+ },
+ {
+  "pair_id": "BM200",
+  "record_A": {
+   "name": "Justin Johnson",
+   "institution": "National Laboratory of the Rockies",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Johnson, Jason L.",
+   "institution": "University of Bristol, Faculty of Medicine and Dentistry",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1997-2019"
+  }
+ },
+ {
+  "pair_id": "BM201",
+  "record_A": {
+   "name": "Leonard Bickman",
+   "institution": "Vanderbilt University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bickman, Leonard",
+   "institution": "Florida International University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1966-2020"
+  }
+ },
+ {
+  "pair_id": "BM202",
+  "record_A": {
+   "name": "Dirk Arnold",
+   "institution": "Dalhousie University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Arnold, Donald M.",
+   "institution": "McMaster University, Faculty of Health Sciences",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "2004-2019"
+  }
+ },
+ {
+  "pair_id": "BM203",
+  "record_A": {
+   "name": "David Evans",
+   "institution": "Harvard Faculty of Arts and Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Evans, David",
+   "institution": "University of South Australia",
+   "country": "aus",
+   "field": "Public Health & Health Services",
+   "subfield": "Nursing",
+   "publication_years": "1980-2019"
+  }
+ },
+ {
+  "pair_id": "BM204",
+  "record_A": {
+   "name": "G. Eknoyan",
+   "institution": "Baylor College of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Eknoyan, Garabed",
+   "institution": "Baylor College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1964-2020"
+  }
+ },
+ {
+  "pair_id": "BM205",
+  "record_A": {
+   "name": "F. Baquero",
+   "institution": "Hospital Universitario Ramón y Cajal",
+   "country": "esp"
+  },
+  "record_B": {
+   "name": "Baquero, Fernando",
+   "institution": "Hospital Ramon y Cajal",
+   "country": "esp",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM206",
+  "record_A": {
+   "name": "Michael Greenstone",
+   "institution": "The University of Chicago",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Greenstone, Matthew H.",
+   "institution": "USDA ARS Beltsville Agricultural Research Center",
+   "country": "usa",
+   "field": "Biology",
+   "subfield": "Entomology",
+   "publication_years": "1972-2011"
+  }
+ },
+ {
+  "pair_id": "BM207",
+  "record_A": {
+   "name": "Z. R. Zhou",
+   "institution": "Southwest Jiaotong University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Zhou, Z. Hong",
+   "institution": "University of California, Los Angeles",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM208",
+  "record_A": {
+   "name": "Youyi Wang",
+   "institution": "School of Electrical and Electronic Engineering",
+   "country": "sgp"
+  },
+  "record_B": {
+   "name": "Wang, Yixin",
+   "institution": "Johnson & Johnson",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Obstetrics & Reproductive Medicine",
+   "publication_years": "1988-2011"
+  }
+ },
+ {
+  "pair_id": "BM209",
+  "record_A": {
+   "name": "H. Meyer",
+   "institution": "Eberhard Karls Universität Tübingen",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Danesh-Meyer, Helen",
+   "institution": "University of Auckland",
+   "country": "nzl",
+   "field": "Clinical Medicine",
+   "subfield": "Ophthalmology & Optometry",
+   "publication_years": "1999-2020"
+  }
+ },
+ {
+  "pair_id": "BM210",
+  "record_A": {
+   "name": "N. Vergnolle",
+   "institution": "Inserm",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Vergnolle, Nathalie",
+   "institution": "Institut de Recherche en Santé Digestive - (IRSD)",
+   "country": "",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1995-2019"
+  }
+ },
+ {
+  "pair_id": "BM211",
+  "record_A": {
+   "name": "H. Tsuda",
+   "institution": "National Defense Medical College Tokorozawa",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Tsuda, Hitoshi",
+   "institution": "National Defense Medical College Tokorozawa",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM212",
+  "record_A": {
+   "name": "Qiuwang Wang",
+   "institution": "Xi'an Jiaotong University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Wang, Qianming",
+   "institution": "South China Normal University",
+   "country": "chn",
+   "field": "Chemistry",
+   "subfield": "Materials",
+   "publication_years": "2004-2020"
+  }
+ },
+ {
+  "pair_id": "BM213",
+  "record_A": {
+   "name": "J. Hall",
+   "institution": "University of Wisconsin-Milwaukee",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hall, Jesse B.",
+   "institution": "The University of Chicago",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Respiratory System",
+   "publication_years": "1984-2020"
+  }
+ },
+ {
+  "pair_id": "BM214",
+  "record_A": {
+   "name": "L. Navar",
+   "institution": "Tulane University School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Navar, Luis Gabriel",
+   "institution": "Tulane University School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1964-2019"
+  }
+ },
+ {
+  "pair_id": "BM215",
+  "record_A": {
+   "name": "B. Osborne",
+   "institution": "University of Massachusetts Amherst",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Osborne, Barbara A.",
+   "institution": "University of Massachusetts Amherst",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM216",
+  "record_A": {
+   "name": "Wing Yan Au",
+   "institution": "Blood-Med Clinic",
+   "country": "hkg"
+  },
+  "record_B": {
+   "name": "Au, Wing Yan",
+   "institution": "Blood-Med Clinic",
+   "country": "hkg",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1997-2018"
+  }
+ },
+ {
+  "pair_id": "BM217",
+  "record_A": {
+   "name": "X. Wang",
+   "institution": "Aalborg University",
+   "country": "dnk"
+  },
+  "record_B": {
+   "name": "Wang, Xu",
+   "institution": "Zhejiang University of Technology",
+   "country": "chn",
+   "field": "Engineering",
+   "subfield": "Mechanical Engineering & Transports",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM218",
+  "record_A": {
+   "name": "Tom Markvart",
+   "institution": "Faculty of Electrical Engineering",
+   "country": "cze"
+  },
+  "record_B": {
+   "name": "Markvart, Tom",
+   "institution": "Ceské vysoké ucení technické v Praze",
+   "country": "cze",
+   "field": "Physics & Astronomy",
+   "subfield": "Applied Physics",
+   "publication_years": "1979-2019"
+  }
+ },
+ {
+  "pair_id": "BM219",
+  "record_A": {
+   "name": "A. M. Fraser",
+   "institution": "Los Alamos National Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Fraser, Andrew G.",
+   "institution": "University of Toronto",
+   "country": "can",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1996-2019"
+  }
+ },
+ {
+  "pair_id": "BM220",
+  "record_A": {
+   "name": "Georg Nickenig",
+   "institution": "Universitätsklinikum Bonn",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Nickenig, Georg",
+   "institution": "Universitäts-Klinikum Bonn und Medizinische Fakultät",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM221",
+  "record_A": {
+   "name": "A. Quattrone",
+   "institution": "Università degli studi Magna Graecia di Catanzaro",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Quattrone, Aldo",
+   "institution": "Università degli studi Magna Graecia di Catanzaro",
+   "country": "ita",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1973-2020"
+  }
+ },
+ {
+  "pair_id": "BM222",
+  "record_A": {
+   "name": "Linheng Li",
+   "institution": "Stowers Institute for Medical Research",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Li, Li Hua",
+   "institution": "Hangzhou Dianzi University",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Materials",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM223",
+  "record_A": {
+   "name": "Gareth Jones",
+   "institution": "Dublin City University",
+   "country": "irl"
+  },
+  "record_B": {
+   "name": "Jones, Gareth E.",
+   "institution": "King's College London",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1974-2020"
+  }
+ },
+ {
+  "pair_id": "BM224",
+  "record_A": {
+   "name": "R. Madsen",
+   "institution": "Technical University of Denmark",
+   "country": "dnk"
+  },
+  "record_B": {
+   "name": "Madsen, Robert",
+   "institution": "Danmarks Tekniske Universitet",
+   "country": "dnk",
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM225",
+  "record_A": {
+   "name": "Martin J. Evans",
+   "institution": "College of Biomedical and Life Sciences",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Evans, Martin J.",
+   "institution": "Cardiff University",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1970-2019"
+  }
+ },
+ {
+  "pair_id": "BM226",
+  "record_A": {
+   "name": "David C. Wilson",
+   "institution": "Imperial College London",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Wilson, David L.",
+   "institution": "Case Western Reserve University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM227",
+  "record_A": {
+   "name": "G. P. Harrison",
+   "institution": "The University of Edinburgh",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Harrison, Glynn",
+   "institution": "University of Bristol",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1983-2012"
+  }
+ },
+ {
+  "pair_id": "BM228",
+  "record_A": {
+   "name": "Sonia Longhi",
+   "institution": "Aix Marseille Université",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Longhi, Sonia",
+   "institution": "Aix Marseille Université",
+   "country": "fra",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1992-2019"
+  }
+ },
+ {
+  "pair_id": "BM229",
+  "record_A": {
+   "name": "K. Miyazono",
+   "institution": "Uppsala Universitet",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Miyazono, Kohei",
+   "institution": "University of Tokyo",
+   "country": "jpn",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1984-2020"
+  }
+ },
+ {
+  "pair_id": "BM230",
+  "record_A": {
+   "name": "C. W. Taylor",
+   "institution": "Bonneville Power Administration",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Taylor, Chris M.",
+   "institution": "UK Centre for Ecology & Hydrology",
+   "country": "gbr",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Meteorology & Atmospheric Sciences",
+   "publication_years": "1978-2020"
+  }
+ },
+ {
+  "pair_id": "BM231",
+  "record_A": {
+   "name": "S. Sabour",
+   "institution": "Shahid Beheshti University of Medical Sciences",
+   "country": "irn"
+  },
+  "record_B": {
+   "name": "Sabour, Siamak",
+   "institution": "Shahid Beheshti University of Medical Sciences",
+   "country": "irn",
+   "field": "Clinical Medicine",
+   "subfield": "Ophthalmology & Optometry",
+   "publication_years": "2007-2020"
+  }
+ },
+ {
+  "pair_id": "BM232",
+  "record_A": {
+   "name": "Michael L. Johns",
+   "institution": "The University of Western Australia",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Johns, Michael M.E.",
+   "institution": "Emory University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Otorhinolaryngology",
+   "publication_years": "1973-2013"
+  }
+ },
+ {
+  "pair_id": "BM233",
+  "record_A": {
+   "name": "John G. Nicholls",
+   "institution": "Purdue University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Nicholls, John Malcolm",
+   "institution": "The University of Hong Kong",
+   "country": "hkg",
+   "field": "Clinical Medicine",
+   "subfield": "Virology",
+   "publication_years": "1989-2019"
+  }
+ },
+ {
+  "pair_id": "BM234",
+  "record_A": {
+   "name": "C. B. Lindemann",
+   "institution": "Oakland University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lindemann, Charles B.",
+   "institution": "Oakland University",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1971-2016"
+  }
+ },
+ {
+  "pair_id": "BM235",
+  "record_A": {
+   "name": "D. Williams",
+   "institution": "AstraZeneca",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Williams, David R.",
+   "institution": "Alfred Hospital",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1998-2019"
+  }
+ },
+ {
+  "pair_id": "BM236",
+  "record_A": {
+   "name": "Shari R. Waldstein",
+   "institution": "University of Maryland, Baltimore County (UMBC)",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Waldstein, Shari R.",
+   "institution": "University of Maryland School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Experimental Psychology",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM237",
+  "record_A": {
+   "name": "K. Kocan",
+   "institution": "Oklahoma State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kocan, Katherine M.",
+   "institution": "State University",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Veterinary Sciences",
+   "publication_years": "1975-2017"
+  }
+ },
+ {
+  "pair_id": "BM238",
+  "record_A": {
+   "name": "S. Gore",
+   "institution": "University of Cambridge",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Gore, Sheila M.",
+   "institution": "University of Cambridge",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1976-2013"
+  }
+ },
+ {
+  "pair_id": "BM239",
+  "record_A": {
+   "name": "S. Volpe",
+   "institution": "Virginia Polytechnic Institute and State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Volpe, Stella L.",
+   "institution": "Drexel University",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Sport Sciences",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM240",
+  "record_A": {
+   "name": "Paul Thompson",
+   "institution": "University of Stirling",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Thompson, Paul D.",
+   "institution": "Hartford Hospital",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1978-2020"
+  }
+ },
+ {
+  "pair_id": "BM241",
+  "record_A": {
+   "name": "Carlyle Smith",
+   "institution": "Trent University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Smith, Charles D.",
+   "institution": "Apogee Biotechnology Corporation",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1983-2018"
+  }
+ },
+ {
+  "pair_id": "BM242",
+  "record_A": {
+   "name": "Elias Arnér",
+   "institution": "Országos Onkológiai Intézet Budapest",
+   "country": "hun"
+  },
+  "record_B": {
+   "name": "Arnér, Elias S.J.",
+   "institution": "Karolinska Institutet",
+   "country": "swe",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1984-2020"
+  }
+ },
+ {
+  "pair_id": "BM243",
+  "record_A": {
+   "name": "M. Shinitzky",
+   "institution": "Weizmann Institute of Science Israel",
+   "country": "isr"
+  },
+  "record_B": {
+   "name": "Shinitzky, Meir",
+   "institution": "Weizmann Institute of Science Israel",
+   "country": "isr",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1966-2015"
+  }
+ },
+ {
+  "pair_id": "BM244",
+  "record_A": {
+   "name": "Michael F. Cohen",
+   "institution": "Meta",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Cohen, Michael X.",
+   "institution": "Radboud University Nijmegen",
+   "country": "nld",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "2005-2020"
+  }
+ },
+ {
+  "pair_id": "BM245",
+  "record_A": {
+   "name": "Robert Levy",
+   "institution": "Sami Shamoon College of Engineering",
+   "country": "isr"
+  },
+  "record_B": {
+   "name": "Levy, Ronald",
+   "institution": "Stanford Cancer Institute",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Immunology",
+   "publication_years": "1965-2019"
+  }
+ },
+ {
+  "pair_id": "BM246",
+  "record_A": {
+   "name": "Martin Evans",
+   "institution": "The University of Edinburgh",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Evans, Martin",
+   "institution": "Rotman School of Management",
+   "country": "can",
+   "field": "Economics & Business",
+   "subfield": "Business & Management",
+   "publication_years": "1965-2009"
+  }
+ },
+ {
+  "pair_id": "BM247",
+  "record_A": {
+   "name": "J. Lee",
+   "institution": "University of Michigan, Ann Arbor",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lee, John M.",
+   "institution": "Loyola University Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1981-2012"
+  }
+ },
+ {
+  "pair_id": "BM248",
+  "record_A": {
+   "name": "M. Trulsson",
+   "institution": "Academic Center for Geriatric Dentistry",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Trulsson, Mats",
+   "institution": "Karolinska Institutet",
+   "country": "swe",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM249",
+  "record_A": {
+   "name": "R. Brown",
+   "institution": "King's College London",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Brown, Robert E.",
+   "institution": "University of Texas Health Science Center at Houston",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "General Clinical Medicine",
+   "publication_years": "1968-2019"
+  }
+ },
+ {
+  "pair_id": "BM250",
+  "record_A": {
+   "name": "Shozo Muranishi",
+   "institution": "Kyoto Pharmaceutical University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Muranishi, Shozo",
+   "institution": "Kyoto Pharmaceutical University",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1965-2004"
+  }
+ },
+ {
+  "pair_id": "BM251",
+  "record_A": {
+   "name": "Phillip C. Harris",
+   "institution": "SPE",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Harris, Phillip C.",
+   "institution": "Society of Petroleum Engineers International",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1980-2018"
+  }
+ },
+ {
+  "pair_id": "BM252",
+  "record_A": {
+   "name": "Lasse Jensen",
+   "institution": "Pennsylvania State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Jensen, Lars J.",
+   "institution": "Københavns Universitet",
+   "country": "dnk",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1998-2020"
+  }
+ },
+ {
+  "pair_id": "BM253",
+  "record_A": {
+   "name": "Yihong Du",
+   "institution": "University of New England Australia",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Du, Yong",
+   "institution": "Central South University",
+   "country": "chn",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Materials",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM254",
+  "record_A": {
+   "name": "D. B. Allison",
+   "institution": "Indiana University Bloomington",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Allison, David B.",
+   "institution": "Indiana University Bloomington",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM255",
+  "record_A": {
+   "name": "Catalina Betancur",
+   "institution": "Sorbonne Université",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Betancur, Catalina",
+   "institution": "Sorbonne Universite",
+   "country": "fra",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM256",
+  "record_A": {
+   "name": "D. J. Goldstein",
+   "institution": "Montefiore Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goldstein, David B.",
+   "institution": "Columbia University Irving Medical Center",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Genetics & Heredity",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM257",
+  "record_A": {
+   "name": "Kelly Smith",
+   "institution": "University of Georgia",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Smith, Kenneth J.",
+   "institution": "UCL Queen Square Institute of Neurology",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1977-2020"
+  }
+ },
+ {
+  "pair_id": "BM258",
+  "record_A": {
+   "name": "Jeffrey White",
+   "institution": "University of Florida",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "White, Julian",
+   "institution": "Women's and Children's Hospital Adelaide",
+   "country": "aus",
+   "field": "Biomedical Research",
+   "subfield": "Toxicology",
+   "publication_years": "1980-2019"
+  }
+ },
+ {
+  "pair_id": "BM259",
+  "record_A": {
+   "name": "James A. Robinson",
+   "institution": "The University of Chicago Harris School of Public Policy",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Robinson, Jennifer G.",
+   "institution": "University of Iowa",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM260",
+  "record_A": {
+   "name": "R. Dave Evans",
+   "institution": "Washington State University Pullman",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Evans, Randolph W.",
+   "institution": "Baylor College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1973-2020"
+  }
+ },
+ {
+  "pair_id": "BM261",
+  "record_A": {
+   "name": "John Morris",
+   "institution": "Washington University School of Medicine in St. Louis",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Morris, Joan K.",
+   "institution": "Barts and The London School of Medicine and Dentistry",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1990-2019"
+  }
+ },
+ {
+  "pair_id": "BM262",
+  "record_A": {
+   "name": "X. Bossuyt",
+   "institution": "KU Leuven– University Hospital Leuven",
+   "country": "bel"
+  },
+  "record_B": {
+   "name": "Bossuyt, Xavier",
+   "institution": "KU Leuven– University Hospital Leuven",
+   "country": "bel",
+   "field": "Clinical Medicine",
+   "subfield": "General Clinical Medicine",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM263",
+  "record_A": {
+   "name": "A. Garcia",
+   "institution": "University of Nottingham",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "García, Angel E.",
+   "institution": "Los Alamos National Laboratory",
+   "country": "mex",
+   "field": "Physics & Astronomy",
+   "subfield": "Chemical Physics",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM264",
+  "record_A": {
+   "name": "A. Esmail",
+   "institution": "The University of Manchester",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Esmail, Aneez",
+   "institution": "University of Manchester",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM265",
+  "record_A": {
+   "name": "Hyeongcheol Lee",
+   "institution": "Hanyang University",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Lee, Hin Peng",
+   "institution": "National University of Singapore",
+   "country": "sgp",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1976-2016"
+  }
+ },
+ {
+  "pair_id": "BM266",
+  "record_A": {
+   "name": "Juite Wang",
+   "institution": "National Chung Hsing University",
+   "country": "twn"
+  },
+  "record_B": {
+   "name": "Wang, Jian",
+   "institution": "Johns Hopkins School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "2000-2019"
+  }
+ },
+ {
+  "pair_id": "BM267",
+  "record_A": {
+   "name": "James Brown",
+   "institution": "John Innes Centre",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Brown, J. P.",
+   "institution": "Université Laval",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM268",
+  "record_A": {
+   "name": "Giovanni Zaninotto",
+   "institution": "Imperial College London",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Zaninotto, Giovanni",
+   "institution": "Imperial College London",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM269",
+  "record_A": {
+   "name": "K. Vedhara",
+   "institution": "Keele University, School of Medicine",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Vedhara, Kavita",
+   "institution": "School of Medicine",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Public Health",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM270",
+  "record_A": {
+   "name": "W. W. Zhang",
+   "institution": "NASA Goddard Space Flight Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zhang, Wen Zheng",
+   "institution": "Tsinghua University",
+   "country": "chn",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Materials",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM271",
+  "record_A": {
+   "name": "Lixian Zhang",
+   "institution": "Harbin Institute of Technology",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Zhang, Ling",
+   "institution": "University of Chinese Academy of Sciences",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1994-2012"
+  }
+ },
+ {
+  "pair_id": "BM272",
+  "record_A": {
+   "name": "Kozo Kaibuchi",
+   "institution": "Fujita Health University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Kaibuchi, Kozo",
+   "institution": "Nagoya University School of Medicine",
+   "country": "jpn",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM273",
+  "record_A": {
+   "name": "R. L. Fischer",
+   "institution": "Department of Plant & Microbial Biology",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Fischer, Robert F.H.",
+   "institution": "Universität Ulm",
+   "country": "deu",
+   "field": "Information & Communication Technologies",
+   "subfield": "Networking & Telecommunications",
+   "publication_years": "1994-2019"
+  }
+ },
+ {
+  "pair_id": "BM274",
+  "record_A": {
+   "name": "Junmin Zhu",
+   "institution": "Department of Biomedical Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zhu, Jun",
+   "institution": "University of Wisconsin-Madison",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1981-2013"
+  }
+ },
+ {
+  "pair_id": "BM275",
+  "record_A": {
+   "name": "L. V. Goodrich",
+   "institution": "Harvard Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goodrich, Lisa V.",
+   "institution": "Harvard Medical School",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1996-2019"
+  }
+ },
+ {
+  "pair_id": "BM276",
+  "record_A": {
+   "name": "Cheryl Walker",
+   "institution": "Baylor College of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Walker, Christopher M.",
+   "institution": "Children's Hospital Columbus",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Virology",
+   "publication_years": "1983-2020"
+  }
+ },
+ {
+  "pair_id": "BM277",
+  "record_A": {
+   "name": "Michael Simon",
+   "institution": "University of California, San Francisco",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Simon, Meinhard",
+   "institution": "Universität Oldenburg",
+   "country": "deu",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM278",
+  "record_A": {
+   "name": "Wenhua Liu",
+   "institution": "Tsinghua University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Liu, Wenwen",
+   "institution": "Northwest University",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Optoelectronics & Photonics",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM279",
+  "record_A": {
+   "name": "G. J. Criner",
+   "institution": "Lewis Katz School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Criner, Gerard J.",
+   "institution": "Lewis Katz School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Respiratory System",
+   "publication_years": "1983-2020"
+  }
+ },
+ {
+  "pair_id": "BM280",
+  "record_A": {
+   "name": "Shlomo E. Argamon",
+   "institution": "TOURO UNIVERSITY",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Argamon, Shlomo E.",
+   "institution": "Illinois Institute of Technology",
+   "country": "usa",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1990-2018"
+  }
+ },
+ {
+  "pair_id": "BM281",
+  "record_A": {
+   "name": "Maria Giovannini",
+   "institution": "Università degli Studi di Firenze",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Giovannini, Massimo",
+   "institution": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+   "country": "ita",
+   "field": "Physics & Astronomy",
+   "subfield": "Nuclear & Particle Physics",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM282",
+  "record_A": {
+   "name": "Q. Fu",
+   "institution": "Northwestern Polytechnical University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Fu, Qiangang",
+   "institution": "State Key Laboratory of Solidification Processing",
+   "country": "chn",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Materials",
+   "publication_years": "2005-2020"
+  }
+ },
+ {
+  "pair_id": "BM283",
+  "record_A": {
+   "name": "Stephanie Chang",
+   "institution": "The University of British Columbia",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Chang, Shih Fu U.",
+   "institution": "Columbia University in the City of New York",
+   "country": "usa",
+   "field": "Information & Communication Technologies",
+   "subfield": "Artificial Intelligence & Image Processing",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM284",
+  "record_A": {
+   "name": "William M. White",
+   "institution": "Department of Earth & Atmospheric Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "White, William T.",
+   "institution": "Commonwealth Scientific and Industrial Research Organization",
+   "country": "aus",
+   "field": "Biology",
+   "subfield": "Zoology",
+   "publication_years": "2001-2020"
+  }
+ },
+ {
+  "pair_id": "BM285",
+  "record_A": {
+   "name": "Wim Spakman",
+   "institution": "Universiteit Utrecht",
+   "country": "nld"
+  },
+  "record_B": {
+   "name": "Spakman, Wim",
+   "institution": "Utrecht University",
+   "country": "nld",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Geochemistry & Geophysics",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM286",
+  "record_A": {
+   "name": "Enrico Bombieri",
+   "institution": "Institute for Advanced Study",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bombieri, Enrico",
+   "institution": "Institute for Advanced Studies",
+   "country": "usa",
+   "field": "Mathematics & Statistics",
+   "subfield": "General Mathematics",
+   "publication_years": "1963-2019"
+  }
+ },
+ {
+  "pair_id": "BM287",
+  "record_A": {
+   "name": "J. C. Hall",
+   "institution": "Brandeis University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hall, John E.",
+   "institution": "University of Mississippi Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM288",
+  "record_A": {
+   "name": "Harris Lieberman",
+   "institution": "United States Army Research Institute of Environmental Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Lieberman, Harris R.",
+   "institution": "United States Army Research Institute of Environmental Medicine",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Nutrition & Dietetics",
+   "publication_years": "1982-2020"
+  }
+ },
+ {
+  "pair_id": "BM289",
+  "record_A": {
+   "name": "Robert Friedland",
+   "institution": "University of Louisville School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Friedland, Robert P.",
+   "institution": "University of Louisville Health Sciences Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1977-2020"
+  }
+ },
+ {
+  "pair_id": "BM290",
+  "record_A": {
+   "name": "J. Kim",
+   "institution": "Hanyang University College of Medicine",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Kim, Jung Mogg",
+   "institution": "Hanyang University",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM291",
+  "record_A": {
+   "name": "G. Nevitt",
+   "institution": "University of California, Davis",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Nevitt, Gabrielle A.",
+   "institution": "University of California, Davis",
+   "country": "usa",
+   "field": "Biology",
+   "subfield": "Physiology",
+   "publication_years": "1991-2018"
+  }
+ },
+ {
+  "pair_id": "BM292",
+  "record_A": {
+   "name": "Kinuko Suzuki",
+   "institution": "UNC School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Suzuki, Koji",
+   "institution": "Suzuka University of Medical Science",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM293",
+  "record_A": {
+   "name": "John Norris",
+   "institution": "The Australian National University",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Norris, John",
+   "institution": "St George's University of London",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1974-2019"
+  }
+ },
+ {
+  "pair_id": "BM294",
+  "record_A": {
+   "name": "J. Bertranpetit",
+   "institution": "CSIC-UPF - Instituto de Biologia Evolutiva (IBE)",
+   "country": "esp"
+  },
+  "record_B": {
+   "name": "Bertranpetit, Jaume",
+   "institution": "Universitat Pompeu Fabra Barcelona",
+   "country": "esp",
+   "field": "Biomedical Research",
+   "subfield": "Genetics & Heredity",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM295",
+  "record_A": {
+   "name": "S. E. Jackson",
+   "institution": "Universität Luzern",
+   "country": "che"
+  },
+  "record_B": {
+   "name": "Jackson, Sophie E.",
+   "institution": "Department of Chemistry",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1988-2019"
+  }
+ },
+ {
+  "pair_id": "BM296",
+  "record_A": {
+   "name": "Daniel Wayne Russell",
+   "institution": "Iowa State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Russell-Jones, David",
+   "institution": "Royal Surrey County Hospital",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM297",
+  "record_A": {
+   "name": "Shirley M. Moore",
+   "institution": "Jack, Joseph and Morton Mandel School of Applied Social Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Moore, Stephen S.",
+   "institution": "University of Queensland",
+   "country": "aus",
+   "field": "Agriculture, Fisheries & Forestry",
+   "subfield": "Dairy & Animal Science",
+   "publication_years": "1990-2019"
+  }
+ },
+ {
+  "pair_id": "BM298",
+  "record_A": {
+   "name": "D. W. Murray",
+   "institution": "University of Oxford Medical Sciences Division",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Murray, David M.",
+   "institution": "National Institutes of Health, Bethesda",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Public Health",
+   "publication_years": "1978-2019"
+  }
+ },
+ {
+  "pair_id": "BM299",
+  "record_A": {
+   "name": "Sakae Tanaka",
+   "institution": "The University of Tokyo",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Tanaka, Seiji",
+   "institution": "Institute of Agrobiological Sciences, NARO",
+   "country": "jpn",
+   "field": "Biology",
+   "subfield": "Entomology",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM300",
+  "record_A": {
+   "name": "John Roberts",
+   "institution": "Jacobs School of Medicine and Biomedical Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Roberts, James A.",
+   "institution": "Tulane University School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1969-2005"
+  }
+ },
+ {
+  "pair_id": "BM301",
+  "record_A": {
+   "name": "J. A. Haagsma",
+   "institution": "Erasmus MC",
+   "country": "nld"
+  },
+  "record_B": {
+   "name": "Haagsma, Juanita A.",
+   "institution": "Erasmus MC",
+   "country": "nld",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "2008-2020"
+  }
+ },
+ {
+  "pair_id": "BM302",
+  "record_A": {
+   "name": "P. Sharp",
+   "institution": "The University of Edinburgh",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Sharp, P. J.",
+   "institution": "University of Edinburgh, Roslin Institute",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1968-2017"
+  }
+ },
+ {
+  "pair_id": "BM303",
+  "record_A": {
+   "name": "Jason Kim",
+   "institution": "David Geffen School of Medicine at UCLA",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kim, Jong Hak",
+   "institution": "Yonsei University",
+   "country": "kor",
+   "field": "Chemistry",
+   "subfield": "Polymers",
+   "publication_years": "2001-2019"
+  }
+ },
+ {
+  "pair_id": "BM304",
+  "record_A": {
+   "name": "J. Wilson",
+   "institution": "University at Buffalo, The State University of New York",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Wilson, John A.",
+   "institution": "University of Bristol",
+   "country": "gbr",
+   "field": "Physics & Astronomy",
+   "subfield": "Fluids & Plasmas",
+   "publication_years": "1969-2010"
+  }
+ },
+ {
+  "pair_id": "BM305",
+  "record_A": {
+   "name": "S. Sasaki",
+   "institution": "Tokyo University of Science",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Sasaki, Sei",
+   "institution": "Tokyo Medical and Dental University",
+   "country": "jpn",
+   "field": "Clinical Medicine",
+   "subfield": "Urology & Nephrology",
+   "publication_years": "1977-2018"
+  }
+ },
+ {
+  "pair_id": "BM306",
+  "record_A": {
+   "name": "Michael F. Jarvis",
+   "institution": "AbbVie",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Jarvis, Michael C.",
+   "institution": "University of Glasgow",
+   "country": "gbr",
+   "field": "Biology",
+   "subfield": "Plant Biology & Botany",
+   "publication_years": "1974-2020"
+  }
+ },
+ {
+  "pair_id": "BM307",
+  "record_A": {
+   "name": "Cecil H. Rorabeck",
+   "institution": "London Health Sciences",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Rorabeck, Cecil H.",
+   "institution": "London Health Sciences",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1971-2012"
+  }
+ },
+ {
+  "pair_id": "BM308",
+  "record_A": {
+   "name": "Larry A. Taber",
+   "institution": "McKelvey School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Chasan-Taber, Lisa",
+   "institution": "University of Massachusetts Amherst",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Public Health",
+   "publication_years": "1994-2019"
+  }
+ },
+ {
+  "pair_id": "BM309",
+  "record_A": {
+   "name": "Robert A. Scott",
+   "institution": "University of Georgia",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Scott, Robert A.",
+   "institution": "The University of Georgia",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1974-2017"
+  }
+ },
+ {
+  "pair_id": "BM310",
+  "record_A": {
+   "name": "James Parsons",
+   "institution": "South Florida Radiation Oncology",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Parsons, James T.",
+   "institution": "South Florida Radiation Oncology",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1980-2015"
+  }
+ },
+ {
+  "pair_id": "BM311",
+  "record_A": {
+   "name": "A. Tremblay",
+   "institution": "Université de Sherbrooke",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Tremblay, Angelo",
+   "institution": "Université Laval",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1980-2020"
+  }
+ },
+ {
+  "pair_id": "BM312",
+  "record_A": {
+   "name": "Lisa A. Peterson",
+   "institution": "Masonic Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Peterson, Lance R.",
+   "institution": "NorthShore University HealthSystem",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM313",
+  "record_A": {
+   "name": "David P. Hill",
+   "institution": "United States Geological Survey Western Region",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hill, David J.",
+   "institution": "Murdoch Children's Research Institute",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Allergy",
+   "publication_years": "1972-2019"
+  }
+ },
+ {
+  "pair_id": "BM314",
+  "record_A": {
+   "name": "R. Clark",
+   "institution": "Planetary Science Institute",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Clark, Robert A.",
+   "institution": "University of Texas Health Science Center at San Antonio",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1968-2020"
+  }
+ },
+ {
+  "pair_id": "BM315",
+  "record_A": {
+   "name": "S. A. Azer",
+   "institution": "Australian Professional Teaching (APT)",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Azer, Samy A.",
+   "institution": "King Saud University Medical College",
+   "country": "sau",
+   "field": "Clinical Medicine",
+   "subfield": "Medical Informatics",
+   "publication_years": "1988-2020"
+  }
+ },
+ {
+  "pair_id": "BM316",
+  "record_A": {
+   "name": "Wolf Schabitz",
+   "institution": "Universität Bielefeld",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Schäbitz, Wolf Rüdiger",
+   "institution": "Evangelisches Klinikum Bethel",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM317",
+  "record_A": {
+   "name": "John D. Denton",
+   "institution": "Department of Engineering",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Denton, John D.",
+   "institution": "Department of Engineering",
+   "country": "gbr",
+   "field": "Engineering",
+   "subfield": "Mechanical Engineering & Transports",
+   "publication_years": "1974-2017"
+  }
+ },
+ {
+  "pair_id": "BM318",
+  "record_A": {
+   "name": "L. Epstein",
+   "institution": "University of Haifa",
+   "country": "isr"
+  },
+  "record_B": {
+   "name": "Epstein, Leah",
+   "institution": "University of Haifa",
+   "country": "isr",
+   "field": "Information & Communication Technologies",
+   "subfield": "Computation Theory & Mathematics",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM319",
+  "record_A": {
+   "name": "David Rand",
+   "institution": "Brown University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Rand, David A.",
+   "institution": "The University of Warwick",
+   "country": "gbr",
+   "field": "Mathematics & Statistics",
+   "subfield": "Bioinformatics",
+   "publication_years": "1974-2019"
+  }
+ },
+ {
+  "pair_id": "BM320",
+  "record_A": {
+   "name": "R. Johnson",
+   "institution": "The University of Vermont",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Johnson, Rodney W.",
+   "institution": "University of Illinois at Urbana-Champaign",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1991-2020"
+  }
+ },
+ {
+  "pair_id": "BM321",
+  "record_A": {
+   "name": "R. J. Smernik",
+   "institution": "The University of Adelaide",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Smernik, Ronald J.",
+   "institution": "The University of Adelaide",
+   "country": "aus",
+   "field": "Agriculture, Fisheries & Forestry",
+   "subfield": "Agronomy & Agriculture",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM322",
+  "record_A": {
+   "name": "Michael Kasper",
+   "institution": "Medizinische Fakultät Carl Gustav Carus",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Kasper, Michael",
+   "institution": "Dresden University Faculty of Medicine and University Hospital Carl Gustav Carus",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1980-2019"
+  }
+ },
+ {
+  "pair_id": "BM323",
+  "record_A": {
+   "name": "Paul Warren",
+   "institution": "Institute of Geophysics and Planetary Physics (IGPP) at UCLA",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Warren, Paul",
+   "institution": "Pilkington Group Limited",
+   "country": "gbr",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Materials",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM324",
+  "record_A": {
+   "name": "John Reynolds",
+   "institution": "Simon Fraser University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Reynolds, John V.",
+   "institution": "Trinity College Dublin",
+   "country": "irl",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM325",
+  "record_A": {
+   "name": "D. Gaitonde",
+   "institution": "College of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Gaitonde, Datta V.",
+   "institution": "The Ohio State University",
+   "country": "usa",
+   "field": "Engineering",
+   "subfield": "Aerospace & Aeronautics",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM326",
+  "record_A": {
+   "name": "Yu Seung Kim",
+   "institution": "Los Alamos National Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kim, Young Ho",
+   "institution": "Chungnam National University",
+   "country": "kor",
+   "field": "Clinical Medicine",
+   "subfield": "Medicinal & Biomolecular Chemistry",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM327",
+  "record_A": {
+   "name": "D. Liu",
+   "institution": "Huazhong University of Science and Technology",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Liu, Dexi",
+   "institution": "The University of Georgia",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1989-2019"
+  }
+ },
+ {
+  "pair_id": "BM328",
+  "record_A": {
+   "name": "M. Cronin-Golomb",
+   "institution": "Tufts School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Cronin, Mark T.D.",
+   "institution": "Liverpool John Moores University",
+   "country": "gbr",
+   "field": "Biomedical Research",
+   "subfield": "Toxicology",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM329",
+  "record_A": {
+   "name": "G. MacGregor",
+   "institution": "London School of Hygiene & Tropical Medicine",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "MacGregor, Graham A.",
+   "institution": "Barts and The London School of Medicine and Dentistry",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM330",
+  "record_A": {
+   "name": "B. A. Freeman",
+   "institution": "University of Pittsburgh School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Freeman, Bruce A.",
+   "institution": "University of Pittsburgh",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1976-2020"
+  }
+ },
+ {
+  "pair_id": "BM331",
+  "record_A": {
+   "name": "X. Li",
+   "institution": "Shandong University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Li, X. Allen",
+   "institution": "Medical College of Wisconsin",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Nuclear Medicine & Medical Imaging",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM332",
+  "record_A": {
+   "name": "J. Zhang",
+   "institution": "Virginia Tech College of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Zhang, John H.",
+   "institution": "Loma Linda University School of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM333",
+  "record_A": {
+   "name": "Mark Davis",
+   "institution": "Stanford University School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Davis, M. L.",
+   "institution": "The University of Texas at Austin",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1971-2020"
+  }
+ },
+ {
+  "pair_id": "BM334",
+  "record_A": {
+   "name": "Yaoxue Zhang",
+   "institution": "Tsinghua University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Zhang, Y.",
+   "institution": "Wuhan University of Technology",
+   "country": "chn",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1983-2013"
+  }
+ },
+ {
+  "pair_id": "BM335",
+  "record_A": {
+   "name": "M. H. R. Hutchinson",
+   "institution": "Rutherford Appleton Laboratory",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Hutchinson, M. Katherine",
+   "institution": "College of Nursing",
+   "country": "usa",
+   "field": "Public Health & Health Services",
+   "subfield": "Nursing",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM336",
+  "record_A": {
+   "name": "J. Lee",
+   "institution": "Chung-Ang University",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Lee, James",
+   "institution": "University of Hawaiʻi at Mānoa",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1976-2009"
+  }
+ },
+ {
+  "pair_id": "BM337",
+  "record_A": {
+   "name": "W. R. Treem",
+   "institution": "Takeda Pharmaceuticals U.S.A., Inc.",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Treem, William R.",
+   "institution": "Takeda Pharmaceutical Company Limited",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM338",
+  "record_A": {
+   "name": "Wendy Manning",
+   "institution": "Bowling Green State University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Manning, William J.",
+   "institution": "University of Massachusetts Amherst",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Environmental Sciences",
+   "publication_years": "1971-2019"
+  }
+ },
+ {
+  "pair_id": "BM339",
+  "record_A": {
+   "name": "Anne Joutel",
+   "institution": "Centre Hospitalier Sainte-Anne",
+   "country": "fra"
+  },
+  "record_B": {
+   "name": "Joutel, Anne",
+   "institution": "Institut de Psychiatrie et Neurosciences de Paris (IPNP)",
+   "country": "fra",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM340",
+  "record_A": {
+   "name": "Richard McCuen",
+   "institution": "A. James Clark School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "McCuen, Richard H.",
+   "institution": "A. James Clark School of Engineering",
+   "country": "usa",
+   "field": "Engineering",
+   "subfield": "Environmental Engineering",
+   "publication_years": "1972-2018"
+  }
+ },
+ {
+  "pair_id": "BM341",
+  "record_A": {
+   "name": "M. Kalloniatis",
+   "institution": "University of Houston College of Optometry",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Kalloniatis, Michael",
+   "institution": "University of New South Wales (UNSW) Australia",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Ophthalmology & Optometry",
+   "publication_years": "1990-2020"
+  }
+ },
+ {
+  "pair_id": "BM342",
+  "record_A": {
+   "name": "Anthony E. Hughes",
+   "institution": "Commonwealth Scientific and Industrial Research Organisation",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Hughes, Alun D.",
+   "institution": "UCL",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1981-2019"
+  }
+ },
+ {
+  "pair_id": "BM343",
+  "record_A": {
+   "name": "K. Sasaki",
+   "institution": "Hokkaido University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Sasaki, Kazunari",
+   "institution": "Kyushu University",
+   "country": "jpn",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM344",
+  "record_A": {
+   "name": "A. K. Clarke",
+   "institution": "Göteborgs Universitet",
+   "country": "swe"
+  },
+  "record_B": {
+   "name": "Clarke, Alan R.",
+   "institution": "Cardiff University",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1989-2019"
+  }
+ },
+ {
+  "pair_id": "BM345",
+  "record_A": {
+   "name": "David H. Perlmutter",
+   "institution": "Washington University School of Medicine in St. Louis",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Perlmutter, David H.",
+   "institution": "Washington University School of Medicine in St. Louis",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1983-2019"
+  }
+ },
+ {
+  "pair_id": "BM346",
+  "record_A": {
+   "name": "Michael Barry",
+   "institution": "Mayo Clinic",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Barry, Michael A.",
+   "institution": "Mayo Clinic",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biotechnology",
+   "publication_years": "1987-2020"
+  }
+ },
+ {
+  "pair_id": "BM347",
+  "record_A": {
+   "name": "Oliver Cameron",
+   "institution": "Michigan Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Cameron, Oliver G.",
+   "institution": "University of Michigan, Ann Arbor",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Psychiatry",
+   "publication_years": "1972-2018"
+  }
+ },
+ {
+  "pair_id": "BM348",
+  "record_A": {
+   "name": "R. Huggins",
+   "institution": "Stanford University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Huggins, Robert A.",
+   "institution": "Stanford University",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Energy",
+   "publication_years": "1952-2017"
+  }
+ },
+ {
+  "pair_id": "BM349",
+  "record_A": {
+   "name": "A. Richardson",
+   "institution": "Commonwealth Scientific and Industrial Research Organisation",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Richardson, A. J.",
+   "institution": "University of Queensland",
+   "country": "aus",
+   "field": "Biology",
+   "subfield": "Marine Biology & Hydrobiology",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM350",
+  "record_A": {
+   "name": "Sumeet S. Chugh",
+   "institution": "Cedars-Sinai Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Chugh, Sumeet S.",
+   "institution": "Cedars-Sinai Medical Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Cardiovascular System & Hematology",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM351",
+  "record_A": {
+   "name": "Stefano Piccolo",
+   "institution": "Università degli Studi di Padova",
+   "country": "ita"
+  },
+  "record_B": {
+   "name": "Piccolo, Stefano",
+   "institution": "Università degli Studi di Padova",
+   "country": "ita",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1993-2020"
+  }
+ },
+ {
+  "pair_id": "BM352",
+  "record_A": {
+   "name": "Rudolf Jaffe",
+   "institution": "Florida International University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Jaffe, Robert B.",
+   "institution": "University of California, San Francisco",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1965-2016"
+  }
+ },
+ {
+  "pair_id": "BM353",
+  "record_A": {
+   "name": "S. Okabe",
+   "institution": "Graduate School of Medicine",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Okabe, Satoshi",
+   "institution": "Hokkaido University",
+   "country": "jpn",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM354",
+  "record_A": {
+   "name": "Rodney W. Johnson",
+   "institution": "University of Illinois Urbana-Champaign",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Johnson, Russell C.",
+   "institution": "University of Minnesota",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1963-2011"
+  }
+ },
+ {
+  "pair_id": "BM355",
+  "record_A": {
+   "name": "J. M. Adams",
+   "institution": "Walter and Eliza Hall Institute of Medical Research",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Adams, John S.",
+   "institution": "David Geffen School of Medicine at UCLA",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM356",
+  "record_A": {
+   "name": "L. Chen",
+   "institution": "Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Chen, L.",
+   "institution": "Cyclotron Institute",
+   "country": "usa",
+   "field": "Physics & Astronomy",
+   "subfield": "Nuclear & Particle Physics",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM357",
+  "record_A": {
+   "name": "Linda V. Green",
+   "institution": "Columbia Business School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Green, Lee A.",
+   "institution": "University of Alberta",
+   "country": "can",
+   "field": "Clinical Medicine",
+   "subfield": "General & Internal Medicine",
+   "publication_years": "1983-2019"
+  }
+ },
+ {
+  "pair_id": "BM358",
+  "record_A": {
+   "name": "Jong Seung Kim",
+   "institution": "Korea University",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Kim, Jin Kon",
+   "institution": "Pohang University of Science and Technology",
+   "country": "kor",
+   "field": "Chemistry",
+   "subfield": "Polymers",
+   "publication_years": "1989-2019"
+  }
+ },
+ {
+  "pair_id": "BM359",
+  "record_A": {
+   "name": "D. M. Murray",
+   "institution": "College of Arts & Sciences",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Murray, David W.",
+   "institution": "University of Oxford",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1979-2020"
+  }
+ },
+ {
+  "pair_id": "BM360",
+  "record_A": {
+   "name": "D. Schotzau",
+   "institution": "The University of British Columbia",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Schötzau, Dominik",
+   "institution": "The University of British Columbia",
+   "country": "can",
+   "field": "Mathematics & Statistics",
+   "subfield": "Numerical & Computational Mathematics",
+   "publication_years": "1998-2018"
+  }
+ },
+ {
+  "pair_id": "BM361",
+  "record_A": {
+   "name": "M. Abdollahi",
+   "institution": "Tehran University of Medical Sciences",
+   "country": "irn"
+  },
+  "record_B": {
+   "name": "Abdollahi, Mohammad",
+   "institution": "Tehran University of Medical Sciences",
+   "country": "irn",
+   "field": "Clinical Medicine",
+   "subfield": "Medicinal & Biomolecular Chemistry",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM362",
+  "record_A": {
+   "name": "Mark Elton Astiz",
+   "institution": "Lenox Hill Hospital",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Astiz, Mark Elton",
+   "institution": "Lenox Hill Hospital",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Emergency & Critical Care Medicine",
+   "publication_years": "1985-2017"
+  }
+ },
+ {
+  "pair_id": "BM363",
+  "record_A": {
+   "name": "Peter Forsyth",
+   "institution": "Monash University",
+   "country": "aus"
+  },
+  "record_B": {
+   "name": "Forsyth, Peter A.",
+   "institution": "Moffitt Cancer Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1992-2020"
+  }
+ },
+ {
+  "pair_id": "BM364",
+  "record_A": {
+   "name": "G. Watzek",
+   "institution": "Academy for Oral Implantology",
+   "country": "aut"
+  },
+  "record_B": {
+   "name": "Watzek, Georg",
+   "institution": "Academy for Oral Implantology",
+   "country": "aut",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1975-2019"
+  }
+ },
+ {
+  "pair_id": "BM365",
+  "record_A": {
+   "name": "Edward Brown",
+   "institution": "Department of Computational Mathematics, Science and Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Brown, Eric D.",
+   "institution": "McMaster University, Faculty of Health Sciences",
+   "country": "can",
+   "field": "Biomedical Research",
+   "subfield": "Microbiology",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM366",
+  "record_A": {
+   "name": "Heiko J. Luhmann",
+   "institution": "Universitätsmedizin Mainz",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Luhmann, Heiko J.",
+   "institution": "Johannes Gutenberg Universität Mainz",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM367",
+  "record_A": {
+   "name": "Y. Kim",
+   "institution": "Ulsan National Institute of Science and Technology",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Kim, Yong Ho",
+   "institution": "Pukyong National University",
+   "country": "kor",
+   "field": "Information & Communication Technologies",
+   "subfield": "Networking & Telecommunications",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM368",
+  "record_A": {
+   "name": "Kevin Garvin",
+   "institution": "University of Nebraska Medical Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Garvin, Kevin L.",
+   "institution": "College of Medicine",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1980-2020"
+  }
+ },
+ {
+  "pair_id": "BM369",
+  "record_A": {
+   "name": "S. Reda",
+   "institution": "Brown University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Reda, Sherief",
+   "institution": "Brown University",
+   "country": "usa",
+   "field": "Information & Communication Technologies",
+   "subfield": "Computer Hardware & Architecture",
+   "publication_years": "2000-2020"
+  }
+ },
+ {
+  "pair_id": "BM370",
+  "record_A": {
+   "name": "Ivan Rodriguez",
+   "institution": "Université de Genève",
+   "country": "che"
+  },
+  "record_B": {
+   "name": "Rodriguez, Ivan",
+   "institution": "Université de Genève",
+   "country": "che",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1994-2020"
+  }
+ },
+ {
+  "pair_id": "BM371",
+  "record_A": {
+   "name": "A. Anderson",
+   "institution": "The University of Chicago",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Anderson, Alexander R.A.",
+   "institution": "Moffitt Cancer Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1997-2020"
+  }
+ },
+ {
+  "pair_id": "BM372",
+  "record_A": {
+   "name": "Koji Kano",
+   "institution": "Doshisha University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Kano, Kenji",
+   "institution": "Kyoto University",
+   "country": "jpn",
+   "field": "Chemistry",
+   "subfield": "Energy",
+   "publication_years": "1981-2020"
+  }
+ },
+ {
+  "pair_id": "BM373",
+  "record_A": {
+   "name": "Michael Weisman",
+   "institution": "Stanford University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Weisman, Michael H.",
+   "institution": "David Geffen School of Medicine at UCLA",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Arthritis & Rheumatology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM374",
+  "record_A": {
+   "name": "Julia H. Rowland",
+   "institution": "Smith Center for Healing and the Arts",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Rowland, Julia H.",
+   "institution": "Smith Center for Healing and the Arts",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1977-2019"
+  }
+ },
+ {
+  "pair_id": "BM375",
+  "record_A": {
+   "name": "D. H. Elliot",
+   "institution": "Byrd Polar and Climate Research Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Elliot, David",
+   "institution": "Broomfield Hospital",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1979-2019"
+  }
+ },
+ {
+  "pair_id": "BM376",
+  "record_A": {
+   "name": "Jinwoo Kim",
+   "institution": "Yonsei University",
+   "country": "kor"
+  },
+  "record_B": {
+   "name": "Kim, Jae Bum",
+   "institution": "Seoul National University",
+   "country": "kor",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1990-2018"
+  }
+ },
+ {
+  "pair_id": "BM377",
+  "record_A": {
+   "name": "B. Sageman",
+   "institution": "Northwestern University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Sageman, Bradley B.",
+   "institution": "Northwestern University",
+   "country": "usa",
+   "field": "Earth & Environmental Sciences",
+   "subfield": "Geochemistry & Geophysics",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM378",
+  "record_A": {
+   "name": "A. Allen",
+   "institution": "Material Measurement Laboratory",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Allen, Andrew M.",
+   "institution": "University of Melbourne",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Neurology & Neurosurgery",
+   "publication_years": "1986-2020"
+  }
+ },
+ {
+  "pair_id": "BM379",
+  "record_A": {
+   "name": "R. Montesano",
+   "institution": "Université de Genève Faculté de Médecine",
+   "country": "che"
+  },
+  "record_B": {
+   "name": "Montesano, Roberto",
+   "institution": "Université de Genève Faculté de Médecine",
+   "country": "che",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1975-2020"
+  }
+ },
+ {
+  "pair_id": "BM380",
+  "record_A": {
+   "name": "Lewis R. Goldberg",
+   "institution": "Oregon Research Institute",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Goldberg, Leon I.",
+   "institution": "The University of Chicago",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Pharmacology & Pharmacy",
+   "publication_years": "1951-1998"
+  }
+ },
+ {
+  "pair_id": "BM381",
+  "record_A": {
+   "name": "John C. Price",
+   "institution": "University of Nebraska Omaha",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Newell-Price, John",
+   "institution": "University of Sheffield",
+   "country": "gbr",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM382",
+  "record_A": {
+   "name": "Yaseen Arabi",
+   "institution": "National Guard Health Affairs",
+   "country": "sau"
+  },
+  "record_B": {
+   "name": "Arabi, Yaseen M.",
+   "institution": "King Saud bin Abdulaziz University for Health Sciences",
+   "country": "sau",
+   "field": "Clinical Medicine",
+   "subfield": "Emergency & Critical Care Medicine",
+   "publication_years": "1996-2020"
+  }
+ },
+ {
+  "pair_id": "BM383",
+  "record_A": {
+   "name": "Nikhil Gupta",
+   "institution": "NYU Tandon School of Engineering",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Gupta, Neelam",
+   "institution": "U.S. Army Research Laboratory",
+   "country": "usa",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Optoelectronics & Photonics",
+   "publication_years": "1990-2019"
+  }
+ },
+ {
+  "pair_id": "BM384",
+  "record_A": {
+   "name": "G. Breier",
+   "institution": "Medizinische Fakultät Carl Gustav Carus",
+   "country": "deu"
+  },
+  "record_B": {
+   "name": "Breier, Georg",
+   "institution": "Technische Universität Dresden",
+   "country": "deu",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1986-2019"
+  }
+ },
+ {
+  "pair_id": "BM385",
+  "record_A": {
+   "name": "Janice Schwartz",
+   "institution": "UCSF School of Medicine",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Schwartz, Joel D.",
+   "institution": "Harvard T.H. Chan School of Public Health",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Toxicology",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM386",
+  "record_A": {
+   "name": "Tadashi Uemura",
+   "institution": "Kyoto University",
+   "country": "jpn"
+  },
+  "record_B": {
+   "name": "Uemura, Tadashi",
+   "institution": "Kyoto University",
+   "country": "jpn",
+   "field": "Biomedical Research",
+   "subfield": "Developmental Biology",
+   "publication_years": "1984-2019"
+  }
+ },
+ {
+  "pair_id": "BM387",
+  "record_A": {
+   "name": "L. Tronstad",
+   "institution": "Universitetet i Oslo",
+   "country": "nor"
+  },
+  "record_B": {
+   "name": "Tronstad, Leif",
+   "institution": "Universitetet i Oslo",
+   "country": "nor",
+   "field": "Clinical Medicine",
+   "subfield": "Dentistry",
+   "publication_years": "1970-2006"
+  }
+ },
+ {
+  "pair_id": "BM388",
+  "record_A": {
+   "name": "Y. Wu",
+   "institution": "Hefei University of Technology",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Wu, Yiliang",
+   "institution": "McMaster University, Faculty of Engineering",
+   "country": "can",
+   "field": "Enabling & Strategic Technologies",
+   "subfield": "Applied Physics",
+   "publication_years": "1998-2018"
+  }
+ },
+ {
+  "pair_id": "BM389",
+  "record_A": {
+   "name": "David Armstrong",
+   "institution": "University of Strathclyde",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Armstrong, David G.",
+   "institution": "Keck School of Medicine of USC",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Orthopedics",
+   "publication_years": "1995-2020"
+  }
+ },
+ {
+  "pair_id": "BM390",
+  "record_A": {
+   "name": "David Smith",
+   "institution": "University of York",
+   "country": "gbr"
+  },
+  "record_B": {
+   "name": "Smith, David L.",
+   "institution": "University of Washington, Seattle",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Tropical Medicine",
+   "publication_years": "1997-2019"
+  }
+ },
+ {
+  "pair_id": "BM391",
+  "record_A": {
+   "name": "Berndt Muller",
+   "institution": "Duke University",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Müller, Berndt",
+   "institution": "Duke University",
+   "country": "usa",
+   "field": "Physics & Astronomy",
+   "subfield": "Nuclear & Particle Physics",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM392",
+  "record_A": {
+   "name": "Charles Calomiris",
+   "institution": "National Bureau of Economic Research",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Calomiris, Charles W.",
+   "institution": "Hoover Institution",
+   "country": "usa",
+   "field": "Economics & Business",
+   "subfield": "Economics",
+   "publication_years": "1985-2020"
+  }
+ },
+ {
+  "pair_id": "BM393",
+  "record_A": {
+   "name": "Junye Wang",
+   "institution": "Athabasca University",
+   "country": "can"
+  },
+  "record_B": {
+   "name": "Wang, James C.",
+   "institution": "Harvard University",
+   "country": "usa",
+   "field": "Biomedical Research",
+   "subfield": "Biochemistry & Molecular Biology",
+   "publication_years": "1967-2013"
+  }
+ },
+ {
+  "pair_id": "BM394",
+  "record_A": {
+   "name": "Gloria Li",
+   "institution": "Memorial Sloan-Kettering Cancer Center",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Li, Gloria C.",
+   "institution": "Memorial Sloan-Kettering Cancer Center",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1973-2018"
+  }
+ },
+ {
+  "pair_id": "BM395",
+  "record_A": {
+   "name": "R. T. Bronson",
+   "institution": "Harvard Medical School",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Bronson, Roderick T.",
+   "institution": "Harvard Medical School",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Developmental Biology",
+   "publication_years": "1972-2020"
+  }
+ },
+ {
+  "pair_id": "BM396",
+  "record_A": {
+   "name": "J. Hall",
+   "institution": "National Institute of Environmental Health Sciences (NIEHS)",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Hall, John C.",
+   "institution": "University of Western Australia",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Surgery",
+   "publication_years": "1979-2010"
+  }
+ },
+ {
+  "pair_id": "BM397",
+  "record_A": {
+   "name": "C. Chen",
+   "institution": "Peking University",
+   "country": "chn"
+  },
+  "record_B": {
+   "name": "Chen, Chen",
+   "institution": "University of Queensland",
+   "country": "aus",
+   "field": "Clinical Medicine",
+   "subfield": "Endocrinology & Metabolism",
+   "publication_years": "1989-2020"
+  }
+ },
+ {
+  "pair_id": "BM398",
+  "record_A": {
+   "name": "Mathias Stolpe",
+   "institution": "Technical University of Denmark",
+   "country": "dnk"
+  },
+  "record_B": {
+   "name": "Stolpe, Mathias",
+   "institution": "Danmarks Tekniske Universitet",
+   "country": "dnk",
+   "field": "Built Environment & Design",
+   "subfield": "Design Practice & Management",
+   "publication_years": "2001-2020"
+  }
+ },
+ {
+  "pair_id": "BM399",
+  "record_A": {
+   "name": "Francisco Guarner",
+   "institution": "Centro Medico Teknon",
+   "country": "esp"
+  },
+  "record_B": {
+   "name": "Guarner, Francisco",
+   "institution": "Hospital Universitari Vall d'Hebron",
+   "country": "esp",
+   "field": "Clinical Medicine",
+   "subfield": "Gastroenterology & Hepatology",
+   "publication_years": "1980-2019"
+  }
+ },
+ {
+  "pair_id": "BM400",
+  "record_A": {
+   "name": "J. Nelson",
+   "institution": "University of California, San Francisco",
+   "country": "usa"
+  },
+  "record_B": {
+   "name": "Nelson, Joel B.",
+   "institution": "University of Pittsburgh",
+   "country": "usa",
+   "field": "Clinical Medicine",
+   "subfield": "Oncology & Carcinogenesis",
+   "publication_years": "1995-2020"
+  }
+ }
+]

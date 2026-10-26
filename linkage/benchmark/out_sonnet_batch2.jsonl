@@ -1,0 +1,201 @@
+{"model_id": "claude-sonnet-5-5"}
+{"id": "B201", "decision": "match", "candidate": 1, "reason": "Same full name, same institution, rheumatology field matches."}
+{"id": "B202", "decision": "non-match", "candidate": null, "reason": "Different middle initial, different institution, veterinary field."}
+{"id": "B203", "decision": "non-match", "candidate": null, "reason": "Bruce vs Bradley and history vs organic chemistry."}
+{"id": "B204", "decision": "non-match", "candidate": null, "reason": "Different country and unrelated field (Canada vs UK chemistry)."}
+{"id": "B205", "decision": "non-match", "candidate": null, "reason": "Biology vs geochemistry; hospital affiliation unrelated."}
+{"id": "B206", "decision": "non-match", "candidate": null, "reason": "Different country (France vs Canada) and field not clearly matching."}
+{"id": "B207", "decision": "non-match", "candidate": null, "reason": "Middle initial D vs A and public health vs developmental biology."}
+{"id": "B208", "decision": "non-match", "candidate": null, "reason": "Markus vs Max, different country and field."}
+{"id": "B209", "decision": "match", "candidate": 1, "reason": "Initial C compatible, same institution and public health field."}
+{"id": "B210", "decision": "match", "candidate": 1, "reason": "Same full name with middle initial, UCL, immunology."}
+{"id": "B211", "decision": "match", "candidate": 1, "reason": "Same rare name and same university in Japan."}
+{"id": "B212", "decision": "match", "candidate": 1, "reason": "Identical name, Ulsan institution, same country."}
+{"id": "B213", "decision": "non-match", "candidate": null, "reason": "Mutsumi vs Masahito and entomology vs hospital affiliation."}
+{"id": "B214", "decision": "match", "candidate": 1, "reason": "Dave/David, same institute and field."}
+{"id": "B215", "decision": "uncertain", "candidate": null, "reason": "Initial J only, NICHD vs Emory, common name; field is biomedical but not decisive."}
+{"id": "B216", "decision": "non-match", "candidate": null, "reason": "Social sciences vs toxicology, different country, last publication 1998."}
+{"id": "B217", "decision": "non-match", "candidate": null, "reason": "Tsutomu vs Takashi are different given names."}
+{"id": "B218", "decision": "match", "candidate": 1, "reason": "Distinctive name, virology fits."}
+{"id": "B219", "decision": "non-match", "candidate": null, "reason": "Gyongyi vs Gábor, different country and field."}
+{"id": "B220", "decision": "match", "candidate": 1, "reason": "R. Hickel compatible with Reinhard, Munich institutions, rare name."}
+{"id": "B221", "decision": "non-match", "candidate": null, "reason": "Sharon vs Stuart, ophthalmology vs endocrinology."}
+{"id": "B222", "decision": "match", "candidate": 1, "reason": "Same name, Australian geoscience-related institutions."}
+{"id": "B223", "decision": "match", "candidate": 1, "reason": "Rare name, same field; institution differs but name distinctive."}
+{"id": "B224", "decision": "non-match", "candidate": null, "reason": "Zheng vs Zhi Kang, different given names despite same university."}
+{"id": "B225", "decision": "match", "candidate": 1, "reason": "Same full name, institution and field."}
+{"id": "B226", "decision": "non-match", "candidate": null, "reason": "Different country, very common name, sport sciences vs clinical."}
+{"id": "B227", "decision": "match", "candidate": 1, "reason": "Rare name, same institution, biostatistics fits."}
+{"id": "B228", "decision": "match", "candidate": 1, "reason": "Same rare name, University of Birmingham, hepatology fits."}
+{"id": "B229", "decision": "non-match", "candidate": null, "reason": "Urology vs energy at Oak Ridge."}
+{"id": "B230", "decision": "match", "candidate": 1, "reason": "Same full name, MGH, psychiatry."}
+{"id": "B231", "decision": "non-match", "candidate": null, "reason": "Materials vs neurology, common name."}
+{"id": "B232", "decision": "match", "candidate": 1, "reason": "Same name, institution and linguistics field."}
+{"id": "B233", "decision": "non-match", "candidate": null, "reason": "Middle initial E vs J, gerontology, last publication 2004."}
+{"id": "B234", "decision": "match", "candidate": 1, "reason": "D. Burshtein compatible with David, same university, rare name."}
+{"id": "B235", "decision": "non-match", "candidate": null, "reason": "Douglas vs Daniel, different country and field."}
+{"id": "B236", "decision": "match", "candidate": 1, "reason": "Same name, UCSF, dermatology within clinical medicine."}
+{"id": "B237", "decision": "non-match", "candidate": null, "reason": "Clinical psychology UK vs cardiology in US."}
+{"id": "B238", "decision": "match", "candidate": 1, "reason": "G. compatible with Geraldine, Southampton."}
+{"id": "B239", "decision": "non-match", "candidate": null, "reason": "Different institutions, orthopedics vs research institute; common name."}
+{"id": "B240", "decision": "uncertain", "candidate": null, "reason": "Same rare name in Netherlands but economics school vs Erasmus MC immunology."}
+{"id": "B241", "decision": "non-match", "candidate": null, "reason": "Sally vs Steven, field mismatch."}
+{"id": "B242", "decision": "non-match", "candidate": null, "reason": "Oncology vs dermatology laser clinic, initial only common name."}
+{"id": "B243", "decision": "non-match", "candidate": null, "reason": "Cardiovascular US vs geography UK."}
+{"id": "B244", "decision": "non-match", "candidate": null, "reason": "Common name with initial only; occupational safety institute vs rheumatologist."}
+{"id": "B245", "decision": "match", "candidate": 1, "reason": "Same rare full name, India, clinical medicine."}
+{"id": "B246", "decision": "non-match", "candidate": null, "reason": "Jason vs Jonathan, optometry vs acoustics."}
+{"id": "B247", "decision": "match", "candidate": 1, "reason": "Same rare name, Rush affiliations, nephrology fits."}
+{"id": "B248", "decision": "non-match", "candidate": null, "reason": "Urology vs nuclear physics."}
+{"id": "B249", "decision": "match", "candidate": 1, "reason": "Same name, biomedical research virology."}
+{"id": "B250", "decision": "non-match", "candidate": null, "reason": "Wei vs Wenjun, astronomy vs biophysics."}
+{"id": "B251", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B252", "decision": "non-match", "candidate": null, "reason": "Different country and unrelated field."}
+{"id": "B253", "decision": "non-match", "candidate": null, "reason": "Analytical chemistry vs mineral metabolism center, Pak Center unrelated to Iowa chemist."}
+{"id": "B254", "decision": "non-match", "candidate": null, "reason": "Yusuke vs Yoshihiko, different country and field."}
+{"id": "B255", "decision": "uncertain", "candidate": null, "reason": "Initial P common surname; HealthPartners vs sport sciences at Georgia, weak."}
+{"id": "B256", "decision": "match", "candidate": 1, "reason": "Rare name, UNC School of Medicine, neurology."}
+{"id": "B257", "decision": "non-match", "candidate": null, "reason": "Middle initial A vs J and oncology vs microscopy."}
+{"id": "B258", "decision": "non-match", "candidate": null, "reason": "Jianhua vs Jianer are different given names."}
+{"id": "B259", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B260", "decision": "non-match", "candidate": null, "reason": "Middle initial V vs P, computer science vs endocrinology."}
+{"id": "B261", "decision": "match", "candidate": 1, "reason": "Same rare name, pharmacy, Saudi Arabia."}
+{"id": "B262", "decision": "match", "candidate": 1, "reason": "Rare name, psychiatry fits clinical medicine, same country."}
+{"id": "B263", "decision": "match", "candidate": 1, "reason": "Rare name, engineering, same country."}
+{"id": "B264", "decision": "match", "candidate": 1, "reason": "Same name with initial, Denmark, endocrinology."}
+{"id": "B265", "decision": "match", "candidate": 1, "reason": "Same name, same institution."}
+{"id": "B266", "decision": "match", "candidate": 1, "reason": "Rare full name, biomedical research; institution blurred but name distinctive."}
+{"id": "B267", "decision": "match", "candidate": 1, "reason": "Rare name, same institution, neurosurgery."}
+{"id": "B268", "decision": "uncertain", "candidate": null, "reason": "Common name, dermatology vs unspecified clinical, different university in Hong Kong."}
+{"id": "B269", "decision": "non-match", "candidate": null, "reason": "Fan vs Feng, different given names."}
+{"id": "B270", "decision": "match", "candidate": 1, "reason": "Rare name, immunology within clinical medicine."}
+{"id": "B271", "decision": "match", "candidate": 1, "reason": "Rare name, toxicology matches."}
+{"id": "B272", "decision": "match", "candidate": 1, "reason": "Same name, UCL, field fits."}
+{"id": "B273", "decision": "non-match", "candidate": null, "reason": "Different country, C. vs Charles uncertain, field mismatch."}
+{"id": "B274", "decision": "non-match", "candidate": null, "reason": "Karen vs Kara, microbiology vs environmental sciences."}
+{"id": "B275", "decision": "match", "candidate": 1, "reason": "Same rare name, Saarland university."}
+{"id": "B276", "decision": "match", "candidate": 1, "reason": "P. Jäger compatible, same institute, biology."}
+{"id": "B277", "decision": "match", "candidate": 1, "reason": "Same name, institution and field."}
+{"id": "B278", "decision": "match", "candidate": 1, "reason": "Same name, Dundee, biochemistry."}
+{"id": "B279", "decision": "match", "candidate": 1, "reason": "Same name, same institution string, field matches."}
+{"id": "B280", "decision": "match", "candidate": 1, "reason": "Same name, RMIT, accounting in business."}
+{"id": "B281", "decision": "non-match", "candidate": null, "reason": "Robert A vs Robert N, chemical engineering vs clinical."}
+{"id": "B282", "decision": "match", "candidate": 1, "reason": "Same institution and earth sciences field."}
+{"id": "B283", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B284", "decision": "match", "candidate": 1, "reason": "Rare name, Illinois institutions, clinical medicine surgery."}
+{"id": "B285", "decision": "match", "candidate": 1, "reason": "L. compatible with Louise, same university and field."}
+{"id": "B286", "decision": "match", "candidate": 1, "reason": "Same name and same institution."}
+{"id": "B287", "decision": "match", "candidate": 1, "reason": "Same name, Adelaide, veterinary."}
+{"id": "B288", "decision": "match", "candidate": 1, "reason": "Ta compatible with Ta Wui, Taipei institutions, building and construction."}
+{"id": "B289", "decision": "non-match", "candidate": null, "reason": "Clinical medicine vs photonics."}
+{"id": "B290", "decision": "non-match", "candidate": null, "reason": "Clinical medicine vs biomedical engineering at Wisconsin; common name."}
+{"id": "B291", "decision": "non-match", "candidate": null, "reason": "Tropical medicine in Laos vs agronomy in New Zealand."}
+{"id": "B292", "decision": "non-match", "candidate": null, "reason": "Respiratory vs veterinary field, Bob common name."}
+{"id": "B293", "decision": "non-match", "candidate": null, "reason": "Scott vs Stephen, different country and field."}
+{"id": "B294", "decision": "non-match", "candidate": null, "reason": "Syngcuk vs Sang Ouk, dentistry vs nanotechnology."}
+{"id": "B295", "decision": "non-match", "candidate": null, "reason": "Toxicology industry vs biochemistry at UNC; common initial."}
+{"id": "B296", "decision": "non-match", "candidate": null, "reason": "Daniel vs Daniela, different country and field."}
+{"id": "B297", "decision": "non-match", "candidate": null, "reason": "Lifei vs Liqun are different given names."}
+{"id": "B298", "decision": "non-match", "candidate": null, "reason": "Chung vs Congjun, flagged as conflict."}
+{"id": "B299", "decision": "match", "candidate": 1, "reason": "Same rare name, Keio, oncology; last publication 2009 acceptable."}
+{"id": "B300", "decision": "match", "candidate": 1, "reason": "Same name and institution."}
+{"id": "B301", "decision": "match", "candidate": 1, "reason": "Same rare name and company."}
+{"id": "B302", "decision": "non-match", "candidate": null, "reason": "Economist at Harvard vs surgery at Dell Medical School."}
+{"id": "B303", "decision": "match", "candidate": 1, "reason": "Same name, Johns Hopkins, public health."}
+{"id": "B304", "decision": "match", "candidate": 1, "reason": "Same rare name, Wisconsin, biomedical research."}
+{"id": "B305", "decision": "non-match", "candidate": null, "reason": "Different country and common name; oncology France vs Rochester immunology."}
+{"id": "B306", "decision": "match", "candidate": 1, "reason": "M. compatible with Marc, same cancer center, oncology."}
+{"id": "B307", "decision": "uncertain", "candidate": null, "reason": "Same rare name and country, different hospitals, surgery field unspecified."}
+{"id": "B308", "decision": "match", "candidate": 1, "reason": "Rare name, Harvard, oncology; law school is a data error."}
+{"id": "B309", "decision": "non-match", "candidate": null, "reason": "Jack vs Jill, different country and field."}
+{"id": "B310", "decision": "uncertain", "candidate": null, "reason": "Very common name; pathology/Penn vs Vanderbilt, no field hint."}
+{"id": "B311", "decision": "match", "candidate": 1, "reason": "Same rare name and university."}
+{"id": "B312", "decision": "match", "candidate": 1, "reason": "Same name, institution and education field."}
+{"id": "B313", "decision": "match", "candidate": 1, "reason": "Same rare name, Utrecht, immunology."}
+{"id": "B314", "decision": "non-match", "candidate": null, "reason": "Different country, initial only, US applied math vs UK chemistry."}
+{"id": "B315", "decision": "match", "candidate": 1, "reason": "Same name, pediatrics fits; institution likely noisy."}
+{"id": "B316", "decision": "non-match", "candidate": null, "reason": "Arnold vs Alan, respiratory vs imaging."}
+{"id": "B317", "decision": "non-match", "candidate": null, "reason": "Ken vs Katsuhisa, different institution and field."}
+{"id": "B318", "decision": "match", "candidate": 1, "reason": "Rare name, same institution string."}
+{"id": "B319", "decision": "match", "candidate": 1, "reason": "Same rare name, Lublin, pharmacology."}
+{"id": "B320", "decision": "non-match", "candidate": null, "reason": "Mark vs Myron, different institutions."}
+{"id": "B321", "decision": "match", "candidate": 1, "reason": "E. compatible with Eleanor, York, biochemistry."}
+{"id": "B322", "decision": "match", "candidate": 1, "reason": "H. compatible with Herbert, same university, rare name."}
+{"id": "B323", "decision": "match", "candidate": 1, "reason": "Same institution, compatible name."}
+{"id": "B324", "decision": "non-match", "candidate": null, "reason": "Liping vs Li Dong, nanotech vs biomedical."}
+{"id": "B325", "decision": "match", "candidate": 1, "reason": "Same rare name, organic chemistry."}
+{"id": "B326", "decision": "match", "candidate": 1, "reason": "Rare name, Houston UT institutions."}
+{"id": "B327", "decision": "match", "candidate": 1, "reason": "Same name, Oxford, agronomy."}
+{"id": "B328", "decision": "non-match", "candidate": null, "reason": "Jane vs Jianqiao, different country."}
+{"id": "B329", "decision": "match", "candidate": 1, "reason": "Tom/Thomas, Southampton, reproductive biology fits."}
+{"id": "B330", "decision": "non-match", "candidate": null, "reason": "Heritage organization vs ophthalmology in US."}
+{"id": "B331", "decision": "non-match", "candidate": null, "reason": "Julian vs Josephine."}
+{"id": "B332", "decision": "match", "candidate": 1, "reason": "Rare name, Indiana University School of Medicine."}
+{"id": "B333", "decision": "match", "candidate": 1, "reason": "Rare name, same institution string."}
+{"id": "B334", "decision": "match", "candidate": 1, "reason": "Same name, MGH, orthopedics."}
+{"id": "B335", "decision": "non-match", "candidate": null, "reason": "Gregory vs Gordon, field mismatch."}
+{"id": "B336", "decision": "uncertain", "candidate": null, "reason": "Same name, but Annenberg communications vs UMass developmental biology."}
+{"id": "B337", "decision": "match", "candidate": 1, "reason": "Same full name, reproductive medicine fits."}
+{"id": "B338", "decision": "match", "candidate": 1, "reason": "B. compatible with Bernardino, Indiana, neurology."}
+{"id": "B339", "decision": "non-match", "candidate": null, "reason": "Pharmacology Hong Kong vs strategic studies US."}
+{"id": "B340", "decision": "uncertain", "candidate": null, "reason": "Extremely common name; physics vs nanochemistry, different university."}
+{"id": "B341", "decision": "uncertain", "candidate": null, "reason": "Cambridge-based biology; Mark Hill common, ecology vs surgical centre weak."}
+{"id": "B342", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B343", "decision": "non-match", "candidate": null, "reason": "Different country, botany vs medicine."}
+{"id": "B344", "decision": "non-match", "candidate": null, "reason": "Mike vs Mark, different country and field."}
+{"id": "B345", "decision": "match", "candidate": 1, "reason": "Rick/Richard, Canada, urology and nephrology."}
+{"id": "B346", "decision": "match", "candidate": 1, "reason": "Rare name, same institution, public health."}
+{"id": "B347", "decision": "non-match", "candidate": null, "reason": "Biomedical engineering vs geochemistry."}
+{"id": "B348", "decision": "match", "candidate": 1, "reason": "Same name, Vanderbilt, cardiovascular."}
+{"id": "B349", "decision": "non-match", "candidate": null, "reason": "Political science vs genetics."}
+{"id": "B350", "decision": "non-match", "candidate": null, "reason": "Donald vs David, allergy vs biochemistry."}
+{"id": "B351", "decision": "non-match", "candidate": null, "reason": "David vs Douglas, different country and field."}
+{"id": "B352", "decision": "match", "candidate": 1, "reason": "Rare name, same school."}
+{"id": "B353", "decision": "match", "candidate": 1, "reason": "Same rare name, psychiatry, Cambridge related."}
+{"id": "B354", "decision": "match", "candidate": 1, "reason": "Same name, Brunei, occupational health."}
+{"id": "B355", "decision": "match", "candidate": 1, "reason": "Same name, Univ of Washington, cardiovascular."}
+{"id": "B356", "decision": "non-match", "candidate": null, "reason": "Richard vs Robert, oncology vs mathematics."}
+{"id": "B357", "decision": "non-match", "candidate": null, "reason": "Biomedical vs ecology at SIU."}
+{"id": "B358", "decision": "match", "candidate": 1, "reason": "Accent variant, same university, microbiology."}
+{"id": "B359", "decision": "non-match", "candidate": null, "reason": "Biomedical at Michigan State vs computer science at MIT."}
+{"id": "B360", "decision": "non-match", "candidate": null, "reason": "Rodney vs Raphael, chemical physics."}
+{"id": "B361", "decision": "match", "candidate": 1, "reason": "Same name, Tsinghua, biochemistry."}
+{"id": "B362", "decision": "non-match", "candidate": null, "reason": "Roger vs Robert, plant biology vs biochemistry."}
+{"id": "B363", "decision": "non-match", "candidate": null, "reason": "Clinical medicine vs agronomy, Ann R vs Ann C."}
+{"id": "B364", "decision": "non-match", "candidate": null, "reason": "Different country, Anu vs Anurag, photonics vs ENT."}
+{"id": "B365", "decision": "match", "candidate": 1, "reason": "Same rare name, clinical medicine, country field consistent."}
+{"id": "B366", "decision": "match", "candidate": 1, "reason": "J. Elferink at Leiden, country matches by record, rare name."}
+{"id": "B367", "decision": "match", "candidate": 1, "reason": "Pak compatible with Pak Leung, Hong Kong, microbiology."}
+{"id": "B368", "decision": "uncertain", "candidate": null, "reason": "Common name; pharma vs USDA tropical medicine, weak."}
+{"id": "B369", "decision": "match", "candidate": 1, "reason": "Same rare name and institution."}
+{"id": "B370", "decision": "match", "candidate": 1, "reason": "Rare name, earth and environmental field matches."}
+{"id": "B371", "decision": "non-match", "candidate": null, "reason": "Different country, geriatrics vs anesthesiology."}
+{"id": "B372", "decision": "non-match", "candidate": null, "reason": "Suyun vs Shiew Mei, different given names."}
+{"id": "B373", "decision": "uncertain", "candidate": null, "reason": "Same name, pharmacology, same country; institutions differ, common name."}
+{"id": "B374", "decision": "match", "candidate": 1, "reason": "G. compatible with Gianni, Naples, immunology."}
+{"id": "B375", "decision": "match", "candidate": 1, "reason": "Rare name variant, Germany."}
+{"id": "B376", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B377", "decision": "match", "candidate": 1, "reason": "Rare name, NEI."}
+{"id": "B378", "decision": "non-match", "candidate": null, "reason": "Stephen vs Scott, different field."}
+{"id": "B379", "decision": "match", "candidate": 1, "reason": "Same name, institution and nursing field."}
+{"id": "B380", "decision": "match", "candidate": 1, "reason": "K. compatible with Klaus, same university."}
+{"id": "B381", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B382", "decision": "uncertain", "candidate": null, "reason": "Common name with initial; operations research vs software engineering."}
+{"id": "B383", "decision": "match", "candidate": 1, "reason": "Same name, Riken."}
+{"id": "B384", "decision": "non-match", "candidate": null, "reason": "Makoto vs Masaki."}
+{"id": "B385", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B386", "decision": "match", "candidate": 1, "reason": "Same name, Fukushima institutions, pharmacology."}
+{"id": "B387", "decision": "uncertain", "candidate": null, "reason": "Very common name; AI vs nuclear physics."}
+{"id": "B388", "decision": "non-match", "candidate": null, "reason": "James vs Judith."}
+{"id": "B389", "decision": "match", "candidate": 1, "reason": "Same full name and institution."}
+{"id": "B390", "decision": "match", "candidate": 1, "reason": "Same name, NIAID, immunology."}
+{"id": "B391", "decision": "match", "candidate": 1, "reason": "Same rare name, entomology."}
+{"id": "B392", "decision": "non-match", "candidate": null, "reason": "Clive vs Colin, field mismatch."}
+{"id": "B393", "decision": "non-match", "candidate": null, "reason": "John vs Jayne."}
+{"id": "B394", "decision": "match", "candidate": 1, "reason": "Same name, Kingston/Queen's, neurology."}
+{"id": "B395", "decision": "non-match", "candidate": null, "reason": "Different country and field."}
+{"id": "B396", "decision": "match", "candidate": 1, "reason": "Same name and university."}
+{"id": "B397", "decision": "match", "candidate": 1, "reason": "Same rare name, Columbia."}
+{"id": "B398", "decision": "match", "candidate": 1, "reason": "Same rare name, Italy, clinical medicine."}
+{"id": "B399", "decision": "non-match", "candidate": null, "reason": "Joanne vs James, different country and field."}
+{"id": "B400", "decision": "non-match", "candidate": null, "reason": "Different country and field."}

@@ -1,0 +1,16 @@
+{
+ "class_by_label": {
+  "auto-match": {
+   "match": 139,
+   "non-match": 28
+  },
+  "review": {
+   "match": 61,
+   "non-match": 172
+  }
+ },
+ "source_person_among_candidates": 1.0,
+ "auto_matches": 167,
+ "auto_match_correct_person": 1.0,
+ "mean_candidates": 3.3325
+}

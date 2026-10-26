@@ -1,0 +1,311 @@
+{"model_id": "claude-opus-5-5"}
+{"id": "E312", "classification": "research", "reason": "Professor and chair of family medicine at a university."}
+{"id": "E313", "classification": "research", "reason": "Named professor and department director at Johns Hopkins."}
+{"id": "E314", "classification": "research", "reason": "HHMI chief scientific officer, group leader and Harvard professor."}
+{"id": "E315", "classification": "non-research", "reason": "State health department secretary with no academic title."}
+{"id": "E316", "classification": "non-research", "reason": "JD executive director of a leadership institute, no research or professorial title."}
+{"id": "E317", "classification": "research", "reason": "Institute director and named professor at Johns Hopkins."}
+{"id": "E318", "classification": "research", "reason": "Professor of systems biology and HHMI investigator."}
+{"id": "E319", "classification": "non-research", "reason": "Partner and co-founder of an investment firm."}
+{"id": "E320", "classification": "research", "reason": "Associate professor and vice chair of research at Stanford."}
+{"id": "E321", "classification": "research", "reason": "Named associate professor at Duke."}
+{"id": "E322", "classification": "research", "reason": "Professor of medicine at a medical school."}
+{"id": "E323", "classification": "research", "reason": "Endowed chair and chair of surgery at City of Hope cancer center."}
+{"id": "E324", "classification": "research", "reason": "Professor emeritus at a school of public health."}
+{"id": "E325", "classification": "research", "reason": "Research institute director and Regents' Professor."}
+{"id": "E326", "classification": "research", "reason": "Named professor of health policy at Johns Hopkins."}
+{"id": "E327", "classification": "research", "reason": "Distinguished professor and initiative director at Ohio State."}
+{"id": "E328", "classification": "research", "reason": "Bloomberg Distinguished Professor of nursing."}
+{"id": "E329", "classification": "research", "reason": "Professor of health policy and senior fellow at research centers."}
+{"id": "E330", "classification": "research", "reason": "Named professor of endocrinology with administrative role."}
+{"id": "E331", "classification": "research", "reason": "Professor of global health and anthropology at Harvard."}
+{"id": "E332", "classification": "non-research", "reason": "President of a company and retired army officer, no research title."}
+{"id": "E333", "classification": "research", "reason": "Professor and research center director at MIT."}
+{"id": "E334", "classification": "research", "reason": "Distinguished professor and HHMI investigator."}
+{"id": "E335", "classification": "research", "reason": "COO of cancer institute and named Harvard professor."}
+{"id": "E336", "classification": "research", "reason": "Chair of a research theme at a medical school."}
+{"id": "E337", "classification": "research", "reason": "Professor and laboratory head at Rockefeller University."}
+{"id": "E338", "classification": "research", "reason": "Named professor and chair of surgery at Stanford."}
+{"id": "E339", "classification": "research", "reason": "Professor of neurology and ophthalmology at Harvard."}
+{"id": "E340", "classification": "research", "reason": "Senior associate dean for research and named professor."}
+{"id": "E341", "classification": "research", "reason": "Professor of psychiatry at Columbia."}
+{"id": "E342", "classification": "research", "reason": "Professor and director of a cell and gene therapy center."}
+{"id": "E343", "classification": "research", "reason": "Professor and associate chair of health services research."}
+{"id": "E344", "classification": "research", "reason": "Named professor and chair of pharmacology."}
+{"id": "E345", "classification": "research", "reason": "Head of vaccine research and development in industry."}
+{"id": "E346", "classification": "research", "reason": "Professor of epidemiology and research center director."}
+{"id": "E347", "classification": "research", "reason": "NIH branch chief and deputy scientific director."}
+{"id": "E348", "classification": "research", "reason": "Named professor of biomedical engineering at Columbia."}
+{"id": "E349", "classification": "research", "reason": "Professor of emergency medicine."}
+{"id": "E350", "classification": "research", "reason": "Named professor of child psychiatry."}
+{"id": "E351", "classification": "research", "reason": "Named professor and research program director."}
+{"id": "E352", "classification": "research", "reason": "Professor of neurology at a research institute."}
+{"id": "E353", "classification": "research", "reason": "Center director and named professor at Northwestern."}
+{"id": "E354", "classification": "non-research", "reason": "Foundation executive director with no academic title."}
+{"id": "E355", "classification": "research", "reason": "Associate professor of neurology at Stanford."}
+{"id": "E356", "classification": "research", "reason": "Professor and HHMI investigator."}
+{"id": "E357", "classification": "research", "reason": "Research institute director and distinguished professor."}
+{"id": "E358", "classification": "non-research", "reason": "US Surgeon General, a government public health office."}
+{"id": "E359", "classification": "research", "reason": "Named professor of pediatrics at Harvard."}
+{"id": "E360", "classification": "research", "reason": "Professor and co-director of a research program."}
+{"id": "E361", "classification": "research", "reason": "Named professor and associate dean of health equity research."}
+{"id": "E362", "classification": "research", "reason": "Professor of law and bioethics."}
+{"id": "E363", "classification": "research", "reason": "Corporate executive but holds an adjunct professorship, so not clearly non-research."}
+{"id": "E364", "classification": "research", "reason": "Professor of neurology and associate dean."}
+{"id": "E365", "classification": "research", "reason": "Named professor and research institute director."}
+{"id": "E366", "classification": "research", "reason": "Dean and vice provost who is also a professor."}
+{"id": "E367", "classification": "research", "reason": "Professor of surgery and center director."}
+{"id": "E368", "classification": "research", "reason": "Professor and laboratory head at Rockefeller."}
+{"id": "E369", "classification": "research", "reason": "Professor of genetics and research center director."}
+{"id": "E370", "classification": "research", "reason": "Director of a policy research center."}
+{"id": "E371", "classification": "non-research", "reason": "Journal editor-in-chief with no professorship listed."}
+{"id": "E372", "classification": "research", "reason": "Academic fellow and affiliated faculty at Harvard."}
+{"id": "E373", "classification": "research", "reason": "Health system officer who is also a Harvard professor."}
+{"id": "E374", "classification": "research", "reason": "Named professor at Indiana University."}
+{"id": "E375", "classification": "research", "reason": "Named professor of gynecology at Northwestern."}
+{"id": "E376", "classification": "research", "reason": "Professor and vice chair for translational research."}
+{"id": "E377", "classification": "research", "reason": "Research center director and professor of neurology."}
+{"id": "E378", "classification": "research", "reason": "Dean and endowed professor of nursing."}
+{"id": "E379", "classification": "research", "reason": "University professor of genetics and center director."}
+{"id": "E380", "classification": "research", "reason": "Professor and chair in pathology."}
+{"id": "E381", "classification": "research", "reason": "Professor of pharmacology."}
+{"id": "E382", "classification": "research", "reason": "Endowed chair of a medical school surgery department."}
+{"id": "E383", "classification": "research", "reason": "Contributing scholar at an academic research center."}
+{"id": "E384", "classification": "research", "reason": "Named professor and HHMI investigator."}
+{"id": "E385", "classification": "non-research", "reason": "Director of the CDC, a government agency."}
+{"id": "E386", "classification": "research", "reason": "Professor of pediatrics at UC San Diego."}
+{"id": "E387", "classification": "research", "reason": "Professor of biophysics at Johns Hopkins."}
+{"id": "E388", "classification": "non-research", "reason": "Senior foundation program leader with no academic title."}
+{"id": "E389", "classification": "research", "reason": "Director of an NIH research institute."}
+{"id": "E390", "classification": "research", "reason": "Named professor of neuroscience at MIT."}
+{"id": "E391", "classification": "research", "reason": "Rector and professor of reproductive health."}
+{"id": "E392", "classification": "research", "reason": "Professor at a medical research institute."}
+{"id": "E393", "classification": "non-research", "reason": "Foundation program deputy director with no academic title."}
+{"id": "E394", "classification": "non-research", "reason": "Director general of the WHO."}
+{"id": "E395", "classification": "research", "reason": "Professor of primary care health sciences at Oxford."}
+{"id": "E396", "classification": "research", "reason": "Director general of a research laboratory and professor."}
+{"id": "E397", "classification": "non-research", "reason": "WHO regional director, an administrative role."}
+{"id": "E398", "classification": "non-research", "reason": "Government ambassador for global health."}
+{"id": "E399", "classification": "research", "reason": "Director-general of a vaccine research center."}
+{"id": "E400", "classification": "research", "reason": "Professor and chair of psychiatry and scientific director."}
+{"id": "E401", "classification": "research", "reason": "Professor of chemical engineering at MIT."}
+{"id": "E402", "classification": "research", "reason": "Professor of physical medicine and rehabilitation."}
+{"id": "E403", "classification": "research", "reason": "Named professor and head of anesthesiology."}
+{"id": "E404", "classification": "research", "reason": "Professor of biostatistics."}
+{"id": "E405", "classification": "research", "reason": "Named professor of obstetrics and gynecology."}
+{"id": "E406", "classification": "research", "reason": "Distinguished professor of AI and health at MIT."}
+{"id": "E407", "classification": "research", "reason": "Professor of molecular biophysics and genetics at Yale."}
+{"id": "E408", "classification": "research", "reason": "Professor of bioengineering."}
+{"id": "E409", "classification": "research", "reason": "Chair of cancer biology and Harvard professor."}
+{"id": "E410", "classification": "non-research", "reason": "President of a philanthropic foundation."}
+{"id": "E411", "classification": "research", "reason": "Professor of emergency medicine and research initiative director."}
+{"id": "E412", "classification": "research", "reason": "Professor of public health policy."}
+{"id": "E413", "classification": "research", "reason": "Chief scientific officer at a research cancer center."}
+{"id": "E414", "classification": "research", "reason": "Associate professor and research institute co-director."}
+{"id": "E415", "classification": "research", "reason": "Research center chair and professor of medicine."}
+{"id": "E416", "classification": "research", "reason": "Director of an NIH research institute."}
+{"id": "E417", "classification": "research", "reason": "Professor and division head of pediatrics."}
+{"id": "E418", "classification": "research", "reason": "Named professor and chair of emergency medicine."}
+{"id": "E419", "classification": "research", "reason": "Professor of medicine and epidemiology."}
+{"id": "E420", "classification": "research", "reason": "Senior VP of research and endowed professor."}
+{"id": "E421", "classification": "research", "reason": "Professor and chair of molecular medicine."}
+{"id": "E422", "classification": "research", "reason": "Division head at a research cancer center."}
+{"id": "E423", "classification": "research", "reason": "Named professor of emergency medicine at Yale."}
+{"id": "E424", "classification": "research", "reason": "Department chair at a research cancer center."}
+{"id": "E425", "classification": "research", "reason": "Named professor of medicine."}
+{"id": "E426", "classification": "non-research", "reason": "Dean of a school of public health with no professorial title listed."}
+{"id": "E427", "classification": "research", "reason": "Chair, associate dean for research and named professor."}
+{"id": "E428", "classification": "research", "reason": "Named professor and research institute associate director."}
+{"id": "E429", "classification": "research", "reason": "Professor of surgery and vice chair of research."}
+{"id": "E430", "classification": "research", "reason": "Professor of pediatrics."}
+{"id": "E431", "classification": "research", "reason": "Dean and professor of epidemiology."}
+{"id": "E432", "classification": "research", "reason": "Chief scientific officer and professor of pediatrics."}
+{"id": "E433", "classification": "research", "reason": "Distinguished professor and chair of dermatology."}
+{"id": "E434", "classification": "research", "reason": "County administrator but holds a professor emeritus title, so not clearly non-research."}
+{"id": "E435", "classification": "research", "reason": "Distinguished professor of nursing."}
+{"id": "E436", "classification": "research", "reason": "Journalist role but holds a clinical associate professorship."}
+{"id": "E437", "classification": "research", "reason": "Professor of health care policy at Harvard."}
+{"id": "E438", "classification": "research", "reason": "Director of an NIH research institute."}
+{"id": "E439", "classification": "research", "reason": "Named professor at Johns Hopkins."}
+{"id": "E440", "classification": "non-research", "reason": "Chief executive of a funding coalition, no academic title."}
+{"id": "E441", "classification": "research", "reason": "Professor and research institute director."}
+{"id": "E442", "classification": "research", "reason": "Department chair and named professor."}
+{"id": "E443", "classification": "research", "reason": "Research center director and professor."}
+{"id": "E444", "classification": "research", "reason": "Named professor at MIT."}
+{"id": "E445", "classification": "research", "reason": "Division chief and Harvard professor."}
+{"id": "E446", "classification": "non-research", "reason": "Corporate health equity officer and staff physician, no academic title."}
+{"id": "E447", "classification": "non-research", "reason": "President of a foundation."}
+{"id": "E448", "classification": "research", "reason": "Professor and research chair in biomedical engineering."}
+{"id": "E449", "classification": "research", "reason": "Professor and cancer center director."}
+{"id": "E450", "classification": "research", "reason": "Professor of genetics."}
+{"id": "E451", "classification": "research", "reason": "Associate professor of pediatrics at Harvard."}
+{"id": "E452", "classification": "research", "reason": "Professor and vaccine research unit director."}
+{"id": "E453", "classification": "research", "reason": "Named professor at Stanford."}
+{"id": "E454", "classification": "research", "reason": "Chair of immunology and research institute director."}
+{"id": "E455", "classification": "research", "reason": "Named professor and vice chair of research."}
+{"id": "E456", "classification": "research", "reason": "Named chair and professor of surgery."}
+{"id": "E457", "classification": "research", "reason": "Chair and professor of family medicine."}
+{"id": "E458", "classification": "research", "reason": "Associate professor of medicine at Columbia."}
+{"id": "E459", "classification": "research", "reason": "Professor of surgery and research center director."}
+{"id": "E460", "classification": "research", "reason": "Distinguished professor of medicine at Emory."}
+{"id": "E461", "classification": "non-research", "reason": "President and CEO of an institute, no research or professorial title."}
+{"id": "E462", "classification": "research", "reason": "University professor and lab director."}
+{"id": "E463", "classification": "research", "reason": "Named professor at Cornell."}
+{"id": "E464", "classification": "research", "reason": "Named professor of health policy."}
+{"id": "E465", "classification": "research", "reason": "HHMI investigator and professor."}
+{"id": "E466", "classification": "non-research", "reason": "WHO unit head, an administrative role with no academic title."}
+{"id": "E467", "classification": "research", "reason": "Named professor of African American studies and anthropology."}
+{"id": "E468", "classification": "research", "reason": "Professor and chair of health humanities and bioethics."}
+{"id": "E469", "classification": "research", "reason": "Endowed professor of epidemiology."}
+{"id": "E470", "classification": "research", "reason": "Professor of neurology."}
+{"id": "E471", "classification": "research", "reason": "Associate professor of surgery with clinical leadership."}
+{"id": "E472", "classification": "research", "reason": "Professor of nutrition and institute co-director."}
+{"id": "E473", "classification": "research", "reason": "Professor at MIT and Broad Institute member."}
+{"id": "E474", "classification": "research", "reason": "Professor and distinguished chair of obstetrics and gynecology."}
+{"id": "E475", "classification": "research", "reason": "Senior investigator and named professor."}
+{"id": "E476", "classification": "research", "reason": "Named professor and chair of biological sciences."}
+{"id": "E477", "classification": "research", "reason": "Named professor of neurology at Harvard."}
+{"id": "E478", "classification": "research", "reason": "Distinguished professor of psychological science."}
+{"id": "E479", "classification": "research", "reason": "Named professor and chair of obstetrics and gynecology."}
+{"id": "E480", "classification": "non-research", "reason": "Director of a federal agency, an administrative role."}
+{"id": "E481", "classification": "research", "reason": "Professor, department chair and research center director."}
+{"id": "E482", "classification": "research", "reason": "Cancer center director and named professor."}
+{"id": "E483", "classification": "research", "reason": "Professor of medicine and research center director."}
+{"id": "E484", "classification": "research", "reason": "Endowed professor and research platform director."}
+{"id": "E485", "classification": "research", "reason": "Named professor at Johns Hopkins."}
+{"id": "E486", "classification": "research", "reason": "Dean and professor of biomedical engineering."}
+{"id": "E487", "classification": "research", "reason": "Director of an academic cancer center."}
+{"id": "E488", "classification": "research", "reason": "HHMI investigator and named professor."}
+{"id": "E489", "classification": "research", "reason": "Director of a brain science research institute."}
+{"id": "E490", "classification": "research", "reason": "Chair professor of pediatrics and genetics."}
+{"id": "E491", "classification": "research", "reason": "Professor at the University of Amsterdam."}
+{"id": "E492", "classification": "research", "reason": "Institute director and head of psychiatry at a university hospital."}
+{"id": "E493", "classification": "research", "reason": "Professor and dean, associate institute director."}
+{"id": "E494", "classification": "research", "reason": "Department director at a Max Planck institute."}
+{"id": "E495", "classification": "research", "reason": "Professor and Canada Research Chair."}
+{"id": "E496", "classification": "research", "reason": "Professor of medicine and senior scientist."}
+{"id": "E497", "classification": "research", "reason": "Distinguished professor and genomics center director."}
+{"id": "E498", "classification": "research", "reason": "Associate professor at University of São Paulo."}
+{"id": "E499", "classification": "research", "reason": "Professor of infectious disease epidemiology at UCL."}
+{"id": "E500", "classification": "research", "reason": "Institute CEO and university professor."}
+{"id": "E501", "classification": "research", "reason": "Professor and chair of emergency medicine."}
+{"id": "E502", "classification": "research", "reason": "Professor of public policy at Harvard."}
+{"id": "E503", "classification": "research", "reason": "Regents' Professor and research center director."}
+{"id": "E504", "classification": "research", "reason": "Named professor of neuroscience at MIT."}
+{"id": "E505", "classification": "non-research", "reason": "CEO of a vaccine alliance."}
+{"id": "E506", "classification": "research", "reason": "Division chief and Harvard professor."}
+{"id": "E507", "classification": "research", "reason": "Director of an NIH research division."}
+{"id": "E508", "classification": "research", "reason": "Professor and research institute co-director."}
+{"id": "E509", "classification": "research", "reason": "FDA chief scientist and professor of pharmacology."}
+{"id": "E510", "classification": "research", "reason": "Named professor of chemistry."}
+{"id": "E511", "classification": "non-research", "reason": "CEO of a professional societies council."}
+{"id": "E512", "classification": "research", "reason": "Professor of neurology and neurobiology."}
+{"id": "E513", "classification": "research", "reason": "Chair and professor of emergency medicine."}
+{"id": "E514", "classification": "research", "reason": "Named professor of economics."}
+{"id": "E515", "classification": "research", "reason": "University president who is also professor of psychology."}
+{"id": "E516", "classification": "research", "reason": "HHMI investigator and professor."}
+{"id": "E517", "classification": "non-research", "reason": "Hospital CEO with no academic title."}
+{"id": "E518", "classification": "non-research", "reason": "Vice chancellor and dean with no professorial title listed."}
+{"id": "E519", "classification": "research", "reason": "Endowed professor and chair of emergency medicine."}
+{"id": "E520", "classification": "research", "reason": "Named professor of population sciences."}
+{"id": "E521", "classification": "non-research", "reason": "Medical school dean with no professorial title listed."}
+{"id": "E522", "classification": "non-research", "reason": "Deputy administrator of a federal agency."}
+{"id": "E523", "classification": "research", "reason": "University president and named professor of surgery."}
+{"id": "E524", "classification": "research", "reason": "Named professor and vice chair of basic science."}
+{"id": "E525", "classification": "research", "reason": "Named professor and chair of microbiology."}
+{"id": "E526", "classification": "research", "reason": "Named professor and chair of therapeutic radiology."}
+{"id": "E527", "classification": "research", "reason": "Named professor and director of research."}
+{"id": "E528", "classification": "research", "reason": "Named professor of neurology."}
+{"id": "E529", "classification": "research", "reason": "Professor of internal medicine and public health."}
+{"id": "E530", "classification": "research", "reason": "Named professor of energy analysis."}
+{"id": "E531", "classification": "research", "reason": "Professor and chair of immunology."}
+{"id": "E532", "classification": "research", "reason": "Distinguished professor and chair."}
+{"id": "E533", "classification": "research", "reason": "Research program chair and professor of medicine."}
+{"id": "E534", "classification": "research", "reason": "Named professor and chair of medical ethics."}
+{"id": "E535", "classification": "research", "reason": "Visiting professor in global health."}
+{"id": "E536", "classification": "research", "reason": "Senior scientist and professor."}
+{"id": "E537", "classification": "research", "reason": "University professor."}
+{"id": "E538", "classification": "research", "reason": "Named professor of anesthesiology."}
+{"id": "E539", "classification": "research", "reason": "Named professor of chemistry at MIT."}
+{"id": "E540", "classification": "research", "reason": "Professor of pathology and immunology."}
+{"id": "E541", "classification": "research", "reason": "NIH group leader and distinguished investigator."}
+{"id": "E542", "classification": "research", "reason": "Named professor, chair and research center director."}
+{"id": "E543", "classification": "research", "reason": "Professor of pediatrics at Stanford."}
+{"id": "E544", "classification": "non-research", "reason": "Federal assistant secretary for health."}
+{"id": "E545", "classification": "research", "reason": "Professor of internal medicine."}
+{"id": "E546", "classification": "research", "reason": "Center director and named professor."}
+{"id": "E547", "classification": "research", "reason": "Professor and stem cell research center director."}
+{"id": "E548", "classification": "research", "reason": "Distinguished university professor and center director."}
+{"id": "E549", "classification": "research", "reason": "Associate professor of biostatistics."}
+{"id": "E550", "classification": "research", "reason": "Chair of neurosurgery at a university."}
+{"id": "E551", "classification": "non-research", "reason": "Director of an FDA regulatory center."}
+{"id": "E552", "classification": "research", "reason": "Director and professor at a university school."}
+{"id": "E553", "classification": "research", "reason": "Named professor of health care policy."}
+{"id": "E554", "classification": "research", "reason": "Professor and vice chair for research."}
+{"id": "E555", "classification": "research", "reason": "Brain institute director and professor."}
+{"id": "E556", "classification": "research", "reason": "Professor of public health."}
+{"id": "E557", "classification": "research", "reason": "Professor at University of British Columbia."}
+{"id": "E558", "classification": "research", "reason": "Named professor and chair of biostatistics."}
+{"id": "E559", "classification": "research", "reason": "Professor of medicine at Stanford."}
+{"id": "E560", "classification": "research", "reason": "Distinguished professor and vice chair for basic research."}
+{"id": "E561", "classification": "non-research", "reason": "Government global AIDS coordinator."}
+{"id": "E562", "classification": "non-research", "reason": "Executive dean with no professorial title listed."}
+{"id": "E563", "classification": "research", "reason": "Institute director and named professor."}
+{"id": "E564", "classification": "research", "reason": "Named professor and research center co-director."}
+{"id": "E565", "classification": "research", "reason": "Professor and chair of public health policy."}
+{"id": "E566", "classification": "research", "reason": "Named professor of global health."}
+{"id": "E567", "classification": "research", "reason": "Named professor of health justice."}
+{"id": "E568", "classification": "research", "reason": "Professor of epidemiology."}
+{"id": "E569", "classification": "research", "reason": "Research institute director and professor."}
+{"id": "E570", "classification": "research", "reason": "Professor of medicine at Dana-Farber."}
+{"id": "E571", "classification": "research", "reason": "Named professor and chair of biostatistics."}
+{"id": "E572", "classification": "research", "reason": "Endowed professor and research center director."}
+{"id": "E573", "classification": "research", "reason": "Named professor and chair of medicine."}
+{"id": "E574", "classification": "research", "reason": "Professor of pediatrics and division director."}
+{"id": "E575", "classification": "research", "reason": "Professor of medicine."}
+{"id": "E576", "classification": "research", "reason": "HHMI investigator and named professor."}
+{"id": "E577", "classification": "research", "reason": "Professor and director of epigenetics."}
+{"id": "E578", "classification": "research", "reason": "Professor and research program director."}
+{"id": "E579", "classification": "research", "reason": "Professor of social medicine."}
+{"id": "E580", "classification": "research", "reason": "Professor and chair of rehabilitation."}
+{"id": "E581", "classification": "research", "reason": "Named professor at Rockefeller."}
+{"id": "E582", "classification": "research", "reason": "Scientific director of a research institute."}
+{"id": "E583", "classification": "research", "reason": "Professor and research center director."}
+{"id": "E584", "classification": "research", "reason": "Director of an NIH research institute."}
+{"id": "E585", "classification": "research", "reason": "Professor of family medicine."}
+{"id": "E586", "classification": "research", "reason": "Named professor and cancer center director."}
+{"id": "E587", "classification": "research", "reason": "Endowed chair and professor of surgery."}
+{"id": "E588", "classification": "research", "reason": "NIH laboratory chief and professor emeritus."}
+{"id": "E589", "classification": "research", "reason": "Named professor in vaccine research and institute director."}
+{"id": "E590", "classification": "research", "reason": "Distinguished university professor."}
+{"id": "E591", "classification": "research", "reason": "Professor of global health."}
+{"id": "E592", "classification": "research", "reason": "Program chief at a research institute."}
+{"id": "E593", "classification": "non-research", "reason": "WHO unit head, an administrative role."}
+{"id": "E594", "classification": "research", "reason": "Research institute director and professor."}
+{"id": "E595", "classification": "research", "reason": "Professor of obstetrics and gynaecology."}
+{"id": "E596", "classification": "research", "reason": "Distinguished scientist and professor."}
+{"id": "E597", "classification": "research", "reason": "Professor of gastrointestinal sciences."}
+{"id": "E598", "classification": "research", "reason": "Clinical director who also holds an academic fellow title at a university."}
+{"id": "E599", "classification": "research", "reason": "Distinguished professor and department head."}
+{"id": "E600", "classification": "research", "reason": "Director of academic research centres."}
+{"id": "E601", "classification": "research", "reason": "University institution given."}
+{"id": "E602", "classification": "research", "reason": "University institution given."}
+{"id": "E603", "classification": "research", "reason": "University institution given."}
+{"id": "E604", "classification": "uncertain", "reason": "Only a company name and field, no role."}
+{"id": "E605", "classification": "research", "reason": "University institution given."}
+{"id": "E606", "classification": "research", "reason": "Research institute given."}
+{"id": "E607", "classification": "research", "reason": "University institution given."}
+{"id": "E608", "classification": "research", "reason": "University institution given."}
+{"id": "E609", "classification": "research", "reason": "Research institute (NIH) given."}
+{"id": "E610", "classification": "research", "reason": "University institution given."}
+{"id": "E611", "classification": "research", "reason": "University institution given."}
+{"id": "E612", "classification": "research", "reason": "University institution given."}
+{"id": "E613", "classification": "research", "reason": "University institution given."}
+{"id": "E614", "classification": "research", "reason": "University institution given."}
+{"id": "E615", "classification": "research", "reason": "University institution given."}
+{"id": "E616", "classification": "research", "reason": "University institution given."}
+{"id": "E617", "classification": "research", "reason": "University institution given."}
+{"id": "E618", "classification": "research", "reason": "University institution given."}
+{"id": "E619", "classification": "research", "reason": "University institution given."}
+{"id": "E620", "classification": "research", "reason": "University institution given."}
+{"id": "E621", "classification": "research", "reason": "University institution given."}

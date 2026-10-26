@@ -1,0 +1,10 @@
+{"model_id": "claude-fable-5-1"}
+{"id": "E192", "classification": "research", "reason": "Academician and president of a medical sciences academy and medical college, i.e. head of a research institute."}
+{"id": "E220", "classification": "research", "reason": "Director of an NIH research institute counts as head of a research institute."}
+{"id": "E250", "classification": "research", "reason": "Director of an NIH research institute counts as head of a research institute."}
+{"id": "E274", "classification": "research", "reason": "CEO who also holds a chief scientific officer title and a doctorate of science, so not clearly non-research."}
+{"id": "E393", "classification": "non-research", "reason": "Program deputy director at a philanthropic foundation with no research or academic title."}
+{"id": "E604", "classification": "uncertain", "reason": "Only a company name and a field, no role stated."}
+{"id": "E814", "classification": "research", "reason": "Heads a neuroscience therapeutic-area program in industry, akin to head of a research program; not clearly non-research."}
+{"id": "E826", "classification": "research", "reason": "Head of a department at a hospital, and hospital-only affiliations default to research."}
+{"id": "E919", "classification": "research", "reason": "Pathology director at a university; no clear non-research role."}

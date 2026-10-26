@@ -1,0 +1,75 @@
+{
+ "date": "2026-10-12",
+ "adjudicators": {
+  "A": "claude-opus-5-5 (self-reported, 2 sessions)",
+  "B": "claude-sonnet-5-5 (self-reported, 2 sessions)"
+ },
+ "opus": {
+  "sensitivity": 0.975,
+  "sens_95ci": [
+   0.943,
+   0.989
+  ],
+  "specificity": 1.0,
+  "spec_95ci": [
+   0.981,
+   1.0
+  ],
+  "uncertain": 11,
+  "accepted": true
+ },
+ "sonnet": {
+  "sensitivity": 0.95,
+  "sens_95ci": [
+   0.91,
+   0.973
+  ],
+  "specificity": 1.0,
+  "spec_95ci": [
+   0.981,
+   1.0
+  ],
+  "uncertain": 23,
+  "accepted": true
+ },
+ "kappa_linked_vs_not": 0.975,
+ "kappa_bootstrap_95ci": [
+  0.95,
+  0.995
+ ],
+ "kappa_3_category": 0.917,
+ "disagreements": [
+  "B007",
+  "B077",
+  "B240",
+  "B341",
+  "B373"
+ ],
+ "disagreement_truth": "all 5 are true matches (linked by A, not by B)",
+ "tiebreak": {
+  "model": "claude-fable-5-1 (self-reported)",
+  "date": "2026-10-13",
+  "decisions": {
+   "B007": "match",
+   "B077": "match",
+   "B240": "uncertain",
+   "B341": "uncertain",
+   "B373": "match"
+  },
+  "note": "Run on 2026-10-13 after usage credits were added; earlier attempts on 2026-10-12 failed (no credits)."
+ },
+ "false_links_by_either": 0,
+ "consensus": {
+  "sensitivity": 0.965,
+  "sens_95ci": [
+   0.93,
+   0.983
+  ],
+  "specificity": 1.0,
+  "spec_95ci": [
+   0.981,
+   1.0
+  ],
+  "contested_links": 3
+ }
+}

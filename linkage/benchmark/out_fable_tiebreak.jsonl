@@ -1,0 +1,6 @@
+{"model_id": "claude-fable-5-1"}
+{"id": "B007", "decision": "match", "candidate": 1, "reason": "Fairly rare full name, same country, and Penn State vs Penn is only a same-country institution difference with no name or field conflict."}
+{"id": "B077", "decision": "match", "candidate": 1, "reason": "Identical name, institution and subfield; old publication dates alone are not grounds to rule it out."}
+{"id": "B240", "decision": "uncertain", "candidate": null, "reason": "Rare name at the same Erasmus university, but an economics-school lead investigator versus an Erasmus MC immunologist is an unexplained field tension."}
+{"id": "B341", "decision": "uncertain", "candidate": null, "reason": "Common name; Cambridge and Biology fit ecology, but a surgical training centre affiliation does not corroborate an ecologist."}
+{"id": "B373", "decision": "match", "candidate": 1, "reason": "Same name with matching middle initial, same country and same specific subfield; a hospital-to-company move is plausible."}

@@ -1,0 +1,932 @@
+source,year,family,given,id,opus,sonnet,final,tiebreak,contested
+NAM,2025,Abdel-Wahab,Omar,E001,research,research,research,,False
+NAM,2025,Ali,Mohammed K.,E002,research,research,research,,False
+NAM,2025,Anderson,Andrea A.,E003,research,research,research,,False
+NAM,2025,Andres,Aline,E004,research,research,research,,False
+NAM,2025,Ashley,Euan A.,E005,research,research,research,,False
+NAM,2025,Barfield,Wanda,E006,non-research,non-research,non-research,,False
+NAM,2025,Bass,Joseph T.,E007,research,research,research,,False
+NAM,2025,Beilock,Sian Leah,E008,non-research,non-research,non-research,,False
+NAM,2025,Besner,Gail E.,E009,research,research,research,,False
+NAM,2025,Blobel,Gerd A.,E010,research,research,research,,False
+NAM,2025,Brashear,Allison,E011,non-research,non-research,non-research,,False
+NAM,2025,Brueckner,Martina,E012,research,research,research,,False
+NAM,2025,Byrd,John C.,E013,research,research,research,,False
+NAM,2025,Calabresi,Peter A.,E014,research,research,research,,False
+NAM,2025,Carlisle,David M.,E015,research,research,research,,False
+NAM,2025,Carmichael,S. Thomas,E016,research,research,research,,False
+NAM,2025,Carter,Cameron S.,E017,research,research,research,,False
+NAM,2025,Chen,Christopher S.,E018,research,research,research,,False
+NAM,2025,Chen,Lieping,E019,research,research,research,,False
+NAM,2025,Colla,Carrie H.,E020,research,research,research,,False
+NAM,2025,Collins,Pamela Y.,E021,research,research,research,,False
+NAM,2025,Davis,Esa M.,E022,research,research,research,,False
+NAM,2025,Dehlendorf,Christine E.,E023,research,research,research,,False
+NAM,2025,Dermody,Terence S.,E024,research,research,research,,False
+NAM,2025,Dusetzina,Stacie B.,E025,research,research,research,,False
+NAM,2025,Economos,Christina D.,E026,research,research,research,,False
+NAM,2025,Epperson,Neill,E027,research,research,research,,False
+NAM,2025,Fenner,Dee E.,E028,research,research,research,,False
+NAM,2025,Ferris,Robert L.,E029,research,research,research,,False
+NAM,2025,Fletcher,Daniel A.,E030,research,research,research,,False
+NAM,2025,Garrett,Wendy S.,E031,research,research,research,,False
+NAM,2025,Graham,Barney S.,E032,research,research,research,,False
+NAM,2025,Habener,Joel F.,E033,research,research,research,,False
+NAM,2025,Haber,Suzanne N.,E034,research,research,research,,False
+NAM,2025,Harris,Lisa Hope,E035,research,research,research,,False
+NAM,2025,Dixon,Andrea Hayes,E036,non-research,non-research,non-research,,False
+NAM,2025,Hersh,William,E037,research,research,research,,False
+NAM,2025,Horvath,Tamas L.,E038,research,research,research,,False
+NAM,2025,Hur,Sun,E039,research,research,research,,False
+NAM,2025,John,Chandy C.,E040,research,research,research,,False
+NAM,2025,Johnson-Akeju,Seun,E041,research,research,research,,False
+NAM,2025,Joseph,Paule Valery,E042,research,research,research,,False
+NAM,2025,Katabi,Dina,E043,research,research,research,,False
+NAM,2025,Kirsch,David G.,E044,research,research,research,,False
+NAM,2025,Korley,Frederick Kofi,E045,research,research,research,,False
+NAM,2025,Kozhimannil,Katy Backes,E046,research,research,research,,False
+NAM,2025,Kroetz,Deanna L.,E047,research,research,research,,False
+NAM,2025,Lakdawalla,Darius N.,E048,research,research,research,,False
+NAM,2025,Lu,Michael C.,E049,non-research,non-research,non-research,,False
+NAM,2025,Matheny,Michael E.,E050,research,research,research,,False
+NAM,2025,Meltzer-Brody,Samantha,E051,non-research,non-research,non-research,,False
+NAM,2025,Mendell,Joshua,E052,research,research,research,,False
+NAM,2025,Mihaljevic,Tomislav,E053,non-research,non-research,non-research,,False
+NAM,2025,Montine,Thomas J.,E054,research,research,research,,False
+NAM,2025,Nicholson,Wanda K.,E055,research,research,research,,False
+NAM,2025,Noble,Paul W.,E056,research,research,research,,False
+NAM,2025,Paganoni,Sabrina,E057,research,research,research,,False
+NAM,2025,Pan,Duojia,E058,research,research,research,,False
+NAM,2025,Phipps,Maureen G.,E059,research,research,research,,False
+NAM,2025,Ponce,Ninez Alafriz,E060,research,research,research,,False
+NAM,2025,Raj,Anita,E061,research,research,research,,False
+NAM,2025,Richards-Kortum,Rebecca R.,E062,research,research,research,,False
+NAM,2025,Rogers,P. David,E063,research,research,research,,False
+NAM,2025,Rosenthal,Eben L.,E064,research,research,research,,False
+NAM,2025,Rubins,Kathleen,E065,research,research,research,,False
+NAM,2025,Sadelain,Michel W.,E066,research,research,research,,False
+NAM,2025,Schisterman,Enrique F.,E067,research,research,research,,False
+NAM,2025,Schuman,Erin Margaret,E068,research,research,research,,False
+NAM,2025,Schwarze,Margaret “Gretchen”,E069,research,research,research,,False
+NAM,2025,Shendure,Jay Ashok,E070,research,research,research,,False
+NAM,2025,Stone,Edwin M.,E071,research,research,research,,False
+NAM,2025,Stuart,Elizabeth A.,E072,research,research,research,,False
+NAM,2025,Sumner,Charlotte J.,E073,research,research,research,,False
+NAM,2025,Susztak,Katalin,E074,research,research,research,,False
+NAM,2025,Svoboda,Karel,E075,research,research,research,,False
+NAM,2025,Taylor,J. Paul,E076,research,research,research,,False
+NAM,2025,Teichmann,Sarah Amalia,E077,research,research,research,,False
+NAM,2025,Thadhani,Ravi,E078,research,research,research,,False
+NAM,2025,Thompson,Joseph Wood,E079,research,research,research,,False
+NAM,2025,Ting,Alice Y.,E080,research,research,research,,False
+NAM,2025,Traynelis,Stephen Francis,E081,research,research,research,,False
+NAM,2025,Turner,Patricia L.,E082,non-research,non-research,non-research,,False
+NAM,2025,Velculescu,Victor E.,E083,research,research,research,,False
+NAM,2025,Wang,Lihong,E084,research,research,research,,False
+NAM,2025,Warne,Donald K.,E085,research,research,research,,False
+NAM,2025,Way,Sing Sing,E086,research,research,research,,False
+NAM,2025,Woodard,Pamela K.,E087,research,research,research,,False
+NAM,2025,Woodruff,Tracey J.,E088,research,research,research,,False
+NAM,2025,Woolf,Clifford J.,E089,research,research,research,,False
+NAM,2025,Wynshaw-Boris,Anthony J.,E090,research,research,research,,False
+NAM,2025,Abrahams,Naeemah,E091,research,research,research,,False
+NAM,2025,Abubakar,Ibrahim,E092,research,research,research,,False
+NAM,2025,Batista,Facundo Damian,E093,research,research,research,,False
+NAM,2025,He,Jie,E094,research,research,research,,False
+NAM,2025,Kariuki,Samuel M.,E095,research,research,research,,False
+NAM,2025,Keane,Pearse A.,E096,research,research,research,,False
+NAM,2025,Meaney,Michael Joseph,E097,research,research,research,,False
+NAM,2025,Owolabi,Mayowa Ojo,E098,research,research,research,,False
+NAM,2025,Stevens,Molly Morag,E099,research,research,research,,False
+NAM,2025,Swanton,Robert Charles,E100,research,research,research,,False
+NAM,2020,Ackerman,Susan L.,E101,research,research,research,,False
+NAM,2020,Ahima,Rexford S.,E102,research,research,research,,False
+NAM,2020,Anderson,Mark S.,E103,research,research,research,,False
+NAM,2020,Angell,Sonia Yris,E104,research,research,research,,False
+NAM,2020,Athanasiou,Kyriacos A.,E105,research,research,research,,False
+NAM,2020,Baccarelli,Andrea A.,E106,research,research,research,,False
+NAM,2020,Bailey,Regan Lucas,E107,research,research,research,,False
+NAM,2020,Baker,Laurence C.,E108,research,research,research,,False
+NAM,2020,Barabino,Gilda A.,E109,research,research,research,,False
+NAM,2020,Barch,Deanna Marie,E110,research,research,research,,False
+NAM,2020,Barouch,Dan H.,E111,research,research,research,,False
+NAM,2020,Bateman,Randall John,E112,research,research,research,,False
+NAM,2020,Bell,Michelle,E113,research,research,research,,False
+NAM,2020,Beltran,William Anthony,E114,research,research,research,,False
+NAM,2020,Bowman,Frederick DuBois,E115,research,research,research,,False
+NAM,2020,Brown,Myles,E116,research,research,research,,False
+NAM,2020,Carr,Brendan G.,E117,research,research,research,,False
+NAM,2020,Carrasco,Nancy,E118,research,research,research,,False
+NAM,2020,Chang,Edward F.,E119,research,research,research,,False
+NAM,2020,Cho,Judy H.,E120,research,research,research,,False
+NAM,2020,Choi,Augustine M.K.,E121,non-research,non-research,non-research,,False
+NAM,2020,Choyke,Peter L.,E122,research,research,research,,False
+NAM,2020,Chung,Wendy K.,E123,research,research,research,,False
+NAM,2020,Clapp,David Wade,E124,research,research,research,,False
+NAM,2020,Colón-Ramos,Daniel,E125,research,research,research,,False
+NAM,2020,Colson,Yolonda Lorig,E126,research,research,research,,False
+NAM,2020,Conroy,Joanne M.,E127,research,research,research,,False
+NAM,2020,Cudkowicz,Merit,E128,research,research,research,,False
+NAM,2020,DeBerardinis,Ralph J.,E129,research,research,research,,False
+NAM,2020,DeMatteo,Ronald Paul,E130,research,research,research,,False
+NAM,2020,Dimick,Justin B.,E131,research,research,research,,False
+NAM,2020,Dunbar,Cynthia E.,E132,research,research,research,,False
+NAM,2020,Evers,B. Mark,E133,research,research,research,,False
+NAM,2020,Feldmann,Heinz,E134,research,research,research,,False
+NAM,2020,Finkel,Toren,E135,research,research,research,,False
+NAM,2020,Fisher,David E.,E136,research,research,research,,False
+NAM,2020,Fraser,Scott E.,E137,research,research,research,,False
+NAM,2020,Friese,Christopher,E138,research,research,research,,False
+NAM,2020,Gabriel,Sherine E.,E139,research,research,research,,False
+NAM,2020,Garraway,Levi A.,E140,non-research,non-research,non-research,,False
+NAM,2020,Goldberg,Jeffrey Louis,E141,research,research,research,,False
+NAM,2020,Goodman,Steven N.,E142,research,research,research,,False
+NAM,2020,Gouaux,James Eric,E143,research,research,research,,False
+NAM,2020,Graham,Garth,E144,non-research,non-research,non-research,,False
+NAM,2020,Grobman,William Adam,E145,research,research,research,,False
+NAM,2020,Halamka,John D.,E146,non-research,non-research,non-research,,False
+NAM,2020,Heagerty,Patrick J.,E147,research,research,research,,False
+NAM,2020,Hirschhorn,Joel N.,E148,research,research,research,,False
+NAM,2020,Ho,Vivian,E149,research,research,research,,False
+NAM,2020,Humphrey,Holly J.,E150,research,research,research,,False
+NAM,2020,Jamieson,Denise J.,E151,research,research,research,,False
+NAM,2020,Kaufman,Joel,E152,research,research,research,,False
+NAM,2020,Kesselheim,Aaron S.,E153,research,research,research,,False
+NAM,2020,Kolodkin,Alex,E154,research,research,research,,False
+NAM,2020,Leong,Kam W.,E155,research,research,research,,False
+NAM,2020,Li,Fei-Fei,E156,research,research,research,,False
+NAM,2020,Lieberman,Judy,E157,research,research,research,,False
+NAM,2020,Lipsitch,Marc,E158,research,research,research,,False
+NAM,2020,Liu,David R.,E159,research,research,research,,False
+NAM,2020,Margulies,Susan S.,E160,research,research,research,,False
+NAM,2020,Matthews,Kameron Leigh,E161,non-research,non-research,non-research,,False
+NAM,2020,McArthur,Justin C.,E162,research,research,research,,False
+NAM,2020,McHugh,Matthew D.,E163,research,research,research,,False
+NAM,2020,Mendell,Jerry R.,E164,research,research,research,,False
+NAM,2020,Merchant,Raina,E165,research,research,research,,False
+NAM,2020,Miller,Redonda Gail,E166,non-research,non-research,non-research,,False
+NAM,2020,Muraszko,Karin Marie,E167,research,research,research,,False
+NAM,2020,Murry,Velma McBride,E168,research,research,research,,False
+NAM,2020,Nelson,Alondra,E169,research,research,research,,False
+NAM,2020,Paulson,Henry L.,E170,research,research,research,,False
+NAM,2020,Peek-Asa,Corinne,E171,research,research,research,,False
+NAM,2020,Rajkovic,Aleksandar,E172,research,research,research,,False
+NAM,2020,Regev,Aviv,E173,research,research,research,,False
+NAM,2020,Ribas,Antoni,E174,research,research,research,,False
+NAM,2020,Ridker,Paul M.,E175,research,research,research,,False
+NAM,2020,Sabeti,Pardis C.,E176,research,research,research,,False
+NAM,2020,Song,Hongjun,E177,research,research,research,,False
+NAM,2020,Staudt,Louis M.,E178,research,research,research,,False
+NAM,2020,Stone,Patricia,E179,research,research,research,,False
+NAM,2020,Sullivan,Sean D.,E180,research,research,research,,False
+NAM,2020,Swartz,Melody A.,E181,research,research,research,,False
+NAM,2020,Taylor,Herman A.,E182,research,research,research,,False
+NAM,2020,Valantine,Hannah A.,E183,research,research,research,,False
+NAM,2020,Vincent,Amy L.,E184,research,research,research,,False
+NAM,2020,Wachter,Robert M.,E185,research,research,research,,False
+NAM,2020,Wagner,Amy K.,E186,research,research,research,,False
+NAM,2020,Wilkes,David S.,E187,research,research,research,,False
+NAM,2020,Wilkins,Consuelo H.,E188,research,research,research,,False
+NAM,2020,Zarate,Carlos Alberto,E189,research,research,research,,False
+NAM,2020,Zhuang,Xiaowei,E190,research,research,research,,False
+NAM,2020,Binder,Elisabeth B.,E191,research,research,research,,False
+NAM,2020,Chen,Wang,E192,research,uncertain,research,research,True
+NAM,2020,Clavien,Pierre-Alain,E193,research,research,research,,False
+NAM,2020,de Thé,Hugues,E194,research,research,research,,False
+NAM,2020,Dick,John E.,E195,research,research,research,,False
+NAM,2020,Leitch,Jason,E196,non-research,non-research,non-research,,False
+NAM,2020,Nicolaides,Kypros H.,E197,research,research,research,,False
+NAM,2020,Rafferty,Anne Marie,E198,research,research,research,,False
+NAM,2020,Saitoh,Eiichi,E199,non-research,non-research,non-research,,False
+NAM,2020,Wong,Tien Y.,E200,research,research,research,,False
+NAM,2024,Ajayi,Toyin,E201,non-research,non-research,non-research,,False
+NAM,2024,Arany,Zoltan Pierre,E202,research,research,research,,False
+NAM,2024,Arlotta,Paola,E203,research,research,research,,False
+NAM,2024,Arteaga,Carlos L.,E204,research,research,research,,False
+NAM,2024,Bale,Tracy L.,E205,research,research,research,,False
+NAM,2024,Bean,Jonathan F.,E206,research,research,research,,False
+NAM,2024,Bhardwaj,Nina,E207,research,research,research,,False
+NAM,2024,Bottazzi,Maria Elena,E208,research,research,research,,False
+NAM,2024,Bowles,Kathryn H.,E209,research,research,research,,False
+NAM,2024,Brooks-LaSure,Chiquita,E210,non-research,non-research,non-research,,False
+NAM,2024,Bullard,Robert D.,E211,research,research,research,,False
+NAM,2024,Burdick,Jason A.,E212,research,research,research,,False
+NAM,2024,Carlson,Jennifer D.,E213,research,research,research,,False
+NAM,2024,Carter,Bob S.,E214,research,research,research,,False
+NAM,2024,Chanock,Stephen Jacob,E215,research,research,research,,False
+NAM,2024,Chute,Christopher G.,E216,research,research,research,,False
+NAM,2024,Clayton,Janine Austin,E217,non-research,non-research,non-research,,False
+NAM,2024,Cohen,I. Glenn,E218,research,research,research,,False
+NAM,2024,Coussens,Lisa M.,E219,research,research,research,,False
+NAM,2024,Criswell,Lindsey A.,E220,research,non-research,research,research,True
+NAM,2024,Cunningham,Chinazo Opia,E221,non-research,non-research,non-research,,False
+NAM,2024,Dafny,Leemore,E222,research,research,research,,False
+NAM,2024,Davis,Teresa A.,E223,research,research,research,,False
+NAM,2024,Dranove,David,E224,research,research,research,,False
+NAM,2024,Dykes,Patricia C.,E225,research,research,research,,False
+NAM,2024,Embí,Peter Joseph,E226,research,research,research,,False
+NAM,2024,Fernandez,Alicia,E227,research,research,research,,False
+NAM,2024,Fikrig,Erol,E228,research,research,research,,False
+NAM,2024,Formenti,Silvia C.,E229,research,research,research,,False
+NAM,2024,Goyal,Monika Kumari,E230,research,research,research,,False
+NAM,2024,Haigis,Marcia Carmen,E231,research,research,research,,False
+NAM,2024,Halpern,Scott David,E232,research,research,research,,False
+NAM,2024,Heitman,Joseph,E233,research,research,research,,False
+NAM,2024,Hodder,Sally Lynn,E234,research,research,research,,False
+NAM,2024,Huang,David,E235,research,research,research,,False
+NAM,2024,Hudson,Shawna Veleura,E236,research,research,research,,False
+NAM,2024,Hylton,Nola M.,E237,research,research,research,,False
+NAM,2024,Jagsi,Reshma,E238,research,research,research,,False
+NAM,2024,Jin,Yishi,E239,research,research,research,,False
+NAM,2024,Jones,Peter Anthony,E240,research,research,research,,False
+NAM,2024,Kaholokula,Joseph Keawe‘aimoku,E241,research,research,research,,False
+NAM,2024,Laine,Christine,E242,research,research,research,,False
+NAM,2024,Langa,Kenneth M.,E243,research,research,research,,False
+NAM,2024,Lin,Haifan,E244,research,research,research,,False
+NAM,2024,Loda,Massimo,E245,research,research,research,,False
+NAM,2024,Luna,Beatriz,E246,research,research,research,,False
+NAM,2024,Mackay,Trudy F.C.,E247,research,research,research,,False
+NAM,2024,Maestas,Nicole,E248,research,research,research,,False
+NAM,2024,Mangelsdorf,David J.,E249,research,research,research,,False
+NAM,2024,Marrazzo,Jeanne,E250,research,non-research,research,research,True
+NAM,2024,Marsh,Erica Elizabeth,E251,research,research,research,,False
+NAM,2024,Matthew,Dayna Bowen,E252,research,research,research,,False
+NAM,2024,McCarthy,Margaret M.,E253,research,research,research,,False
+NAM,2024,Melton-Meaux,Genevieve B.,E254,research,research,research,,False
+NAM,2024,Merenstein,Dan,E255,research,research,research,,False
+NAM,2024,Meric-Bernstam,Funda,E256,research,research,research,,False
+NAM,2024,Miller,Matthew J.,E257,research,research,research,,False
+NAM,2024,Morita,Julie,E258,non-research,non-research,non-research,,False
+NAM,2024,Morton,Sally C.,E259,research,research,research,,False
+NAM,2024,Moutsopoulos,Niki Maria,E260,research,research,research,,False
+NAM,2024,Nath,Avindra,E261,research,research,research,,False
+NAM,2024,Nuzzo,Jennifer B.,E262,research,research,research,,False
+NAM,2024,Ono,Santa Jeremy,E263,non-research,non-research,non-research,,False
+NAM,2024,Pellman,David,E264,research,research,research,,False
+NAM,2024,Pemu,Priscilla Eyikojoka,E265,research,research,research,,False
+NAM,2024,Phillips,Mary L.,E266,research,research,research,,False
+NAM,2024,Pourquié,Olivier,E267,research,research,research,,False
+NAM,2024,Prausnitz,Mark R.,E268,research,research,research,,False
+NAM,2024,Reddy,Uma M.,E269,research,research,research,,False
+NAM,2024,Richt,Juergen Albrecht,E270,research,research,research,,False
+NAM,2024,Rogers,Selwyn O.,E271,research,research,research,,False
+NAM,2024,Rothstein,Jeffrey D.,E272,research,research,research,,False
+NAM,2024,Rowitch,David Henry,E273,research,research,research,,False
+NAM,2024,Safran,Dana Gelb,E274,research,non-research,research,research,True
+NAM,2024,Schmidt,Christine E.,E275,research,research,research,,False
+NAM,2024,Schor,Nina F.,E276,research,research,research,,False
+NAM,2024,Schrag,Deborah,E277,research,research,research,,False
+NAM,2024,South,Eugenia,E278,research,research,research,,False
+NAM,2024,Stankovic,Konstantina M.,E279,research,research,research,,False
+NAM,2024,Studdert,David M.,E280,research,research,research,,False
+NAM,2024,Studer,Lorenz,E281,research,research,research,,False
+NAM,2024,Thompson,Alexis A.,E282,research,research,research,,False
+NAM,2024,Heiden,Matthew G. Vander,E283,research,research,research,,False
+NAM,2024,Wang,Fan,E284,research,research,research,,False
+NAM,2024,Washington,Donna L.,E285,research,research,research,,False
+NAM,2024,Weiss,Mitchell J.,E286,research,research,research,,False
+NAM,2024,Wherry,E. John,E287,research,research,research,,False
+NAM,2024,Wintemute,Garen J.,E288,research,research,research,,False
+NAM,2024,Wu,Hao,E289,research,research,research,,False
+NAM,2024,Zimmerman,Marc A.,E290,research,research,research,,False
+NAM,2024,da Silva,Jarbas Barbosa,E291,non-research,non-research,non-research,,False
+NAM,2024,Chibale,Kelly,E292,research,research,research,,False
+NAM,2024,Coukos,George,E293,research,research,research,,False
+NAM,2024,Franks,Nicholas Peter,E294,research,research,research,,False
+NAM,2024,Ndung’u,Thumbi,E295,research,research,research,,False
+NAM,2024,Okonofua,Friday Ebhodaghe,E296,research,research,research,,False
+NAM,2024,Sheikh,Aziz,E297,research,research,research,,False
+NAM,2024,Smylie,Janet Kathleen,E298,research,research,research,,False
+NAM,2024,Sørensen,Henrik Toft,E299,research,research,research,,False
+NAM,2024,Tabrizi,Sarah J.,E300,research,research,research,,False
+NAM,2021,Achilefu,Samuel,E301,research,research,research,,False
+NAM,2021,Adams,Alexandra K.,E302,research,research,research,,False
+NAM,2021,Albert,Michelle Asha,E303,research,research,research,,False
+NAM,2021,Ameer,Guillermo Antonio,E304,research,research,research,,False
+NAM,2021,Ard,Jamy D.,E305,research,research,research,,False
+NAM,2021,Balbus,John M.,E306,non-research,non-research,non-research,,False
+NAM,2021,Barillas-Mury,Carolina,E307,research,research,research,,False
+NAM,2021,Barkin,Shari,E308,research,research,research,,False
+NAM,2021,Bertagnolli,Monica M.,E309,research,research,research,,False
+NAM,2021,Borio,Luciana Lopes,E310,non-research,non-research,non-research,,False
+NAM,2021,Brodt,Erik,E311,research,research,research,,False
+NAM,2021,Campbell,Kendall Marvin,E312,research,research,research,,False
+NAM,2021,Celnik,Pablo A.,E313,research,research,research,,False
+NAM,2021,Clapham,David,E314,research,research,research,,False
+NAM,2021,Cohen,Mandy Krauthamer,E315,non-research,non-research,non-research,,False
+NAM,2021,Dawes,Daniel E.,E316,non-research,non-research,non-research,,False
+NAM,2021,Dawson,Ted M.,E317,research,research,research,,False
+NAM,2021,Dekker,Job,E318,research,research,research,,False
+NAM,2021,DeParle,Nancy-Ann Min,E319,non-research,non-research,non-research,,False
+NAM,2021,Diehn,Maximilian,E320,research,research,research,,False
+NAM,2021,Dzirasa,Kafui,E321,research,research,research,,False
+NAM,2021,Fitzgerald,Katherine A.,E322,research,research,research,,False
+NAM,2021,Fong,Yuman,E323,research,research,research,,False
+NAM,2021,Frumkin,Howard,E324,research,research,research,,False
+NAM,2021,PhD,Andrés J. Garcia,E325,research,research,research,,False
+NAM,2021,Gaskin,Darrell J.,E326,research,research,research,,False
+NAM,2021,Gebreyes,Wondwossen Abebe,E327,research,research,research,,False
+NAM,2021,Gill,Jessica,E328,research,research,research,,False
+NAM,2021,Ginsburg,Paul,E329,research,research,research,,False
+NAM,2021,Golden,Sherita Hill,E330,research,research,research,,False
+NAM,2021,Gone,Joseph,E331,research,research,research,,False
+NAM,2021,Grabenstein,John D.,E332,non-research,non-research,non-research,,False
+NAM,2021,Griffith,Linda G.,E333,research,research,research,,False
+NAM,2021,Ha,Taekjip,E334,research,research,research,,False
+NAM,2021,Hahn,William C.,E335,research,research,research,,False
+NAM,2021,Hansen,Helena,E336,research,research,research,,False
+NAM,2021,Hatten,Mary Elizabeth,E337,research,research,research,,False
+NAM,2021,Hawn,Mary T.,E338,research,research,research,,False
+NAM,2021,He,Zhigang,E339,research,research,research,,False
+NAM,2021,Hemmings,Hugh Carroll,E340,research,research,research,,False
+NAM,2021,Hen,Rene,E341,research,research,research,,False
+NAM,2021,Heslop,Helen Elisabeth,E342,research,research,research,,False
+NAM,2021,Hsia,Renee Yuen-Jan,E343,research,research,research,,False
+NAM,2021,Isom,Lori L.,E344,research,research,research,,False
+NAM,2021,Jansen,Kathrin U.,E345,research,research,research,,False
+NAM,2021,Johnson,Christine Kreuder,E346,research,research,research,,False
+NAM,2021,Kaplan,Mariana Julieta,E347,research,research,research,,False
+NAM,2021,Konofagou,Elisa,E348,research,research,research,,False
+NAM,2021,Lemery,Jay,E349,research,research,research,,False
+NAM,2021,Luby,Joan L.,E350,research,research,research,,False
+NAM,2021,Mandl,Kenneth David,E351,research,research,research,,False
+NAM,2021,Manly,Jennifer J.,E352,research,research,research,,False
+NAM,2021,McNally,Elizabeth M.,E353,research,research,research,,False
+NAM,2021,Messonnier,Nancy,E354,non-research,non-research,non-research,,False
+NAM,2021,Monje,Michelle,E355,research,research,research,,False
+NAM,2021,Mootha,Vamsi K.,E356,research,research,research,,False
+NAM,2021,Mucke,Lennart,E357,research,research,research,,False
+NAM,2021,Murthy,Vivek Hallegere,E358,non-research,non-research,non-research,,False
+NAM,2021,Newburger,Jane Wimpfheimer,E359,research,research,research,,False
+NAM,2021,Norris,Keith C.,E360,research,research,research,,False
+NAM,2021,Nunez-Smith,Marcella,E361,research,research,research,,False
+NAM,2021,Obasogie,Osagie,E362,research,research,research,,False
+NAM,2021,Olayiwola,Jacqueline Nwando,E363,research,research,research,,False
+NAM,2021,Ovbiagele,Bruce,E364,research,research,research,,False
+NAM,2021,Pardoll,Drew,E365,research,research,research,,False
+NAM,2021,Prado,Guillermo,E366,research,research,research,,False
+NAM,2021,Pugh,Carla M.,E367,research,research,research,,False
+NAM,2021,Rice,Charles M.,E368,research,research,research,,False
+NAM,2021,Ritchie,Marylyn D.,E369,research,research,research,,False
+NAM,2021,Roubideaux,Yvette D.,E370,research,research,research,,False
+NAM,2021,Rubin,Eric J.,E371,non-research,non-research,non-research,,False
+NAM,2021,Salas,Renee N.,E372,research,research,research,,False
+NAM,2021,Sequist,Thomas,E373,research,research,research,,False
+NAM,2021,Simon,Kosali Ilayperuma,E374,research,research,research,,False
+NAM,2021,Simon,Melissa Andrea,E375,research,research,research,,False
+NAM,2021,Sood,Anil Kumar,E376,research,research,research,,False
+NAM,2021,Sperling,Reisa,E377,research,research,research,,False
+NAM,2021,Szanton,Sarah Loeb,E378,research,research,research,,False
+NAM,2021,Tishkoff,Sarah A.,E379,research,research,research,,False
+NAM,2021,Tontonoz,Peter,E380,research,research,research,,False
+NAM,2021,Trejo,JoAnn,E381,research,research,research,,False
+NAM,2021,Upchurch,Gilbert Rivers,E382,research,research,research,,False
+NAM,2021,Veenema,Tener Goodwin,E383,research,research,research,,False
+NAM,2021,Vosshall,Leslie Birgit,E384,research,research,research,,False
+NAM,2021,Walensky,Rochelle Paula,E385,non-research,non-research,non-research,,False
+NAM,2021,Winzeler,Elizabeth,E386,research,research,research,,False
+NAM,2021,Wolberger,Cynthia,E387,research,research,research,,False
+NAM,2021,Zaidi,Anita K.M.,E388,non-research,non-research,non-research,,False
+NAM,2021,Zenk,Shannon Nicole,E389,research,research,research,,False
+NAM,2021,Zhang,Feng,E390,research,research,research,,False
+NAM,2021,Adanu,Richard M.K.,E391,research,research,research,,False
+NAM,2021,Critchley,Hilary O.D.,E392,research,research,research,,False
+NAM,2021,Gardy,Jennifer Leigh,E393,non-research,research,non-research,non-research,True
+NAM,2021,Ghebreyesus,Tedros Adhanom,E394,non-research,non-research,non-research,,False
+NAM,2021,Greenhalgh,Tricia,E395,research,research,research,,False
+NAM,2021,Heard,Edith,E396,research,research,research,,False
+NAM,2021,Moeti,Matshidiso,E397,non-research,non-research,non-research,,False
+NAM,2021,Rottingen,John-Arne,E398,non-research,non-research,non-research,,False
+NAM,2021,Sow,Samba Ousemane,E399,research,research,research,,False
+NAM,2021,Turecki,Gustavo,E400,research,research,research,,False
+NAM,2023,Anderson,Daniel G.,E401,research,research,research,,False
+NAM,2023,Anderson-Erisman,Kimberly Dawn,E402,research,research,research,,False
+NAM,2023,Avidan,Michael S.,E403,research,research,research,,False
+NAM,2023,Bandeen-Roche,Karen,E404,research,research,research,,False
+NAM,2023,Barnhart,Kurt,E405,research,research,research,,False
+NAM,2023,Barzilay,Regina,E406,research,research,research,,False
+NAM,2023,Baserga,Susan J.,E407,research,research,research,,False
+NAM,2023,Bashir,Rashid,E408,research,research,research,,False
+NAM,2023,Bernstein,Bradley,E409,research,research,research,,False
+NAM,2023,Betancourt,Joseph R.,E410,non-research,non-research,non-research,,False
+NAM,2023,Betz,Marian E.,E411,research,research,research,,False
+NAM,2023,Bleich,Sara Naomi,E412,research,research,research,,False
+NAM,2023,Carpten,John D.,E413,research,research,research,,False
+NAM,2023,Carter,Patrick M.,E414,research,research,research,,False
+NAM,2023,Chan,Timothy A.,E415,research,research,research,,False
+NAM,2023,Chiang,Michael F.,E416,research,research,research,,False
+NAM,2023,Coker,Tumaini Rucker,E417,research,research,research,,False
+NAM,2023,Corbin,Theodore J.,E418,research,research,research,,False
+NAM,2023,Crews,Deidra C.,E419,research,research,research,,False
+NAM,2023,Davidson,Karina W.,E420,research,research,research,,False
+NAM,2023,Davis,Roger J.,E421,research,research,research,,False
+NAM,2023,Diaz,Luis Alberto,E422,research,research,research,,False
+NAM,2023,D’Onofrio,Gail,E423,research,research,research,,False
+NAM,2023,Elenitoba-Johnson,Kojo Seys John,E424,research,research,research,,False
+NAM,2023,England,Sarah K.,E425,research,research,research,,False
+NAM,2023,Fallin,M. Daniele,E426,non-research,non-research,non-research,,False
+NAM,2023,Fava,Maurizio,E427,research,research,research,,False
+NAM,2023,Feng,Guoping,E428,research,research,research,,False
+NAM,2023,Feng,Sandy,E429,research,research,research,,False
+NAM,2023,Forrest,Christopher B.,E430,research,research,research,,False
+NAM,2023,Furr-Holden,Debra M.,E431,research,research,research,,False
+NAM,2023,Furth,Susan L.,E432,research,research,research,,False
+NAM,2023,Gallo,Richard L.,E433,research,research,research,,False
+NAM,2023,García,Francisco A.R.,E434,research,research,research,,False
+NAM,2023,Giscombe,Cheryl L.,E435,research,research,research,,False
+NAM,2023,Gounder,Céline R.,E436,research,research,research,,False
+NAM,2023,Grabowski,David C.,E437,research,research,research,,False
+NAM,2023,Green,Eric D.,E438,research,research,research,,False
+NAM,2023,Hanes,Justin,E439,research,research,research,,False
+NAM,2023,Hatchett,Richard J.,E440,non-research,non-research,non-research,,False
+NAM,2023,He,Jiang,E441,research,research,research,,False
+NAM,2023,Ibrahim,Said A.,E442,research,research,research,,False
+NAM,2023,Inglesby,Thomas V.,E443,research,research,research,,False
+NAM,2023,Irvine,Darrell J.,E444,research,research,research,,False
+NAM,2023,Kaiser,Ursula B.,E445,research,research,research,,False
+NAM,2023,Khaldun,Joneigh S.,E446,non-research,non-research,non-research,,False
+NAM,2023,Koller,Christopher F.,E447,non-research,non-research,non-research,,False
+NAM,2023,Lam,Wilbur A.,E448,research,research,research,,False
+NAM,2023,Leach,Steven D.,E449,research,research,research,,False
+NAM,2023,Lee,Jeannie T.,E450,research,research,research,,False
+NAM,2023,Lee,Lois K.,E451,research,research,research,,False
+NAM,2023,Lyke,Kirsten E.,E452,research,research,research,,False
+NAM,2023,Maldonado,Yvonne (Bonnie),E453,research,research,research,,False
+NAM,2023,Merad,Miriam,E454,research,research,research,,False
+NAM,2023,Miller,Timothy M.,E455,research,research,research,,False
+NAM,2023,Montgomery,Robert Avery,E456,research,research,research,,False
+NAM,2023,Moreno,Gerardo,E457,research,research,research,,False
+NAM,2023,Mukherjee,Siddhartha,E458,research,research,research,,False
+NAM,2023,Newman,Lisa A.,E459,research,research,research,,False
+NAM,2023,Ofotokun,Igho,E460,research,research,research,,False
+NAM,2023,Palacio,Herminia,E461,non-research,non-research,non-research,,False
+NAM,2023,Patton,Desmond U.,E462,research,research,research,,False
+NAM,2023,Plowright,Raina K.,E463,research,research,research,,False
+NAM,2023,Porter,Keshia M. Pollack,E464,research,research,research,,False
+NAM,2023,Red-Horse,Kristy,E465,research,research,research,,False
+NAM,2023,Reynolds,Teri,E466,non-research,non-research,non-research,,False
+NAM,2023,Richardson,Joseph B.,E467,research,research,research,,False
+NAM,2023,Ross,Lainie Friedman,E468,research,research,research,,False
+NAM,2023,Rowhani-Rahbar,Ali,E469,research,research,research,,False
+NAM,2023,Sahin,Mustafa,E470,research,research,research,,False
+NAM,2023,Sakran,Joseph V.,E471,research,research,research,,False
+NAM,2023,Seguin-Fowler,Rebecca Anne,E472,research,research,research,,False
+NAM,2023,Sheng,Morgan,E473,research,research,research,,False
+NAM,2023,Spong,Catherine Y.,E474,research,research,research,,False
+NAM,2023,Springer,Timothy A.,E475,research,research,research,,False
+NAM,2023,Stockwell,Brent R.,E476,research,research,research,,False
+NAM,2023,Tanzi,Rudolph Emile,E477,research,research,research,,False
+NAM,2023,Thayer,Julian F.,E478,research,research,research,,False
+NAM,2023,Tuuli,Methodius Gamuo,E479,research,research,research,,False
+NAM,2023,Valdez,Robert Otto Burciaga,E480,non-research,non-research,non-research,,False
+NAM,2023,Hoek,Terry L. Vanden,E481,research,research,research,,False
+NAM,2023,Vonderheide,Robert H.,E482,research,research,research,,False
+NAM,2023,Wang,Emily Ai-hua,E483,research,research,research,,False
+NAM,2023,Wargo,Jennifer A.,E484,research,research,research,,False
+NAM,2023,Webster,Daniel W.,E485,research,research,research,,False
+NAM,2023,West,Jennifer L.,E486,research,research,research,,False
+NAM,2023,Wolchok,Jedd D.,E487,research,research,research,,False
+NAM,2023,Zamore,Phillip D.,E488,research,research,research,,False
+NAM,2023,Zeng,Hongkui,E489,research,research,research,,False
+NAM,2023,Zhang,Yi,E490,research,research,research,,False
+NAM,2023,Agyemang,Charles O.,E491,research,research,research,,False
+NAM,2023,Arango,Celso,E492,research,research,research,,False
+NAM,2023,Atwoli,Lukoye,E493,research,research,research,,False
+NAM,2023,Brose,Nils,E494,research,research,research,,False
+NAM,2023,Carabin,Hélène,E495,research,research,research,,False
+NAM,2023,Drucker,Daniel,E496,research,research,research,,False
+NAM,2023,Happi,Christian T.,E497,research,research,research,,False
+NAM,2023,Imamura,Marta,E498,research,research,research,,False
+NAM,2023,Johnson,Anne M.,E499,research,research,research,,False
+NAM,2023,Nielsen,Jens,E500,research,research,research,,False
+NAM,2022,Adeoye,Opeolu Makanju,E501,research,research,research,,False
+NAM,2022,Alsan,Marcella,E502,research,research,research,,False
+NAM,2022,Baldwin,Julie A.,E503,research,research,research,,False
+NAM,2022,Bear,Mark F.,E504,research,research,research,,False
+NAM,2022,Berkley,Seth Franklin,E505,non-research,non-research,non-research,,False
+NAM,2022,Blackstone,Craig,E506,research,research,research,,False
+NAM,2022,Blanco,Carlos,E507,research,research,research,,False
+NAM,2022,Brown,Arleen F.,E508,research,research,research,,False
+NAM,2022,Bumpus,Namandjé N.,E509,research,research,research,,False
+NAM,2022,Burke,Martin D.,E510,research,research,research,,False
+NAM,2022,Burstin,Helen,E511,non-research,non-research,non-research,,False
+NAM,2022,Calakos,Nicole,E512,research,research,research,,False
+NAM,2022,Calderon,Yvette,E513,research,research,research,,False
+NAM,2022,Carpenter,Christopher,E514,research,research,research,,False
+NAM,2022,Cauce,Ana Mari,E515,research,research,research,,False
+NAM,2022,Chen,Zhijian “James”,E516,research,research,research,,False
+NAM,2022,Cunningham,Regina S.,E517,non-research,non-research,non-research,,False
+NAM,2022,Deas,Deborah Victoria,E518,non-research,non-research,non-research,,False
+NAM,2022,Elie,Marie-Carmelle,E519,research,research,research,,False
+NAM,2022,Fawzi,Wafaie,E520,research,research,research,,False
+NAM,2022,Ford,Henri Ronald,E521,non-research,non-research,non-research,,False
+NAM,2022,Fowler,Elizabeth J.,E522,non-research,non-research,non-research,,False
+NAM,2022,Frederick,Wayne A. I.,E523,research,research,research,,False
+NAM,2022,Gallagher,Katherine A.,E524,research,research,research,,False
+NAM,2022,Ghosh,Sankar,E525,research,research,research,,False
+NAM,2022,Glazer,Peter M.,E526,research,research,research,,False
+NAM,2022,Guilak,Farshid,E527,research,research,research,,False
+NAM,2022,Gutmann,David H.,E528,research,research,research,,False
+NAM,2022,Heisler,Michele,E529,research,research,research,,False
+NAM,2022,Holloway,Tracey,E530,research,research,research,,False
+NAM,2022,Hooper,Lora V.,E531,research,research,research,,False
+NAM,2022,Howell,Elizabeth A.,E532,research,research,research,,False
+NAM,2022,James,Judith A.,E533,research,research,research,,False
+NAM,2022,Joffe,Steven,E534,research,research,research,,False
+NAM,2022,Jones,Camara Phyllis,E535,research,research,research,,False
+NAM,2022,Josselyn,Sheena Ann,E536,research,research,research,,False
+NAM,2022,Karikó,Katalin,E537,research,research,research,,False
+NAM,2022,Kheterpal,Sachin,E538,research,research,research,,False
+NAM,2022,Kiessling,Laura L.,E539,research,research,research,,False
+NAM,2022,Kipnis,Jonathan,E540,research,research,research,,False
+NAM,2022,Koonin,Eugene V.,E541,research,research,research,,False
+NAM,2022,Krainc,Dimitri,E542,research,research,research,,False
+NAM,2022,Lee,Grace M.,E543,research,research,research,,False
+NAM,2022,Levine,Rachel L.,E544,non-research,non-research,non-research,,False
+NAM,2022,Lok,Anna Suk-Fong,E545,research,research,research,,False
+NAM,2022,Mackall,Crystal L.,E546,research,research,research,,False
+NAM,2022,MacKenzie,Tippi C.,E547,research,research,research,,False
+NAM,2022,Maibach,Edward Wile,E548,research,research,research,,False
+NAM,2022,Marino,Miguel,E549,research,research,research,,False
+NAM,2022,Markert,James MacDowell,E550,research,research,research,,False
+NAM,2022,Marks,Peter Wayne,E551,non-research,non-research,non-research,,False
+NAM,2022,McGuire,Michelle Kay,E552,research,research,research,,False
+NAM,2022,McWilliams,Michael,E553,research,research,research,,False
+NAM,2022,Mischel,Paul Salomon,E554,research,research,research,,False
+NAM,2022,Monteggia,Lisa M.,E555,research,research,research,,False
+NAM,2022,Morello-Frosch,Rachel A.,E556,research,research,research,,False
+NAM,2022,Moss,Margaret P.,E557,research,research,research,,False
+NAM,2022,Mukherjee,Bhramar,E558,research,research,research,,False
+NAM,2022,Nadeau,Kari C.,E559,research,research,research,,False
+NAM,2022,Nizet,Victor,E560,research,research,research,,False
+NAM,2022,Nkengasong,John N.,E561,non-research,non-research,non-research,,False
+NAM,2022,Ojo,Akinlolu,E562,non-research,non-research,non-research,,False
+NAM,2022,Omer,Saad B.,E563,research,research,research,,False
+NAM,2022,Oro,Anthony E.,E564,research,research,research,,False
+NAM,2022,Pagán,José A.,E565,research,research,research,,False
+NAM,2022,Patel,Vikram,E566,research,research,research,,False
+NAM,2022,Peek,Monica Elizabeth,E567,research,research,research,,False
+NAM,2022,Petersen,Christine A.,E568,research,research,research,,False
+NAM,2022,Pollard,Katherine S.,E569,research,research,research,,False
+NAM,2022,Polyak,Kornelia,E570,research,research,research,,False
+NAM,2022,Quackenbush,John,E571,research,research,research,,False
+NAM,2022,Ranney,Megan L.,E572,research,research,research,,False
+NAM,2022,Rathmell,Kimryn,E573,research,research,research,,False
+NAM,2022,Rothenberg,Marc Elliot,E574,research,research,research,,False
+NAM,2022,Sharpless,Norman E.,E575,research,research,research,,False
+NAM,2022,Shenoy,Krishna V.,E576,research,research,research,,False
+NAM,2022,Shi,Yang,E577,research,research,research,,False
+NAM,2022,Sim,Ida,E578,research,research,research,,False
+NAM,2022,Sims,Mario,E579,research,research,research,,False
+NAM,2022,Sowa,Gwendolyn,E580,research,research,research,,False
+NAM,2022,Tavazoie,Sohail F.,E581,research,research,research,,False
+NAM,2022,Temple,Sally,E582,research,research,research,,False
+NAM,2022,Tita,Alan Thevenet N.,E583,research,research,research,,False
+NAM,2022,Tromberg,Bruce J.,E584,research,research,research,,False
+NAM,2022,Tseng,Chien-Wen,E585,research,research,research,,False
+NAM,2022,Tuveson,David A.,E586,research,research,research,,False
+NAM,2022,Velázquez,Omaida C.,E587,research,research,research,,False
+NAM,2022,Webster-Cyriaque,Jennifer,E588,research,research,research,,False
+NAM,2022,Weissman,Drew,E589,research,research,research,,False
+NAM,2022,Zambrana,Ruth Enid,E590,research,research,research,,False
+NAM,2022,Alonso,Pedro L.,E591,research,research,research,,False
+NAM,2022,Campbell,Peter John,E592,research,research,research,,False
+NAM,2022,Campbell-Lendrum,Diarmid,E593,non-research,non-research,non-research,,False
+NAM,2022,De Strooper,Bart,E594,research,research,research,,False
+NAM,2022,Deprest,Jan,E595,research,research,research,,False
+NAM,2022,Eaves,Connie J.,E596,research,research,research,,False
+NAM,2022,Kang,Gagandeep,E597,research,research,research,,False
+NAM,2022,Khan,Farees (Fary),E598,research,research,research,,False
+NAM,2022,Mash,Robert James,E599,research,research,research,,False
+NAM,2022,Temmerman,Marleen,E600,research,research,research,,False
+AMS,2024,Ahel,Ivan,E601,research,research,research,,False
+AMS,2024,Ahluwalia,Amrita,E602,research,research,research,,False
+AMS,2024,Al-Chalabi,Ammar,E603,research,research,research,,False
+AMS,2024,Anderson,Annaliesa,E604,uncertain,research,uncertain,uncertain,True
+AMS,2024,Barrett,Michael,E605,research,research,research,,False
+AMS,2024,Behrens,Axel,E606,research,research,research,,False
+AMS,2024,Bhatt,Samir,E607,research,research,research,,False
+AMS,2024,Boardman,James,E608,research,research,research,,False
+AMS,2024,Clore,G Marius,E609,research,research,research,,False
+AMS,2024,Coussios,Constantin,E610,research,research,research,,False
+AMS,2024,Cragg,Mark,E611,research,research,research,,False
+AMS,2024,Davies,Alun,E612,research,research,research,,False
+AMS,2024,Davies,Jane,E613,research,research,research,,False
+AMS,2024,Denton,Christopher,E614,research,research,research,,False
+AMS,2024,Dhillo,Waljit,E615,research,research,research,,False
+AMS,2024,Eddleston,Michael,E616,research,research,research,,False
+AMS,2024,Feder,Gene,E617,research,research,research,,False
+AMS,2024,Fennell,Dean,E618,research,research,research,,False
+AMS,2024,Ferrand,Rashida,E619,research,research,research,,False
+AMS,2024,Forouhi,Nita,E620,research,research,research,,False
+AMS,2024,Smith,Fang Gao,E621,research,research,research,,False
+AMS,2024,Gathercole,Susan,E622,research,research,research,,False
+AMS,2024,Godlee,Fiona,E623,non-research,non-research,non-research,,False
+AMS,2024,Grant,Alison,E624,research,research,research,,False
+AMS,2024,Harmer,Catherine,E625,research,research,research,,False
+AMS,2024,Horne,Andrew,E626,research,research,research,,False
+AMS,2024,Katikireddi,Srinivasa,E627,research,research,research,,False
+AMS,2024,Khoo,Saye Hock,E628,research,research,research,,False
+AMS,2024,Knight,Julian,E629,research,research,research,,False
+AMS,2024,Lalloo,David,E630,research,research,research,,False
+AMS,2024,Lambe,Teresa,E631,research,research,research,,False
+AMS,2024,Majeed,Azeem,E632,research,research,research,,False
+AMS,2024,Martin,Niall,E633,uncertain,uncertain,uncertain,,False
+AMS,2024,Mayor,Roberto,E634,research,research,research,,False
+AMS,2024,McKeating,Jane,E635,research,research,research,,False
+AMS,2024,Mead,Adam,E636,research,research,research,,False
+AMS,2024,Mehanna,Hisham,E637,research,research,research,,False
+AMS,2024,Newman,William,E638,research,research,research,,False
+AMS,2024,Osier,Faith,E639,research,research,research,,False
+AMS,2024,Parsons,Maddy,E640,research,research,research,,False
+AMS,2024,Pasi,K John,E641,uncertain,uncertain,uncertain,,False
+AMS,2024,Piddini,Eugenia,E642,research,research,research,,False
+AMS,2024,Quezada,Sergio,E643,research,research,research,,False
+AMS,2024,Reynolds,Rebecca,E644,research,research,research,,False
+AMS,2024,Riley,Richard,E645,research,research,research,,False
+AMS,2024,Rodger,Alison,E646,research,research,research,,False
+AMS,2024,Salman,Rustam Al-Shahi,E647,research,research,research,,False
+AMS,2024,Sandall,Jane,E648,research,research,research,,False
+AMS,2024,Sculpher,Mark,E649,research,research,research,,False
+AMS,2024,Shakesheff,Kevin,E650,research,research,research,,False
+AMS,2024,Simpson,Alexander,E651,research,research,research,,False
+AMS,2024,Skene,Debra,E652,research,research,research,,False
+AMS,2024,Sofat,Reecha,E653,research,research,research,,False
+AMS,2024,Spires-Jones,Tara,E654,research,research,research,,False
+AMS,2024,Thangaratinam,Shakila,E655,research,research,research,,False
+AMS,2024,Wild,James,E656,research,research,research,,False
+AMS,2024,Zlatic,Marta,E657,research,research,research,,False
+AMS,2024,Zondervan,Krina,E658,research,research,research,,False
+AMS,2025,Patani,Rickie,E659,research,research,research,,False
+AMS,2025,Gulati,Vishal,E660,uncertain,uncertain,uncertain,,False
+AMS,2025,Chiu,Chris,E661,research,research,research,,False
+AMS,2025,Celso,Cristina Lo,E662,research,research,research,,False
+AMS,2025,Rutter,Guy,E663,research,research,research,,False
+AMS,2025,Saglani,Sejal,E664,research,research,research,,False
+AMS,2025,Ward,Helen,E665,research,research,research,,False
+AMS,2025,Blencowe,Benjamin,E666,research,research,research,,False
+AMS,2025,Newsome,Philip,E667,research,research,research,,False
+AMS,2025,Shennan,Andrew,E668,research,research,research,,False
+AMS,2025,Ule,Jernej,E669,research,research,research,,False
+AMS,2025,Nyirenda,Moffat,E670,research,research,research,,False
+AMS,2025,Richardson,Jill,E671,uncertain,uncertain,uncertain,,False
+AMS,2025,Bambra,Clare,E672,research,research,research,,False
+AMS,2025,Taylor,Robert,E673,research,research,research,,False
+AMS,2025,Saville,Melanie,E674,uncertain,uncertain,uncertain,,False
+AMS,2025,Grigg,Jonathan,E675,research,research,research,,False
+AMS,2025,Langenberg,Claudia,E676,research,research,research,,False
+AMS,2025,Gloyn,Anna,E677,research,research,research,,False
+AMS,2025,David,Anna,E678,research,research,research,,False
+AMS,2025,Pagel,Christina,E679,research,research,research,,False
+AMS,2025,Schott,Jonathan,E680,research,research,research,,False
+AMS,2025,Shafran,Roz,E681,research,research,research,,False
+AMS,2025,Stoyanov,Danail,E682,research,research,research,,False
+AMS,2025,Towers,Gregory,E683,research,research,research,,False
+AMS,2025,Werring,David,E684,research,research,research,,False
+AMS,2025,Calvert,Melanie,E685,research,research,research,,False
+AMS,2025,Morton,Dion,E686,research,research,research,,False
+AMS,2025,Terry,John,E687,research,research,research,,False
+AMS,2025,Timpson,Nicholas,E688,research,research,research,,False
+AMS,2025,Bryant,Clare,E689,research,research,research,,False
+AMS,2025,Reimann,Frank,E690,research,research,research,,False
+AMS,2025,Ryten,Mina,E691,research,research,research,,False
+AMS,2025,Horn,David,E692,research,research,research,,False
+AMS,2025,Näthke,Inke,E693,research,research,research,,False
+AMS,2025,Gordon,Melita,E694,research,research,research,,False
+AMS,2025,Semple,Robert,E695,research,research,research,,False
+AMS,2025,Wright,Caroline,E696,research,research,research,,False
+AMS,2025,Abel,Kathryn,E697,research,research,research,,False
+AMS,2025,Day,Anthony,E698,research,research,research,,False
+AMS,2025,Sutton,Matt,E699,research,research,research,,False
+AMS,2025,Banerjee,Sube,E700,research,research,research,,False
+AMS,2025,Antoniades,Charalambos,E701,research,research,research,,False
+AMS,2025,Draper,Simon,E702,research,research,research,,False
+AMS,2025,Higgins,Matt,E703,research,research,research,,False
+AMS,2025,Stevens,Molly,E704,research,research,research,,False
+AMS,2025,Wray,Naomi,E705,research,research,research,,False
+AMS,2025,Catto,James,E706,research,research,research,,False
+AMS,2025,Dunn-Walters,Deborah,E707,research,research,research,,False
+AMS,2025,Miranda,Jaime,E708,research,research,research,,False
+AMS,2025,Idowu,Bernadine,E709,research,research,research,,False
+AMS,2025,Kent,David,E710,research,research,research,,False
+AMS,2025,Rangan,Amar,E711,research,research,research,,False
+AMS,2025,Behjati,Sam,E712,research,research,research,,False
+AMS,2023,Bauld,Linda,E713,research,research,research,,False
+AMS,2023,Birault,Veronique,E714,research,research,research,,False
+AMS,2023,Bonnet,Dominique,E715,research,research,research,,False
+AMS,2023,Campbell,Marion,E716,research,research,research,,False
+AMS,2023,Chitty,Lyn,E717,research,research,research,,False
+AMS,2023,Ciccarelli,Olga,E718,research,research,research,,False
+AMS,2023,Clarkson,Janet,E719,research,research,research,,False
+AMS,2023,Coles,Charlotte,E720,research,research,research,,False
+AMS,2023,Cooke,Graham,E721,research,research,research,,False
+AMS,2023,Cui,Zhanfeng,E722,research,research,research,,False
+AMS,2023,Dattani,Mehul,E723,research,research,research,,False
+AMS,2023,Di Angelantonio,Emanuele,E724,research,research,research,,False
+AMS,2023,Espie,Colin,E725,research,research,research,,False
+AMS,2023,Foster,Simon,E726,research,research,research,,False
+AMS,2023,Gilbert,Ruth,E727,research,research,research,,False
+AMS,2023,Gilbody,Simon,E728,research,research,research,,False
+AMS,2023,Gilmore,Ian,E729,research,research,research,,False
+AMS,2023,Grover,Liam,E730,research,research,research,,False
+AMS,2023,Harper,Sarah,E731,research,research,research,,False
+AMS,2023,Harrison,Ewen,E732,research,research,research,,False
+AMS,2023,Hingorani,Aroon,E733,research,research,research,,False
+AMS,2023,Hippisley-Cox,Julia,E734,research,research,research,,False
+AMS,2023,Hollingsworth,Simon,E735,non-research,non-research,non-research,,False
+AMS,2023,Hopkins,Andrew,E736,non-research,non-research,non-research,,False
+AMS,2023,Hopkins,Susan,E737,non-research,non-research,non-research,,False
+AMS,2023,Horvath,Rita,E738,research,research,research,,False
+AMS,2023,Houlden,Henry,E739,research,research,research,,False
+AMS,2023,Jit,Mark,E740,research,research,research,,False
+AMS,2023,Kee,Frank,E741,research,research,research,,False
+AMS,2023,Lachmann,Helen,E742,research,research,research,,False
+AMS,2023,Lawley,Trevor,E743,research,research,research,,False
+AMS,2023,Lehner,Ben,E744,research,research,research,,False
+AMS,2023,Lindgren,Cecilia,E745,research,research,research,,False
+AMS,2023,Lowell,Sally,E746,research,research,research,,False
+AMS,2023,Margrie,Troy,E747,research,research,research,,False
+AMS,2023,Marson,Anthony,E748,research,research,research,,False
+AMS,2023,Mauri,Claudia,E749,research,research,research,,False
+AMS,2023,May,Robin,E750,research,research,research,,False
+AMS,2023,Mead,Gillian,E751,research,research,research,,False
+AMS,2023,Miska,Eric,E752,research,research,research,,False
+AMS,2023,Muqit,Miratul,E753,research,research,research,,False
+AMS,2023,Nik-Zainal,Serena,E754,research,research,research,,False
+AMS,2023,Ourselin,Sebastien,E755,research,research,research,,False
+AMS,2023,Pickering,Matthew,E756,research,research,research,,False
+AMS,2023,Rahi,Jugnoo,E757,research,research,research,,False
+AMS,2023,Ramanan,Athimalaipet,E758,research,research,research,,False
+AMS,2023,Ray,Kausik,E759,research,research,research,,False
+AMS,2023,Rayner,Julian,E760,research,research,research,,False
+AMS,2023,Roberts,Irene,E761,research,research,research,,False
+AMS,2023,Rowe,James,E762,research,research,research,,False
+AMS,2023,Sander,Ley,E763,research,research,research,,False
+AMS,2023,Sasieni,Peter,E764,research,research,research,,False
+AMS,2023,Schmidt,Ulrike,E765,research,research,research,,False
+AMS,2023,Shi,Yang,E766,research,research,research,,False
+AMS,2023,Snape,Matthew,E767,research,research,research,,False
+AMS,2023,Taylor,Stuart,E768,research,research,research,,False
+AMS,2023,Vinuesa,Carola,E769,research,research,research,,False
+AMS,2023,Vyas,Paresh,E770,research,research,research,,False
+AMS,2023,Wright,Gavin,E771,research,research,research,,False
+AMS,2020,Abubakar,Ibrahim,E772,research,research,research,,False
+AMS,2020,Allshire,Robin,E773,research,research,research,,False
+AMS,2020,Bainbridge,James,E774,research,research,research,,False
+AMS,2020,Barrett,Jeffrey,E775,research,research,research,,False
+AMS,2020,Bennett,David,E776,research,research,research,,False
+AMS,2020,Brown,Peter,E777,research,research,research,,False
+AMS,2020,Campbell,Harry,E778,research,research,research,,False
+AMS,2020,Chappell,Lucy,E779,research,research,research,,False
+AMS,2020,Clatworthy,Menna,E780,research,research,research,,False
+AMS,2020,Craddock,Charles,E781,research,research,research,,False
+AMS,2020,Cullen,Peter,E782,research,research,research,,False
+AMS,2020,Custovic,Adnan,E783,research,research,research,,False
+AMS,2020,De Coppi,Paolo,E784,research,research,research,,False
+AMS,2020,De Strooper,Bart,E785,research,research,research,,False
+AMS,2020,Elborn,Stuart,E786,non-research,non-research,non-research,,False
+AMS,2020,Firth,Helen,E787,research,research,research,,False
+AMS,2020,Fodor,Ervin,E788,research,research,research,,False
+AMS,2020,Ford,Tamsin,E789,research,research,research,,False
+AMS,2020,Friend,Peter,E790,research,research,research,,False
+AMS,2020,Gabbay,Felicity,E791,non-research,non-research,non-research,,False
+AMS,2020,Ghosh,Subrata,E792,research,research,research,,False
+AMS,2020,Gibb,Diana,E793,research,research,research,,False
+AMS,2020,Godfrey,Keith,E794,research,research,research,,False
+AMS,2020,Graham,Gerard,E795,research,research,research,,False
+AMS,2020,Hallett,Timothy,E796,research,research,research,,False
+AMS,2020,Hambleton,Sophie,E797,research,research,research,,False
+AMS,2020,Haniffa,Muzlifah,E798,research,research,research,,False
+AMS,2020,Highfield,Roger,E799,non-research,non-research,non-research,,False
+AMS,2020,Howes,Oliver,E800,research,research,research,,False
+AMS,2020,Kaleebu,Pontiano,E801,research,research,research,,False
+AMS,2020,Lenardo,Michael,E802,research,research,research,,False
+AMS,2020,Lloyd,Alison,E803,research,research,research,,False
+AMS,2020,MacArthur,Christine,E804,research,research,research,,False
+AMS,2020,Mallat,Ziad,E805,research,research,research,,False
+AMS,2020,Marín,Oscar,E806,research,research,research,,False
+AMS,2020,Modi,Neena,E807,research,research,research,,False
+AMS,2020,Morris,Emma,E808,research,research,research,,False
+AMS,2020,O'Donnell,Valerie,E809,research,research,research,,False
+AMS,2020,Raine,Rosalind,E810,research,research,research,,False
+AMS,2020,Rees,David,E811,research,research,research,,False
+AMS,2020,Reilly,Mary,E812,research,research,research,,False
+AMS,2020,Rosenfeld,Nitzan,E813,research,research,research,,False
+AMS,2020,Swartz,Jina,E814,non-research,research,research,research,True
+AMS,2020,Vallier,Ludovic,E815,research,research,research,,False
+AMS,2020,van Duijn,Cornelia,E816,research,research,research,,False
+AMS,2020,Waters,Andrew,E817,research,research,research,,False
+AMS,2020,Weiss,Helen,E818,research,research,research,,False
+AMS,2020,Willison,Hugh,E819,research,research,research,,False
+AMS,2020,Wood,Matthew,E820,research,research,research,,False
+AMS,2020,Zeggini,Eleftheria,E821,research,research,research,,False
+AMS,2021,Aigbirhio,Franklin,E822,research,research,research,,False
+AMS,2021,Bates,Steve,E823,non-research,non-research,non-research,,False
+AMS,2021,Blazeby,Jane,E824,research,research,research,,False
+AMS,2021,Boyd,Alan,E825,non-research,non-research,non-research,,False
+AMS,2021,Cipolotti,Lisa,E826,non-research,uncertain,research,research,True
+AMS,2021,Clifford,Steven,E827,research,research,research,,False
+AMS,2021,Cordell,Heather,E828,research,research,research,,False
+AMS,2021,Deeks,Jonathan,E829,research,research,research,,False
+AMS,2021,Dondorp,Adrianus,E830,research,research,research,,False
+AMS,2021,Doyle,Yvonne,E831,non-research,non-research,non-research,,False
+AMS,2021,Eley,Thalia,E832,research,research,research,,False
+AMS,2021,Giacca,Mauro,E833,research,research,research,,False
+AMS,2021,Gilbert,Ian,E834,research,research,research,,False
+AMS,2021,Gilbert,Sarah,E835,research,research,research,,False
+AMS,2021,Griffiths,Christopher,E836,research,research,research,,False
+AMS,2021,Gupta,Ravindra,E837,research,research,research,,False
+AMS,2021,Horby,Peter,E838,research,research,research,,False
+AMS,2021,Hunter,David,E839,research,research,research,,False
+AMS,2021,Huntly,Brian,E840,research,research,research,,False
+AMS,2021,Johansen-Berg,Heidi,E841,research,research,research,,False
+AMS,2021,Kampmann,Beate,E842,research,research,research,,False
+AMS,2021,Knight,Marian,E843,research,research,research,,False
+AMS,2021,Landray,Martin,E844,research,research,research,,False
+AMS,2021,Liston,Adrian,E845,research,research,research,,False
+AMS,2021,Lucas,Robert,E846,research,research,research,,False
+AMS,2021,McAuley,Daniel,E847,research,research,research,,False
+AMS,2021,McGready,Rose,E848,research,research,research,,False
+AMS,2021,Mills,Nicholas,E849,research,research,research,,False
+AMS,2021,Mohan,Madan Babu,E850,research,research,research,,False
+AMS,2021,Montgomery,Jonathan,E851,research,research,research,,False
+AMS,2021,Munroe,Patricia,E852,research,research,research,,False
+AMS,2021,Nguyen-Van-Tam,Jonathan,E853,research,research,research,,False
+AMS,2021,Ogg,Graham,E854,research,research,research,,False
+AMS,2021,Osbourn,Jane,E855,research,research,research,,False
+AMS,2021,Palmer,Tracy,E856,research,research,research,,False
+AMS,2021,Rutty,Guy,E857,research,research,research,,False
+AMS,2021,Sahai,Erik,E858,research,research,research,,False
+AMS,2021,Simon,Anna Katharina,E859,research,research,research,,False
+AMS,2021,Simons,Benjamin,E860,research,research,research,,False
+AMS,2021,Solomon,Tom,E861,research,research,research,,False
+AMS,2021,Sterne,Jonathan,E862,research,research,research,,False
+AMS,2021,Takats,Zoltan,E863,research,research,research,,False
+AMS,2021,Thornton,Steve,E864,research,research,research,,False
+AMS,2021,Turner,James,E865,research,research,research,,False
+AMS,2021,Turner,Nicholas,E866,research,research,research,,False
+AMS,2021,Uchegbu,Ijeoma,E867,research,research,research,,False
+AMS,2021,Veltman,Joris,E868,research,research,research,,False
+AMS,2021,Viding,Essi,E869,research,research,research,,False
+AMS,2021,Waddell,Scott,E870,research,research,research,,False
+AMS,2021,Williams,Bryan,E871,research,research,research,,False
+AMS,2022,Anderson,Graham,E872,research,research,research,,False
+AMS,2022,Baillie,Kenneth,E873,research,research,research,,False
+AMS,2022,Berger,Imre,E874,research,research,research,,False
+AMS,2022,Blackman,Michael,E875,research,research,research,,False
+AMS,2022,Blakemore,Sarah-Jayne,E876,research,research,research,,False
+AMS,2022,Brandner,Sebastian,E877,research,research,research,,False
+AMS,2022,Burton,Matthew,E878,research,research,research,,False
+AMS,2022,Chandran,Siddharthan,E879,research,research,research,,False
+AMS,2022,Chung,Chun-Wa,E880,research,research,research,,False
+AMS,2022,Costa,Matthew,E881,research,research,research,,False
+AMS,2022,Creswell,Cathy,E882,research,research,research,,False
+AMS,2022,Curtin,Nicola,E883,research,research,research,,False
+AMS,2022,Duff,Karen,E884,research,research,research,,False
+AMS,2022,Floto,Rodrigo,E885,research,research,research,,False
+AMS,2022,Gilbert,Fiona,E886,research,research,research,,False
+AMS,2022,Gordon,Anthony,E887,research,research,research,,False
+AMS,2022,Graham,Trevor,E888,research,research,research,,False
+AMS,2022,Grassly,Nicholas,E889,research,research,research,,False
+AMS,2022,Green,Jonathan,E890,research,research,research,,False
+AMS,2022,Guthrie,Bruce,E891,research,research,research,,False
+AMS,2022,Hajkova,Petra,E892,research,research,research,,False
+AMS,2022,Hanna,George,E893,research,research,research,,False
+AMS,2022,Harrison,Thomas,E894,research,research,research,,False
+AMS,2022,Helin,Kristian,E895,research,research,research,,False
+AMS,2022,Henderson,Neil,E896,research,research,research,,False
+AMS,2022,Heyderman,Robert,E897,research,research,research,,False
+AMS,2022,Illidge,Timothy,E898,research,research,research,,False
+AMS,2022,Janes,Samuel,E899,research,research,research,,False
+AMS,2022,Jones,David,E900,non-research,non-research,non-research,,False
+AMS,2022,Kalaria,Rajesh,E901,research,research,research,,False
+AMS,2022,Kleanthous,Colin,E902,research,research,research,,False
+AMS,2022,Lockhart,Stephen,E903,research,research,research,,False
+AMS,2022,Lyons,Ronan,E904,research,research,research,,False
+AMS,2022,MacLeod,Malcolm,E905,research,research,research,,False
+AMS,2022,Marioni,John,E906,research,research,research,,False
+AMS,2022,McIntosh,Andrew,E907,research,research,research,,False
+AMS,2022,McNeish,Iain,E908,research,research,research,,False
+AMS,2022,Minnis,Helen,E909,research,research,research,,False
+AMS,2022,Montgomery,Hugh,E910,research,research,research,,False
+AMS,2022,Nichols,Jennifer,E911,research,research,research,,False
+AMS,2022,Oreffo,Richard,E912,research,research,research,,False
+AMS,2022,Ozanne,Susan,E913,research,research,research,,False
+AMS,2022,Parkes,Miles,E914,research,research,research,,False
+AMS,2022,Patel,Dhavalkumar,E915,research,research,research,,False
+AMS,2022,Philpott,Anna,E916,research,research,research,,False
+AMS,2022,Poppy,Guy,E917,research,research,research,,False
+AMS,2022,Renfrew,Mary,E918,research,research,research,,False
+AMS,2022,Roberts,David,E919,research,uncertain,research,research,True
+AMS,2022,Sabin,Caroline,E920,research,research,research,,False
+AMS,2022,Savage,David,E921,research,research,research,,False
+AMS,2022,Scheres,Sjors,E922,research,research,research,,False
+AMS,2022,Sriskandan,Shiranee,E923,research,research,research,,False
+AMS,2022,Stonier,Peter,E924,non-research,non-research,non-research,,False
+AMS,2022,Sudlow,Catherine,E925,research,research,research,,False
+AMS,2022,Thomson,Nicholas,E926,research,research,research,,False
+AMS,2022,Tollervey,David,E927,research,research,research,,False
+AMS,2022,Treasure,Janet,E928,research,research,research,,False
+AMS,2022,Viner,Russell,E929,research,research,research,,False
+AMS,2022,Webster,Joanne,E930,research,research,research,,False
+AMS,2022,Zamoyska,Rose,E931,research,research,research,,False

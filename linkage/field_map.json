@@ -1,0 +1,495 @@
+{
+ "version": "1 (fixed 2026-10-12, before outcome linkage)",
+ "note": "Source-level rule: which Science-Metrix fields (or subfields) are compatible with a recognition from that source. 'any' = no field information (all-science bodies without sections). Sections map explicit section labels.",
+ "sources": {
+  "NAM": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "AMS": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "NIH_R01": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "MRC": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "Wellcome": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "CIHR": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "NHMRC": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "KAKEN": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry",
+    "Agriculture, Fisheries & Forestry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "ERC_LS": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry",
+    "Agriculture, Fisheries & Forestry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing",
+    "Ecology",
+    "Evolutionary Biology",
+    "Plant Biology & Botany"
+   ]
+  },
+  "NAS": "any",
+  "RoyalSociety": "any",
+  "TWAS": "any",
+  "Wikidata": "any",
+  "benchmark": "any"
+ },
+ "sections": {
+  "03. Medical & Health Sciences": {
+   "fields": [
+    "Clinical Medicine",
+    "Biomedical Research",
+    "Public Health & Health Services",
+    "Biology",
+    "Psychology & Cognitive Sciences",
+    "Chemistry"
+   ],
+   "subfields": [
+    "Biomedical Engineering",
+    "Medical Informatics",
+    "Bioinformatics",
+    "Nanoscience & Nanotechnology",
+    "Biotechnology",
+    "Statistics & Probability",
+    "Veterinary Sciences",
+    "Dairy & Animal Science",
+    "Food Science",
+    "Health Policy & Services",
+    "Demography",
+    "Economics",
+    "Sociology",
+    "Social Work",
+    "Epidemiology",
+    "Toxicology",
+    "Environmental & Occupational Health",
+    "Speech-Language Pathology & Audiology",
+    "Sport Sciences",
+    "Optics",
+    "Gerontology",
+    "Education",
+    "Environmental Sciences",
+    "Human Factors",
+    "Artificial Intelligence & Image Processing"
+   ]
+  },
+  "02. Biological Sciences": {
+   "fields": [
+    "Biology",
+    "Biomedical Research",
+    "Clinical Medicine",
+    "Agriculture, Fisheries & Forestry",
+    "Public Health & Health Services"
+   ],
+   "subfields": [
+    "Bioinformatics",
+    "Biotechnology"
+   ]
+  },
+  "04. Chemical Sciences": {
+   "fields": [
+    "Chemistry",
+    "Enabling & Strategic Technologies",
+    "Biomedical Research"
+   ],
+   "subfields": [
+    "Chemical Engineering",
+    "Materials",
+    "Pharmacology & Pharmacy",
+    "Medicinal & Biomolecular Chemistry"
+   ]
+  },
+  "09. Physics, Astronomy & Space Sciences": {
+   "fields": [
+    "Physics & Astronomy",
+    "Enabling & Strategic Technologies"
+   ],
+   "subfields": [
+    "Nuclear Medicine & Medical Imaging",
+    "Materials"
+   ]
+  },
+  "05. Engineering": {
+   "fields": [
+    "Engineering",
+    "Enabling & Strategic Technologies",
+    "Information & Communication Technologies",
+    "Built Environment & Design"
+   ],
+   "subfields": [
+    "Biomedical Engineering"
+   ]
+  },
+  "01. Agriculture, Nutrition & Food Systems Sciences": {
+   "fields": [
+    "Agriculture, Fisheries & Forestry",
+    "Biology"
+   ],
+   "subfields": [
+    "Nutrition & Dietetics",
+    "Food Science",
+    "Veterinary Sciences",
+    "Public Health"
+   ]
+  },
+  "07. Earth, Climate & Environmental Sciences": {
+   "fields": [
+    "Earth & Environmental Sciences",
+    "Agriculture, Fisheries & Forestry"
+   ],
+   "subfields": [
+    "Ecology",
+    "Environmental Engineering",
+    "Environmental & Occupational Health"
+   ]
+  },
+  "08. Mathematical Sciences": {
+   "fields": [
+    "Mathematics & Statistics",
+    "Information & Communication Technologies"
+   ],
+   "subfields": [
+    "Statistics & Probability",
+    "Applied Mathematics"
+   ]
+  },
+  "10. Economic & Social Sciences, Humanities & Arts": {
+   "fields": [
+    "Economics & Business",
+    "Social Sciences",
+    "Historical Studies",
+    "Philosophy & Theology",
+    "Communication & Textual Studies",
+    "Visual & Performing Arts",
+    "Psychology & Cognitive Sciences"
+   ],
+   "subfields": [
+    "Health Policy & Services",
+    "Public Health",
+    "Demography"
+   ]
+  },
+  "06. Information and Data Sciences & Technologies": {
+   "fields": [
+    "Information & Communication Technologies",
+    "Mathematics & Statistics",
+    "Engineering"
+   ],
+   "subfields": [
+    "Bioinformatics",
+    "Medical Informatics"
+   ]
+  }
+ }
+}
